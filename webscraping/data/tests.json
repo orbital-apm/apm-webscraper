@@ -1,0 +1,820 @@
+[
+    {
+        "name": "Gateron Dualrail Magnetic Jade Mini E",
+        "price": "$0.86",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Baby Kangaroo 2.0 Tactile",
+        "price": "$0.60",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "59g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron KS3 Milky Yellow Pro Linear",
+        "price": "$0.21",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "50g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Oil King",
+        "price": "$0.64",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "55g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko V3 Lavender Purple Pro Tactile",
+        "price": "$0.18",
+        "manufacturer": "Akko",
+        "switch_type": "Tactile",
+        "actuation_force": "55g",
+        "travel_distance": "3.8mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Ttc Bluish White Silent V2 Tactile",
+        "price": "$0.60",
+        "manufacturer": "Ttc",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "42g",
+        "travel_distance": "3.5mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Kailh BOX Deep Sea Pro Silent Tactile",
+        "price": "$0.75",
+        "manufacturer": "Kailh",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "60g",
+        "travel_distance": "3.6mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Geon Raptor HE",
+        "price": "$0.48",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Ktt Strawberry",
+        "price": "$0.29",
+        "manufacturer": "Ktt",
+        "switch_type": "Linear",
+        "actuation_force": "62g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko V3 Matcha Green Pro Linear",
+        "price": "$0.22",
+        "manufacturer": "Akko",
+        "switch_type": "Linear",
+        "actuation_force": "55g",
+        "travel_distance": "3.8mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko V3 Cream Yellow Pro Linear",
+        "price": "$0.20",
+        "manufacturer": "Akko",
+        "switch_type": "Linear",
+        "actuation_force": "50g",
+        "travel_distance": "3.3mm",
+        "vendors": [
+            "WhatGeek"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Quinn",
+        "price": "$0.49",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "59g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX Ergo Clear Tactile",
+        "price": "$0.55",
+        "manufacturer": "Cherry",
+        "switch_type": "Tactile",
+        "actuation_force": "40g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Baby Kangaroo",
+        "price": "$0.50",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "59g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "Nuphy"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Divinikey Wuque WS Light Tactile",
+        "price": "$0.39",
+        "manufacturer": "Divinikey",
+        "switch_type": "Tactile",
+        "actuation_force": "45g",
+        "travel_distance": "4mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Beer Tactile",
+        "price": "$0.46",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "2g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Mini i Tactile",
+        "price": "$0.60",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "50g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Geon Raptor MX Extreme",
+        "price": "$0.36",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "haimu HG Yellow Silent Tactile",
+        "price": "$0.32",
+        "manufacturer": "haimu",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "-",
+        "travel_distance": "4mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko V3 Silver Pro Linear",
+        "price": "$0.31",
+        "manufacturer": "Akko",
+        "switch_type": "Linear",
+        "actuation_force": "40g",
+        "travel_distance": "3.3mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko V3 Cream Blue Pro Tactile",
+        "price": "$0.36",
+        "manufacturer": "Akko",
+        "switch_type": "Tactile",
+        "actuation_force": "55g",
+        "travel_distance": "3.3mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko V3 Cream Black Pro Linear",
+        "price": "$0.25",
+        "manufacturer": "Akko",
+        "switch_type": "Linear",
+        "actuation_force": "55g",
+        "travel_distance": "3.3mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "HMX YG Macchiato Linear",
+        "price": "$0.35",
+        "manufacturer": "HMX",
+        "switch_type": "Linear",
+        "actuation_force": "42g",
+        "travel_distance": "4mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Lunar Probe Linear",
+        "price": "$0.42",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "45g",
+        "travel_distance": "3.6mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Leobog Graywood V3",
+        "price": "$0.26",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko CS Penguin Tactile",
+        "price": "$0.38",
+        "manufacturer": "Akko",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "43g",
+        "travel_distance": "3.3mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Zeal PC Aqua Zilent V2 Silent Tactile",
+        "price": "$1.40",
+        "manufacturer": "Zeal PC",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "67g",
+        "travel_distance": "-",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Divinikey Wuque WS Morandi Linear",
+        "price": "$0.43",
+        "manufacturer": "Divinikey",
+        "switch_type": "Linear",
+        "actuation_force": "-",
+        "travel_distance": "3.5mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Brown",
+        "price": "$0.20",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "55g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron MountainTop Linear",
+        "price": "$0.60",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "1.2g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Durock Shrimp Silent Tactile",
+        "price": "$0.55",
+        "manufacturer": "Durock",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "-",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Meow Key"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron CJ",
+        "price": "$0.58",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "50g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron KS20 DualRail Orange Linear Magnetic",
+        "price": "$0.76",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "30g",
+        "travel_distance": "4.1mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Divinikey Wuque WS Silent Linear",
+        "price": "$0.42",
+        "manufacturer": "Divinikey",
+        "switch_type": "Silent Linear",
+        "actuation_force": "-",
+        "travel_distance": "3.5mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Geon Raptor MX",
+        "price": "$0.48",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Ktt Matcha Tactile",
+        "price": "$0.46",
+        "manufacturer": "Ktt",
+        "switch_type": "Tactile",
+        "actuation_force": "45g",
+        "travel_distance": "2mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Wuque Studio Morandi Linear",
+        "price": "$0.43",
+        "manufacturer": "Wuque Studio",
+        "switch_type": "Linear",
+        "actuation_force": "50g",
+        "travel_distance": "3.5mm",
+        "vendors": [
+            "Dangkeebs"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Ink BOX V2 Black Linear",
+        "price": "$0.95",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "60g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Kailh BOX Ancient Grey Linear",
+        "price": "$0.50",
+        "manufacturer": "Kailh",
+        "switch_type": "Linear",
+        "actuation_force": "1.8g",
+        "travel_distance": "-",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Ttc Speed Silver V2 Linear",
+        "price": "$0.49",
+        "manufacturer": "Ttc",
+        "switch_type": "Linear",
+        "actuation_force": "45g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "Mechkeys"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Kailh Midnight Pro Silent Tactile",
+        "price": "$0.90",
+        "manufacturer": "Kailh",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "60g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Jwk Black T1 Tactile",
+        "price": "$0.23",
+        "manufacturer": "Jwk",
+        "switch_type": "Tactile",
+        "actuation_force": "-",
+        "travel_distance": "-",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Ktt Peach",
+        "price": "$0.25",
+        "manufacturer": "Ktt",
+        "switch_type": "Linear",
+        "actuation_force": "53g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Dangkeebs"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Jupiter Banana Tactile",
+        "price": "$0.28",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "59g",
+        "travel_distance": "3.4mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Kailh BOX Brown Tactile",
+        "price": "$0.35",
+        "manufacturer": "Kailh",
+        "switch_type": "Tactile",
+        "actuation_force": "50g",
+        "travel_distance": "-",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Ktt Wine Red",
+        "price": "$0.29",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Melodic",
+        "price": "$0.50",
+        "manufacturer": "Gateron",
+        "switch_type": "Clicky",
+        "actuation_force": "60g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX2A Brown Tactile",
+        "price": "$0.40",
+        "manufacturer": "Cherry",
+        "switch_type": "Tactile",
+        "actuation_force": "55g",
+        "travel_distance": "2mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Durock White Lotus",
+        "price": "$0.45",
+        "manufacturer": "Durock",
+        "switch_type": "Tactile",
+        "actuation_force": "46g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Dangkeebs"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Milky Yellow",
+        "price": "$0.20",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "56g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Dangkeebs"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX2A Speed Silver Linear",
+        "price": "$0.40",
+        "manufacturer": "Cherry",
+        "switch_type": "Linear",
+        "actuation_force": "45g",
+        "travel_distance": "1.2mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker Budgerigar",
+        "price": "$0.43",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Jwk Jwick Black Linear",
+        "price": "$0.21",
+        "manufacturer": "Jwk",
+        "switch_type": "Linear",
+        "actuation_force": "-",
+        "travel_distance": "-",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "43 Studio Jing Linear",
+        "price": "$0.35",
+        "manufacturer": "43 Studio",
+        "switch_type": "Linear",
+        "actuation_force": "52g",
+        "travel_distance": "3.7mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Durock Linear",
+        "price": "$0.50",
+        "manufacturer": "Durock",
+        "switch_type": "Linear",
+        "actuation_force": "67g",
+        "travel_distance": "4mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Kailh BOX Silent Brown Tactile",
+        "price": "$0.50",
+        "manufacturer": "Kailh",
+        "switch_type": "Silent Tactile",
+        "actuation_force": "1.8g",
+        "travel_distance": "-",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron EF Grayish Tactile",
+        "price": "$0.28",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "-",
+        "travel_distance": "3.4mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Milky Yellow Cap V2 Linear",
+        "price": "$0.26",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "-",
+        "travel_distance": "2mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron KS9 3.0 Brown Tactile",
+        "price": "$0.32",
+        "manufacturer": "Gateron",
+        "switch_type": "Tactile",
+        "actuation_force": "55g",
+        "travel_distance": "4mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Jwk Jwick Ice White Linear",
+        "price": "$0.21",
+        "manufacturer": "Jwk",
+        "switch_type": "Linear",
+        "actuation_force": "-",
+        "travel_distance": "-",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX2A Red Linear",
+        "price": "$0.40",
+        "manufacturer": "Cherry",
+        "switch_type": "Linear",
+        "actuation_force": "45g",
+        "travel_distance": "2mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Nuphy Cowberry Low Profile",
+        "price": "$0.38",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX Brown Tactile",
+        "price": "$0.40",
+        "manufacturer": "Cherry",
+        "switch_type": "Tactile",
+        "actuation_force": "50g",
+        "travel_distance": "-",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Gateron Smoothie Linear",
+        "price": "$0.24",
+        "manufacturer": "Gateron",
+        "switch_type": "Linear",
+        "actuation_force": "40g",
+        "travel_distance": "3.6mm",
+        "vendors": [
+            "Divinikey"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "HMX EVA Linear",
+        "price": "$0.35",
+        "manufacturer": "HMX",
+        "switch_type": "Linear",
+        "actuation_force": "42g",
+        "travel_distance": "3.6mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Dangkeebs DK Creamery Red Velvet",
+        "price": "$0.45",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX2A Silent Red Linear",
+        "price": "$0.40",
+        "manufacturer": "Cherry",
+        "switch_type": "Silent Linear",
+        "actuation_force": "45g",
+        "travel_distance": "1.9mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Kailh BOX V2 White Clicky",
+        "price": "$0.30",
+        "manufacturer": "Kailh",
+        "switch_type": "Clicky",
+        "actuation_force": "45g",
+        "travel_distance": "3.6mm",
+        "vendors": [
+            "MK"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Tecsee Coral Tactile",
+        "price": "$0.45",
+        "manufacturer": "Tecsee",
+        "switch_type": "Tactile",
+        "actuation_force": "55g",
+        "travel_distance": "3mm",
+        "vendors": [
+            "Amazon"
+        ],
+        "availability": "In stock"
+    },
+    {
+        "name": "Cherry MX2A Purple Tactile",
+        "price": "$0.40",
+        "manufacturer": "Cherry",
+        "switch_type": "Tactile",
+        "actuation_force": "45g",
+        "travel_distance": "4mm",
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Nuphy Mint",
+        "price": "$0.35",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    },
+    {
+        "name": "Yunzii Cream",
+        "price": "$2.20",
+        "manufacturer": null,
+        "switch_type": null,
+        "actuation_force": null,
+        "travel_distance": null,
+        "vendors": [],
+        "availability": "In stock"
+    }
+]
