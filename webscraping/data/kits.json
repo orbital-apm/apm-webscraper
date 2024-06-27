@@ -1,0 +1,1370 @@
+[
+    {
+        "name": "Feker Alice98",
+        "price": "$99",
+        "manufacturer": "Feker",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Skyloong GK75",
+        "price": "$59",
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M1W",
+        "price": "$135",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker EK68",
+        "price": "$75",
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Cidoo V75 Plus",
+        "price": "$129",
+        "manufacturer": "Cidoo",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "ZUOYA GMK87 Supported Gasket DIY",
+        "price": "$78",
+        "manufacturer": "ZUOYA",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Fantech MAXFIT81 MK910 Barebone DIY O",
+        "price": "$88",
+        "manufacturer": "Fantech",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Bluetooth, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Feker Alice80",
+        "price": "$87",
+        "manufacturer": "Feker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M1",
+        "price": "$98",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron V6 Max",
+        "price": "$84",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "100%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wireless, Bluetooth, 2.4 GHz",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Leobog K81 Pro",
+        "price": "$39",
+        "manufacturer": "Leobog",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M2 1800",
+        "price": "$107",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Bluetooth, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron V1",
+        "price": "$48",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "JIS, ISO ES, ISO UK, ISO DE, ISO FR, ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mxrskey CK820 Pro",
+        "price": "$199",
+        "manufacturer": "Mxrskey",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M3",
+        "price": "$106",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Bluetooth, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M5",
+        "price": "$120",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "100%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Bluetooth, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "MMkeyboard Class80R2",
+        "price": "$305",
+        "manufacturer": "MMkeyboard",
+        "vendor": [
+            "MMkeyboard"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "KBDFans TOFU60 2.0",
+        "price": "$152",
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI, ISO Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "WhatGeek Galaxy80 Aluminum DIY",
+        "price": "$59",
+        "manufacturer": "WhatGeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "KBDFans TOFU65 2.0",
+        "price": "$166",
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker Aura75",
+        "price": "$65",
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Jamesdonkey A3",
+        "price": "$69",
+        "manufacturer": "Jamesdonkey",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker EK75",
+        "price": "$89",
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron V6",
+        "price": "$69",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "100%",
+        "layout_standard": "JIS, ISO ES, ISO UK, ISO DE, ISO FR, ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Cidoo Nebula",
+        "price": "$54",
+        "manufacturer": "Cidoo",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monka Alice67 Pro Aluminum CNC DIY",
+        "price": "$95",
+        "manufacturer": "Monka",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Skyloong GK75 TripleMode",
+        "price": "$89",
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "ACGAM FancyAlice66 Selfassembly DIY",
+        "price": "$99",
+        "manufacturer": "ACGAM",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron Q4 Pro",
+        "price": "$132",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wireless, Wired, Bluetooth",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron Q0 Plus Numpad",
+        "price": "$99",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "GamaKay SN75",
+        "price": "$49",
+        "manufacturer": "GamaKay",
+        "vendor": [
+            "GamaKay"
+        ],
+        "layout_size": "70%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Kiiboom Moonshadow 81",
+        "price": "$199",
+        "manufacturer": "Kiiboom",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker TH80 Pro",
+        "price": "$52",
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker Alice DIY",
+        "price": "$75",
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Leobog Hi75",
+        "price": "$69",
+        "manufacturer": "Leobog",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Epomaker TH66 Pro",
+        "price": "$69",
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron Q8",
+        "price": "$124",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Amazon"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "JIS, ISO ES, ISO UK, ISO DE, ISO FR, ISO, ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mxrskey CK650",
+        "price": "$169",
+        "manufacturer": "Mxrskey",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Skyloong GK980 TripleMode",
+        "price": "$79",
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "98%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards Lily58",
+        "price": "$45",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, Wireless",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Fancy V81 Plus Aluminium Alloy",
+        "price": "$149",
+        "manufacturer": "Fancy",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron Q5",
+        "price": "$140",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI, JIS, ISO ES, ISO UK, ISO DE, ISO FR, ISO Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards NIBBLE",
+        "price": "$75",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron Q3",
+        "price": "$115",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI, JIS, ISO ES, ISO UK, ISO DE, ISO FR, ISO Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron V5",
+        "price": "$69",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ISO ES, ISO UK, ISO DE, ISO FR, ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "ZUOYA GMK67 Gasket Triplemode DIY",
+        "price": "$65",
+        "manufacturer": "ZUOYA",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keydous NJ98",
+        "price": "$109",
+        "manufacturer": "Keydous",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "95%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired, 2.4 GHz, Wireless",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Fancy Alice66",
+        "price": "$89",
+        "manufacturer": "Fancy",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monka 6067 Aluminum DIY",
+        "price": "$69",
+        "manufacturer": "Monka",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Leobog Hi8 Aluminum",
+        "price": "$89",
+        "manufacturer": "Leobog",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Feker IK75 Pro 3 Mode DIY",
+        "price": "$58",
+        "manufacturer": "Feker",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Reccazr KW75",
+        "price": "$63",
+        "manufacturer": "Reccazr",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "HIBI JUNE R2",
+        "price": "$114",
+        "manufacturer": "HIBI",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards Sofle",
+        "price": "$68",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monka Alice67 Pro Aluminium Alloy",
+        "price": "$89",
+        "manufacturer": "Monka",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monka 6102 Aluminum DIY FR4 Position Plate",
+        "price": "$118",
+        "manufacturer": "Monka",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "100%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wireless",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Dukharo VN96",
+        "price": "$115",
+        "manufacturer": "Dukharo",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monka 6075 Pro Aluminum",
+        "price": "$75",
+        "manufacturer": "Monka",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards Reverb",
+        "price": "$70",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Womier G75",
+        "price": "$62",
+        "manufacturer": "Womier",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "KBDFans Odin75",
+        "price": "$375",
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards Corne Helidox",
+        "price": "$90",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, Wireless",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron V10 Max",
+        "price": "$67",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wireless, Bluetooth, 2.4 GHz",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Akko ACR Pro68",
+        "price": "$104",
+        "manufacturer": "Akko",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Gopolar GG75",
+        "price": "$89",
+        "manufacturer": "Gopolar",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Keychron Q1",
+        "price": "$149",
+        "manufacturer": "Keychron",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "JIS, ISO ES, ISO UK, ISO DE, ISO FR, ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards Discipline V1",
+        "price": "$45",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO, ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M2 Gasket DIY",
+        "price": "$149",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "HIBI JUNE",
+        "price": "$114",
+        "manufacturer": "HIBI",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "ZUOYA LMK67 Triplemode Gasket DIY",
+        "price": "$142",
+        "manufacturer": "ZUOYA",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Bluetooth, 2.4 GHz, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Mechboards Iris",
+        "price": "$129",
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "availability": "In stock"
+    },
+    {
+        "name": "Monsgeek M6 Alice",
+        "price": "$106",
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI Layout",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired, Bluetooth, Wireless",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "availability": "In stock"
+    }
+]
