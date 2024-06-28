@@ -18,9 +18,9 @@ with sync_playwright() as p:
     articles = len(listings_page.query_selector_all("article"))
     pages = int(listings_page.query_selector("body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                     div.MuiBox-root.mui-0 > nav > ul > li:nth-child(8) > a").inner_text()) # type: ignore
-    for pagination in range(1, 4, 1):
+    for pagination in range(1, 20, 1):
         listings_page.goto(f"https://keeb-finder.com/switches?page={pagination}")
-        listings_page.screenshot(path="example.png", full_page=True)
+        listings_page.screenshot(path="example_switches.png", full_page=True)
         for article in range(1, articles + 1, 1):
             name = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                                 div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > \
@@ -43,7 +43,7 @@ with sync_playwright() as p:
                 availability = "In stock"
         
             details.goto(f"https://keeb-finder.com{link}")
-            details.screenshot(path="example.png")
+            details.screenshot(path="example_switches.png", full_page=True)
             
             vendors = []
 
