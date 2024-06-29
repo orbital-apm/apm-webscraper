@@ -36,11 +36,12 @@ with sync_playwright() as p:
                                                 div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > a').get_attribute('href') # type: ignore
 
             try:
-                availability = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
+                stock = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
                                                     div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > div.absolute.inset-0.bg-black.bg-opacity-30.z-10.pointer-events-none > div > div').inner_text() # type: ignore      
-    
+                availability = False
+
             except AttributeError:
-                availability = "In stock"
+                availability = True    
         
             details.goto(f"https://keeb-finder.com{link}")
             details.screenshot(path="example_switches.png", full_page=True)
@@ -62,12 +63,18 @@ with sync_playwright() as p:
             try:    
                 actuation_force = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
                                                          div:nth-child(1) > div:nth-child(2) > div:nth-child(4) > div.flex > div').inner_text() # type: ignore
+                if actuation_force == "-":
+                    actuation_force = None
+                
             except AttributeError:
                 actuation_force = None
 
             try:    
                 travel_distance = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
                                                          div:nth-child(1) > div:nth-child(2) > div:nth-child(6) > div.flex > div').inner_text() # type: ignore
+                if travel_distance == "-":
+                    travel_distance = None
+
             except AttributeError:
                 travel_distance = None
 
@@ -84,7 +91,8 @@ with sync_playwright() as p:
                 "switch_type": switch_type,
                 "actuation_force": actuation_force,
                 "travel_distance": travel_distance,
-                "vendors": vendors,
+                "vendor": vendors,
+                "img_url": None,
                 "availability": availability
             })
 
@@ -94,3 +102,5 @@ with sync_playwright() as p:
 
     with open('webscraping/data/switches.json', 'w') as f:
             json.dump(data, f, indent=4)
+
+print("Data extraction for switches completed successfully.")
