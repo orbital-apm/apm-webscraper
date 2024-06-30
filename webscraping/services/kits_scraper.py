@@ -18,7 +18,7 @@ with sync_playwright() as p:
     articles = len(listings_page.query_selector_all("article"))
     pages = int(listings_page.query_selector("body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                     div.MuiBox-root.mui-0 > nav > ul > li:nth-child(8) > a").inner_text()) # type: ignore
-    for pagination in range(1, 20, 1):
+    for pagination in range(1, pages, 1):
         listings_page.goto(f"https://keeb-finder.com/keyboards?ms_type=Keyboard+Kit&page={pagination}")
         listings_page.screenshot(path="example_kits.png", full_page=True)
         for article in range(1, articles + 1, 1):
@@ -119,7 +119,7 @@ with sync_playwright() as p:
 
             try:
                 display_icon = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
-                                                      div:nth-child(1) > div:nth-child(2) > div:nth-child(9) > div.flex > div.text-primary-400 > svg').get_attribute('data-testid') # type: ignore
+                                                      div:nth-child(1) > div:nth-child(2) > div:nth-child(9) > div.flex > div.text-primary-400 > svg').get_attribute('data-testid')  # type: ignore
                 if display_icon == "CheckIcon":
                     display_support = True
                 else:
@@ -129,16 +129,16 @@ with sync_playwright() as p:
 
             try:
                 connection = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
-                                                    div:nth-child(1) > div:nth-child(2) > div:nth-child(10) > div.flex > div').inner_text() # type: ignore
+                                                    div:nth-child(1) > div:nth-child(2) > div:nth-child(10) > div.flex > div').inner_text()  # type: ignore
                 if "," in connection:
                     connection = connection.split(', ')
-            
+
             except AttributeError:
                 connection = None
-            
+
             try:
                 mount_style = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
-                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(13) > div.flex > div').inner_text() # type: ignore
+                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(13) > div.flex > div').inner_text()  # type: ignore
             except AttributeError:
                 mount_style = None
 
@@ -153,10 +153,9 @@ with sync_playwright() as p:
             for i in vendors_data:
                 vendors.append(i.get_attribute("alt"))
 
-
             data.append({
                 "name": name,
-                "price": price,
+                "price": float(price[1:]),
                 "manufacturer": manufacturer,
                 "vendor": vendors,
                 "layout_size": layout_size,
@@ -177,7 +176,7 @@ with sync_playwright() as p:
     browser.close()
 
     with open('webscraping/data/kits.json', 'w') as f:
-            json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4)
 
 print("Data extraction for keyboard kits completed successfully.")
 

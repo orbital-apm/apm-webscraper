@@ -13,7 +13,7 @@ with sync_playwright() as p:
     listings_page = context.new_page()
     details = context.new_page()
     listings_page.goto(KEYCAP_LISTINGS_URL)
-    
+
     data = []
     articles = len(listings_page.query_selector_all("article"))
     pages = int(listings_page.query_selector("body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
@@ -42,20 +42,20 @@ with sync_playwright() as p:
 
             except AttributeError:
                 availability = True
-        
+
             details.goto(f"https://keeb-finder.com{link}")
             details.screenshot(path="example_keycaps.png")
-            
+
             vendors = []
             colors = []
-            
+
             try:
                 manufacturer = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
                                                       div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div.flex > div').inner_text() # type: ignore
             except AttributeError:
                 manufacturer = None
 
-            try:    
+            try:   
                 layout = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
                                                 div:nth-child(1) > div:nth-child(2) > div:nth-child(4) > div.flex > div').inner_text() # type: ignore
                 if "," in layout:
@@ -77,14 +77,13 @@ with sync_playwright() as p:
                 profile = None
 
             vendors_data = details.query_selector_all('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.order-2.md\:order-3.mt-2 > div.bg-gray-50.dark\:bg-gray-700.mt-4.rounded-lg.shadow-md.border.border-gray-200.dark\:border-gray-800 > table > tbody > tr:nth-child(2) > td.flex.items-center.p-2 > div > img')
-            
+
             for i in vendors_data:
                 vendors.append(i.get_attribute("alt"))
 
-
             data.append({
                 "name": name,
-                "price": price,
+                "price": float(price[1:]),
                 "manufacturer": manufacturer,
                 "vendor": vendors,
                 "colors": colors,
@@ -99,6 +98,6 @@ with sync_playwright() as p:
     browser.close()
 
     with open('webscraping/data/keycaps.json', 'w') as f:
-            json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4)
 
 print("Data extraction for keycaps completed successfully.")

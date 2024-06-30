@@ -86,7 +86,7 @@ with sync_playwright() as p:
 
             data.append({
                 "name": name,
-                "price": price,
+                "price": float(price[1:]),
                 "manufacturer": manufacturer,
                 "switch_type": switch_type,
                 "actuation_force": actuation_force,
@@ -95,7 +95,6 @@ with sync_playwright() as p:
                 "img_url": None,
                 "availability": availability
             })
-
 
     context.close()
     browser.close()

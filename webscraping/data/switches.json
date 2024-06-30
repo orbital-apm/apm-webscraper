@@ -1,7 +1,7 @@
 [
     {
         "name": "Gateron Baby Kangaroo 2.0 Tactile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "59g",
@@ -14,7 +14,7 @@
     },
     {
         "name": "Ttc Bluish White Silent V2 Tactile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Ttc",
         "switch_type": "Silent Tactile",
         "actuation_force": "42g",
@@ -27,7 +27,7 @@
     },
     {
         "name": "Kailh BOX Deep Sea Pro Silent Tactile",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Kailh",
         "switch_type": "Silent Tactile",
         "actuation_force": "60g",
@@ -40,7 +40,7 @@
     },
     {
         "name": "Geon Raptor HE",
-        "price": "$0.48",
+        "price": 0.48,
         "manufacturer": "Geon",
         "switch_type": null,
         "actuation_force": "42g",
@@ -51,7 +51,7 @@
     },
     {
         "name": "Ktt Strawberry",
-        "price": "$0.29",
+        "price": 0.29,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "62g",
@@ -64,7 +64,7 @@
     },
     {
         "name": "Akko V3 Matcha Green Pro Linear",
-        "price": "$0.22",
+        "price": 0.22,
         "manufacturer": "Akko",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -75,7 +75,7 @@
     },
     {
         "name": "Akko V3 Cream Yellow Pro Linear",
-        "price": "$0.20",
+        "price": 0.2,
         "manufacturer": "Akko",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -88,7 +88,7 @@
     },
     {
         "name": "Cherry MX Ergo Clear Tactile",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Cherry",
         "switch_type": "Tactile",
         "actuation_force": "40g",
@@ -101,7 +101,7 @@
     },
     {
         "name": "Divinikey Wuque WS Light Tactile",
-        "price": "$0.39",
+        "price": 0.39,
         "manufacturer": "Divinikey",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -112,7 +112,7 @@
     },
     {
         "name": "Gateron Beer Tactile",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "2g",
@@ -125,7 +125,7 @@
     },
     {
         "name": "Gateron Mini i Tactile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -138,7 +138,7 @@
     },
     {
         "name": "Geon Raptor MX Extreme",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Geon",
         "switch_type": null,
         "actuation_force": "45g",
@@ -149,7 +149,7 @@
     },
     {
         "name": "haimu HG Yellow Silent Tactile",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "haimu",
         "switch_type": "Silent Tactile",
         "actuation_force": null,
@@ -160,7 +160,7 @@
     },
     {
         "name": "Akko V3 Silver Pro Linear",
-        "price": "$0.31",
+        "price": 0.31,
         "manufacturer": "Akko",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -171,7 +171,7 @@
     },
     {
         "name": "Akko V3 Cream Blue Pro Tactile",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Akko",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -184,7 +184,7 @@
     },
     {
         "name": "Akko V3 Cream Black Pro Linear",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Akko",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -195,7 +195,7 @@
     },
     {
         "name": "HMX YG Macchiato Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "HMX",
         "switch_type": "Linear",
         "actuation_force": "42g",
@@ -206,7 +206,7 @@
     },
     {
         "name": "Leobog Graywood V3",
-        "price": "$0.26",
+        "price": 0.26,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "30g",
@@ -219,7 +219,7 @@
     },
     {
         "name": "Gateron Lunar Probe Linear",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -232,7 +232,7 @@
     },
     {
         "name": "Akko CS Penguin Tactile",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "Akko",
         "switch_type": "Silent Tactile",
         "actuation_force": "43g",
@@ -245,7 +245,7 @@
     },
     {
         "name": "Zeal PC Aqua Zilent V2 Silent Tactile",
-        "price": "$1.40",
+        "price": 1.4,
         "manufacturer": "Zeal PC",
         "switch_type": "Silent Tactile",
         "actuation_force": "67g",
@@ -258,7 +258,7 @@
     },
     {
         "name": "Divinikey Wuque WS Morandi Linear",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Divinikey",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -269,7 +269,7 @@
     },
     {
         "name": "Gateron Brown",
-        "price": "$0.20",
+        "price": 0.2,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -282,7 +282,7 @@
     },
     {
         "name": "Gateron Melodic",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Gateron",
         "switch_type": "Clicky",
         "actuation_force": "60g",
@@ -295,7 +295,7 @@
     },
     {
         "name": "Gateron MountainTop Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "1.2g",
@@ -308,7 +308,7 @@
     },
     {
         "name": "Gateron Jupiter Banana Tactile",
-        "price": "$0.28",
+        "price": 0.28,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "59g",
@@ -321,7 +321,7 @@
     },
     {
         "name": "Divinikey Wuque WS Silent Linear",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "Divinikey",
         "switch_type": "Silent Linear",
         "actuation_force": null,
@@ -334,7 +334,7 @@
     },
     {
         "name": "Durock Shrimp Silent Tactile",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Durock",
         "switch_type": "Silent Tactile",
         "actuation_force": null,
@@ -345,7 +345,7 @@
     },
     {
         "name": "Geon Raptor MX",
-        "price": "$0.48",
+        "price": 0.48,
         "manufacturer": "Geon",
         "switch_type": null,
         "actuation_force": "42g",
@@ -356,7 +356,7 @@
     },
     {
         "name": "Gateron KS20 DualRail Orange Linear Magnetic",
-        "price": "$0.76",
+        "price": 0.76,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "30g",
@@ -369,7 +369,7 @@
     },
     {
         "name": "Ktt Matcha Tactile",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Ktt",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -382,7 +382,7 @@
     },
     {
         "name": "Wuque Studio Morandi Linear",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -395,7 +395,7 @@
     },
     {
         "name": "Kailh BOX Ancient Grey Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "1.8g",
@@ -408,7 +408,7 @@
     },
     {
         "name": "Gateron Ink BOX V2 Black Linear",
-        "price": "$0.95",
+        "price": 0.95,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -421,7 +421,7 @@
     },
     {
         "name": "Kailh Midnight Pro Silent Tactile",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Kailh",
         "switch_type": "Silent Tactile",
         "actuation_force": "60g",
@@ -434,7 +434,7 @@
     },
     {
         "name": "Jwk Black T1 Tactile",
-        "price": "$0.23",
+        "price": 0.23,
         "manufacturer": "Jwk",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -445,7 +445,7 @@
     },
     {
         "name": "Kailh BOX Brown Tactile",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -458,7 +458,7 @@
     },
     {
         "name": "Ktt Wine Red",
-        "price": "$0.29",
+        "price": 0.29,
         "manufacturer": "Ktt",
         "switch_type": null,
         "actuation_force": "43g",
@@ -471,7 +471,7 @@
     },
     {
         "name": "Cherry MX2A Brown Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -484,7 +484,7 @@
     },
     {
         "name": "Durock White Lotus",
-        "price": "$0.56",
+        "price": 0.56,
         "manufacturer": "Durock",
         "switch_type": "Tactile",
         "actuation_force": "46g",
@@ -497,7 +497,7 @@
     },
     {
         "name": "Cherry MX2A Speed Silver Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -510,7 +510,7 @@
     },
     {
         "name": "Epomaker Budgerigar",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "47g",
@@ -523,7 +523,7 @@
     },
     {
         "name": "43 Studio Jing Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "43 Studio",
         "switch_type": "Linear",
         "actuation_force": "52g",
@@ -534,7 +534,7 @@
     },
     {
         "name": "Gateron EF Grayish Tactile",
-        "price": "$0.28",
+        "price": 0.28,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -545,7 +545,7 @@
     },
     {
         "name": "Kailh BOX Silent Brown Tactile",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Silent Tactile",
         "actuation_force": "1.8g",
@@ -558,7 +558,7 @@
     },
     {
         "name": "Cherry MX2A Silent Red Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Silent Linear",
         "actuation_force": "45g",
@@ -571,7 +571,7 @@
     },
     {
         "name": "Gateron KS9 3.0 Brown Tactile",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -582,7 +582,7 @@
     },
     {
         "name": "Cherry MX2A Red Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -595,7 +595,7 @@
     },
     {
         "name": "Kailh BOX V2 White Clicky",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "45g",
@@ -608,7 +608,7 @@
     },
     {
         "name": "Cherry MX Brown Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -621,7 +621,7 @@
     },
     {
         "name": "Nuphy Cowberry Low Profile",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -634,7 +634,7 @@
     },
     {
         "name": "Dangkeebs DK Creamery Red Velvet",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -645,7 +645,7 @@
     },
     {
         "name": "Akko V3 Lavender Purple Pro Tactile",
-        "price": "$0.22",
+        "price": 0.22,
         "manufacturer": "Akko",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -658,7 +658,7 @@
     },
     {
         "name": "Cherry MX2A Purple Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -671,7 +671,7 @@
     },
     {
         "name": "Tecsee Coral Tactile",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Tecsee",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -684,7 +684,7 @@
     },
     {
         "name": "Neo White Linear",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Neo",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -695,7 +695,7 @@
     },
     {
         "name": "Nuphy Mint",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -708,7 +708,7 @@
     },
     {
         "name": "Cherry MX2A Blue Clicky",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Clicky",
         "actuation_force": "60g",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Yunzii Cream",
-        "price": "$2.20",
+        "price": 2.2,
         "manufacturer": "Yunzii",
         "switch_type": null,
         "actuation_force": "45g",
@@ -734,7 +734,7 @@
     },
     {
         "name": "Leobog Icesoul",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "30g",
@@ -747,7 +747,7 @@
     },
     {
         "name": "Kailh Speed Copper Tactile",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -760,7 +760,7 @@
     },
     {
         "name": "Leobog Nimbus V3",
-        "price": "$0.37",
+        "price": 0.37,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "34g",
@@ -773,7 +773,7 @@
     },
     {
         "name": "Gateron Milky Clear",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "35g",
@@ -786,7 +786,7 @@
     },
     {
         "name": "Gateron SW Modern Gray Linear",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -797,7 +797,7 @@
     },
     {
         "name": "Cherry MX Blue Clicky",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -810,7 +810,7 @@
     },
     {
         "name": "Divinikey Wuque WS Yellow Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Divinikey",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -821,7 +821,7 @@
     },
     {
         "name": "Nuphy Moss Low Profile",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -834,7 +834,7 @@
     },
     {
         "name": "Jwk Bluey Linear",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Jwk",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -845,7 +845,7 @@
     },
     {
         "name": "Kailh BOX V2 Brown Tactile",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -858,7 +858,7 @@
     },
     {
         "name": "Wuque Studio Grey Silent Tactile",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "Wuque Studio",
         "switch_type": "Silent Tactile",
         "actuation_force": "50g",
@@ -871,7 +871,7 @@
     },
     {
         "name": "Sarokeys Strawberry Wine V2 Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Sarokeys",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -882,7 +882,7 @@
     },
     {
         "name": "Ktt Kang White V3",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Ktt",
         "switch_type": null,
         "actuation_force": null,
@@ -893,7 +893,7 @@
     },
     {
         "name": "Gateron Ink Blue V2 Clicky",
-        "price": "$1.20",
+        "price": 1.2,
         "manufacturer": "Gateron",
         "switch_type": "Clicky",
         "actuation_force": "70g",
@@ -906,7 +906,7 @@
     },
     {
         "name": "Tecsee Lake Blue",
-        "price": "$0.56",
+        "price": 0.56,
         "manufacturer": "Tecsee",
         "switch_type": null,
         "actuation_force": "50g",
@@ -917,7 +917,7 @@
     },
     {
         "name": "Nuphy Wisteria Low Profile",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -930,7 +930,7 @@
     },
     {
         "name": "Zeal PC Clickiez Convertible Tactile / Clicky / Linear",
-        "price": "$1.50",
+        "price": 1.5,
         "manufacturer": "Zeal PC",
         "switch_type": "Linear",
         "actuation_force": "32g",
@@ -943,7 +943,7 @@
     },
     {
         "name": "Gateron Cap V2 Milky Yellow Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -956,7 +956,7 @@
     },
     {
         "name": "MK Holy Llama Tactile Frozen Llama Series",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "MK",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -969,7 +969,7 @@
     },
     {
         "name": "Gateron Baby Raccoon 2.0 Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -982,7 +982,7 @@
     },
     {
         "name": "Gateron CJ Light Blue Linear Un",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -995,7 +995,7 @@
     },
     {
         "name": "Cherry MX Red Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -1008,7 +1008,7 @@
     },
     {
         "name": "Cherry MX Green Clicky",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Clicky",
         "actuation_force": "80g",
@@ -1021,7 +1021,7 @@
     },
     {
         "name": "Leobog Graywood V4 Linear",
-        "price": "$0.20",
+        "price": 0.2,
         "manufacturer": "Leobog",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -1034,7 +1034,7 @@
     },
     {
         "name": "Epomaker Comte Semisilent",
-        "price": "$0.72",
+        "price": 0.72,
         "manufacturer": "Epomaker",
         "switch_type": "Silent Linear",
         "actuation_force": "38g",
@@ -1047,7 +1047,7 @@
     },
     {
         "name": "Leobog Kayking",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "35g",
@@ -1060,7 +1060,7 @@
     },
     {
         "name": "zFrontier Ram Rem Silent Ver.",
-        "price": "$0.51",
+        "price": 0.51,
         "manufacturer": "zFrontier",
         "switch_type": "Silent Linear",
         "actuation_force": "48g",
@@ -1073,7 +1073,7 @@
     },
     {
         "name": "Wuque Studio Brown Tactile",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Wuque Studio",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -1086,7 +1086,7 @@
     },
     {
         "name": "Dangkeebs DK Roastery Iced Latte",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -1097,7 +1097,7 @@
     },
     {
         "name": "Durock Blue Lotus",
-        "price": "$0.56",
+        "price": 0.56,
         "manufacturer": "Durock",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -1110,7 +1110,7 @@
     },
     {
         "name": "Kailh BOX Jade Clicky",
-        "price": "$0.51",
+        "price": 0.51,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -1123,7 +1123,7 @@
     },
     {
         "name": "Leobog Standard Brown",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "26g",
@@ -1136,7 +1136,7 @@
     },
     {
         "name": "Ttc Gold Pink Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -1149,7 +1149,7 @@
     },
     {
         "name": "Cherry MX Clear Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Tactile",
         "actuation_force": "65g",
@@ -1162,7 +1162,7 @@
     },
     {
         "name": "Ttc Low Profile Brown Tactile",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Ttc",
         "switch_type": "Tactile",
         "actuation_force": "1.3g",
@@ -1175,7 +1175,7 @@
     },
     {
         "name": "Kailh Choc Round Blue Low Profile Clicky",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "55g",
@@ -1188,7 +1188,7 @@
     },
     {
         "name": "Durock Piano Linear",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "Ktt Vanilla Ice Cream Linear",
-        "price": "$0.49",
+        "price": 0.49,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "43g",
@@ -1214,7 +1214,7 @@
     },
     {
         "name": "Meletrix Akuamarin Linear",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Meletrix",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -1227,7 +1227,7 @@
     },
     {
         "name": "Gateron Yellow Pro Linear",
-        "price": "$0.23",
+        "price": 0.23,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -1238,7 +1238,7 @@
     },
     {
         "name": "Dangkeebs DK Creamery Blueberry Swirl",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -1249,7 +1249,7 @@
     },
     {
         "name": "Divinikey Wuque WS Brown Tactile",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Divinikey",
         "switch_type": "Tactile",
         "actuation_force": "63g",
@@ -1260,7 +1260,7 @@
     },
     {
         "name": "Gateron KS33 Low Profile Chocolate 2.0 Tactile",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "Kailh BOX White Clicky",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -1286,7 +1286,7 @@
     },
     {
         "name": "Akko Cream Blue Pro",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Akko",
         "switch_type": null,
         "actuation_force": null,
@@ -1297,7 +1297,7 @@
     },
     {
         "name": "Dangkeebs Safety",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": "52g",
@@ -1308,7 +1308,7 @@
     },
     {
         "name": "Kailh BOX Deep Sea Silent Linear",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Kailh",
         "switch_type": "Silent Linear",
         "actuation_force": "1.8g",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Ktt Carpinteria",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Ktt",
         "switch_type": null,
         "actuation_force": null,
@@ -1332,7 +1332,7 @@
     },
     {
         "name": "Kailh Brown",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "50g",
@@ -1345,7 +1345,7 @@
     },
     {
         "name": "Divinikey Wuque WS Jade Linear",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Divinikey",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -1356,7 +1356,7 @@
     },
     {
         "name": "Gateron CJ Light Blue Linear",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "Ttc Flame Red",
-        "price": "$0.73",
+        "price": 0.73,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -1382,7 +1382,7 @@
     },
     {
         "name": "Zeal PC Blue Zilents V2 Silent Tactile",
-        "price": "$1.30",
+        "price": 1.3,
         "manufacturer": "Zeal PC",
         "switch_type": "Silent Tactile",
         "actuation_force": null,
@@ -1395,7 +1395,7 @@
     },
     {
         "name": "Durock POM Linear",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "63.5g",
@@ -1408,7 +1408,7 @@
     },
     {
         "name": "Glorious Lynx",
-        "price": "$0.52",
+        "price": 0.52,
         "manufacturer": "Glorious",
         "switch_type": null,
         "actuation_force": null,
@@ -1419,7 +1419,7 @@
     },
     {
         "name": "Bsun Tai Chi Linear",
-        "price": "$0.25",
+        "price": 0.25,
         "manufacturer": "Bsun",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -1430,7 +1430,7 @@
     },
     {
         "name": "Cherry MX Grey Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "80g",
@@ -1443,7 +1443,7 @@
     },
     {
         "name": "Ttc Flame Red Standard Linear",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -1456,7 +1456,7 @@
     },
     {
         "name": "Sp-star Meteor V3",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Sp-star",
         "switch_type": null,
         "actuation_force": null,
@@ -1467,7 +1467,7 @@
     },
     {
         "name": "Dangkeebs B.Stone Alluring Eyes",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -1478,7 +1478,7 @@
     },
     {
         "name": "Gateron Ink Silent Black V2 Linear",
-        "price": "$1.35",
+        "price": 1.35,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": "60g",
@@ -1491,7 +1491,7 @@
     },
     {
         "name": "Dangkeebs Jwick Nylon T1",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -1502,7 +1502,7 @@
     },
     {
         "name": "Cherry MX Brown Hyperglide Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -1515,7 +1515,7 @@
     },
     {
         "name": "Kailh Black",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "60g",
@@ -1528,7 +1528,7 @@
     },
     {
         "name": "Everglide Dark Jade Black",
-        "price": "$0.93",
+        "price": 0.93,
         "manufacturer": "Everglide",
         "switch_type": null,
         "actuation_force": "67g",
@@ -1541,7 +1541,7 @@
     },
     {
         "name": "Kailh Speed Gold",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "60g",
@@ -1554,7 +1554,7 @@
     },
     {
         "name": "Ttc Frozen Silent V2 Linear",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Ttc",
         "switch_type": "Silent Linear",
         "actuation_force": "38g",
@@ -1567,7 +1567,7 @@
     },
     {
         "name": "Gateron Smoothie Silver Linear",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -1580,7 +1580,7 @@
     },
     {
         "name": "Kailh Choc Round Brown Low Profile Tactile",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -1593,7 +1593,7 @@
     },
     {
         "name": "Tex VERTEX V1 Linear Thocky",
-        "price": "$0.44",
+        "price": 0.44,
         "manufacturer": "Tex",
         "switch_type": "Linear",
         "actuation_force": "35g",
@@ -1606,7 +1606,7 @@
     },
     {
         "name": "Gateron KS20 Orange Linear Magnetic HE",
-        "price": "$0.71",
+        "price": 0.71,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "38g",
@@ -1619,7 +1619,7 @@
     },
     {
         "name": "Gateron CAP Anniversary Linear",
-        "price": "$0.49",
+        "price": 0.49,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -1632,7 +1632,7 @@
     },
     {
         "name": "Dndkb JW",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Dndkb",
         "switch_type": null,
         "actuation_force": "37g",
@@ -1645,7 +1645,7 @@
     },
     {
         "name": "Everglide Sakura Pink V2",
-        "price": "$0.71",
+        "price": 0.71,
         "manufacturer": "Everglide",
         "switch_type": null,
         "actuation_force": "35g",
@@ -1658,7 +1658,7 @@
     },
     {
         "name": "Gateron Milky Green",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "80g",
@@ -1671,7 +1671,7 @@
     },
     {
         "name": "Durock Black Lotus",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -1684,7 +1684,7 @@
     },
     {
         "name": "Ttc Low Profile Red Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "1.2g",
@@ -1697,7 +1697,7 @@
     },
     {
         "name": "Zeal PC Roselio Silent Linear",
-        "price": "$1.30",
+        "price": 1.3,
         "manufacturer": "Zeal PC",
         "switch_type": "Silent Linear",
         "actuation_force": "67g",
@@ -1710,7 +1710,7 @@
     },
     {
         "name": "Feker Marble White Linear Thocky",
-        "price": "$0.25",
+        "price": 0.25,
         "manufacturer": "Feker",
         "switch_type": "Linear",
         "actuation_force": "30g",
@@ -1723,7 +1723,7 @@
     },
     {
         "name": "Gateron Zero Degree 0\u00b0 Silent Linear",
-        "price": "$0.59",
+        "price": 0.59,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": "45g",
@@ -1734,7 +1734,7 @@
     },
     {
         "name": "Kailh Hako Clear Tactile",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "1.95g",
@@ -1747,7 +1747,7 @@
     },
     {
         "name": "haimu HG Red Silent Linear",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "haimu",
         "switch_type": "Silent Linear",
         "actuation_force": null,
@@ -1758,7 +1758,7 @@
     },
     {
         "name": "Zeal PC Purple Zealios V2",
-        "price": "$1.10",
+        "price": 1.1,
         "manufacturer": "Zeal PC",
         "switch_type": null,
         "actuation_force": null,
@@ -1771,7 +1771,7 @@
     },
     {
         "name": "Gateron Chocolate Low Profile",
-        "price": "$0.56",
+        "price": 0.56,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -1784,7 +1784,7 @@
     },
     {
         "name": "Gateron KS9 3.0 Yellow Linear",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -1795,7 +1795,7 @@
     },
     {
         "name": "Kailh Speed Pro Purple Tactile",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -1808,7 +1808,7 @@
     },
     {
         "name": "Cherry MX Orange MX2ALC3W",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Cherry",
         "switch_type": null,
         "actuation_force": null,
@@ -1821,7 +1821,7 @@
     },
     {
         "name": "Gateron Baby Raccoon",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -1834,7 +1834,7 @@
     },
     {
         "name": "Durock Light Tactile",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Durock",
         "switch_type": "Tactile",
         "actuation_force": "67g",
@@ -1845,7 +1845,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 White Linear",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "38g",
@@ -1858,7 +1858,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 Red Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -1871,7 +1871,7 @@
     },
     {
         "name": "Cherry MX2A Black Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -1884,7 +1884,7 @@
     },
     {
         "name": "Gateron Yellow",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "50g",
@@ -1897,7 +1897,7 @@
     },
     {
         "name": "Gateron Magnetic Orange 2.0 Linear",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "38g",
@@ -1908,7 +1908,7 @@
     },
     {
         "name": "haimu Swagkeys MP Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "haimu",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -1919,7 +1919,7 @@
     },
     {
         "name": "Akko V3 Piano Pro Linear",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Akko",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -1932,7 +1932,7 @@
     },
     {
         "name": "Ttc Low Profile Blue Clicky",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Ttc",
         "switch_type": "Clicky",
         "actuation_force": "1.5g",
@@ -1945,7 +1945,7 @@
     },
     {
         "name": "Kailh KT Grey Silent Linear",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Kailh",
         "switch_type": "Silent Linear",
         "actuation_force": "1.9g",
@@ -1958,7 +1958,7 @@
     },
     {
         "name": "Ttc Golden Brown V3 Tactile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Ttc",
         "switch_type": "Tactile",
         "actuation_force": "2g",
@@ -1971,7 +1971,7 @@
     },
     {
         "name": "Yunzii Lavender Linear",
-        "price": "$1.98",
+        "price": 1.98,
         "manufacturer": "Yunzii",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -1984,7 +1984,7 @@
     },
     {
         "name": "Cherry Silent Red ClearTop",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Cherry",
         "switch_type": "Silent Linear",
         "actuation_force": null,
@@ -1997,7 +1997,7 @@
     },
     {
         "name": "Gateron Ink Black V2",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "70g",
@@ -2010,7 +2010,7 @@
     },
     {
         "name": "Cherry MX Silent Red",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Silent Linear",
         "actuation_force": "50g",
@@ -2023,7 +2023,7 @@
     },
     {
         "name": "Leobog Rocklee",
-        "price": "$0.20",
+        "price": 0.2,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "36g",
@@ -2036,7 +2036,7 @@
     },
     {
         "name": "Kailh Box Red Pro Linear",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "35g",
@@ -2049,7 +2049,7 @@
     },
     {
         "name": "Kailh White Owl V2 Clicky",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "70g",
@@ -2062,7 +2062,7 @@
     },
     {
         "name": "Ttc Silent Red Linear",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Ttc",
         "switch_type": "Silent Linear",
         "actuation_force": "1.9g",
@@ -2075,7 +2075,7 @@
     },
     {
         "name": "Kailh Speed Pink Clicky",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -2088,7 +2088,7 @@
     },
     {
         "name": "Kailh Choc Brown Low Profile Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -2101,7 +2101,7 @@
     },
     {
         "name": "Kailh Box Glazed Green Clicky",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "1.8g",
@@ -2114,7 +2114,7 @@
     },
     {
         "name": "Ktt Miaowu",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Ktt",
         "switch_type": null,
         "actuation_force": null,
@@ -2125,7 +2125,7 @@
     },
     {
         "name": "Wuque Studio Light Tactile",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Wuque Studio",
         "switch_type": "Tactile",
         "actuation_force": "35g",
@@ -2138,7 +2138,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 Yellow Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -2151,7 +2151,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 Brown Tactile",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -2164,7 +2164,7 @@
     },
     {
         "name": "Gateron EF Curry Linear",
-        "price": "$0.20",
+        "price": 0.2,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -2177,7 +2177,7 @@
     },
     {
         "name": "Gateron Red",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "45g",
@@ -2190,7 +2190,7 @@
     },
     {
         "name": "Leobog Reaper",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "45g",
@@ -2203,7 +2203,7 @@
     },
     {
         "name": "Kailh BOX Hush V3 Silent Linear",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Kailh",
         "switch_type": "Silent Linear",
         "actuation_force": "50g",
@@ -2216,7 +2216,7 @@
     },
     {
         "name": "Kailh BOX Chinese Red Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -2229,7 +2229,7 @@
     },
     {
         "name": "Wuque Studio Heavy Tactile",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Wuque Studio",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -2242,7 +2242,7 @@
     },
     {
         "name": "Kailh Choc White Low Profile Clicky",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -2255,7 +2255,7 @@
     },
     {
         "name": "Outemu Panda",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Outemu",
         "switch_type": null,
         "actuation_force": "65g",
@@ -2268,7 +2268,7 @@
     },
     {
         "name": "Gateron Ink BOX V2 Pink Linear",
-        "price": "$0.95",
+        "price": 0.95,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -2281,7 +2281,7 @@
     },
     {
         "name": "Ttc Tiger Standard Linear",
-        "price": "$1.25",
+        "price": 1.25,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -2294,7 +2294,7 @@
     },
     {
         "name": "Ttc Brother Clicky",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Ttc",
         "switch_type": "Clicky",
         "actuation_force": "37g",
@@ -2307,7 +2307,7 @@
     },
     {
         "name": "Kailh Box Sun Clicky",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "45g",
@@ -2320,7 +2320,7 @@
     },
     {
         "name": "Gateron Ink Yellow V2 Linear",
-        "price": "$1.20",
+        "price": 1.2,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "67g",
@@ -2333,7 +2333,7 @@
     },
     {
         "name": "Kailh BOX Noble Yellow Clicky",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "1.8g",
@@ -2346,7 +2346,7 @@
     },
     {
         "name": "Everglide Peacock Blue",
-        "price": "$2.00",
+        "price": 2.0,
         "manufacturer": "Everglide",
         "switch_type": null,
         "actuation_force": "67g",
@@ -2359,7 +2359,7 @@
     },
     {
         "name": "Gateron CM Linear",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -2370,7 +2370,7 @@
     },
     {
         "name": "Zeal PC Zeal Clickiez Convertible Tactile / Clicky / Linear",
-        "price": "$1.50",
+        "price": 1.5,
         "manufacturer": "Zeal PC",
         "switch_type": "Linear",
         "actuation_force": "58g",
@@ -2383,7 +2383,7 @@
     },
     {
         "name": "Yunzii Panda",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Yunzii",
         "switch_type": null,
         "actuation_force": null,
@@ -2396,7 +2396,7 @@
     },
     {
         "name": "Nuphy Raspberry",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -2409,7 +2409,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 Silver Linear",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -2422,7 +2422,7 @@
     },
     {
         "name": "Monka Sea Salt Tactile",
-        "price": "$0.37",
+        "price": 0.37,
         "manufacturer": "Monka",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -2435,7 +2435,7 @@
     },
     {
         "name": "Gateron Milkshake Silver POM",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "45g",
@@ -2448,7 +2448,7 @@
     },
     {
         "name": "Kailh Choc Red Low Profile Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -2461,7 +2461,7 @@
     },
     {
         "name": "Gateron Silent Brown",
-        "price": "$1.25",
+        "price": 1.25,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": "45g",
@@ -2474,7 +2474,7 @@
     },
     {
         "name": "Gateron Black",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "50g",
@@ -2487,7 +2487,7 @@
     },
     {
         "name": "ACGAM Hyacinth V2U Linear",
-        "price": "$0.51",
+        "price": 0.51,
         "manufacturer": "ACGAM",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -2500,7 +2500,7 @@
     },
     {
         "name": "Ttc Venus Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -2513,7 +2513,7 @@
     },
     {
         "name": "Kailh Box Jellyfish Linear",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -2526,7 +2526,7 @@
     },
     {
         "name": "Zeal PC Sakurio Silent Linear",
-        "price": "$1.30",
+        "price": 1.3,
         "manufacturer": "Zeal PC",
         "switch_type": "Silent Linear",
         "actuation_force": "62g",
@@ -2539,7 +2539,7 @@
     },
     {
         "name": "KBDFans Purple Pandas Tactile",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "KBDFans",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -2552,7 +2552,7 @@
     },
     {
         "name": "Ajazz Butter Ice Cream",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "Ajazz",
         "switch_type": null,
         "actuation_force": null,
@@ -2565,7 +2565,7 @@
     },
     {
         "name": "Dangkeebs Strawberry Milk Ice Linear",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Dangkeebs",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -2578,7 +2578,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 Black Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -2591,7 +2591,7 @@
     },
     {
         "name": "Gateron Dualrail Lunar Probe",
-        "price": "$0.71",
+        "price": 0.71,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": null,
@@ -2604,7 +2604,7 @@
     },
     {
         "name": "Ttc Flaming Purple Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "42g",
@@ -2617,7 +2617,7 @@
     },
     {
         "name": "Nuphy Lemon",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -2630,7 +2630,7 @@
     },
     {
         "name": "Akko Cream Yellow Pro",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Akko",
         "switch_type": null,
         "actuation_force": null,
@@ -2641,7 +2641,7 @@
     },
     {
         "name": "MCHOSE Beige Ice Cream Pro",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "MCHOSE",
         "switch_type": null,
         "actuation_force": "42g",
@@ -2654,7 +2654,7 @@
     },
     {
         "name": "Epomaker Shadow Black",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "53g",
@@ -2667,7 +2667,7 @@
     },
     {
         "name": "Gateron Milky Brown",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "55g",
@@ -2680,7 +2680,7 @@
     },
     {
         "name": "Kailh Speed Silver Linear",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -2693,7 +2693,7 @@
     },
     {
         "name": "HMX SW Garnet Linear",
-        "price": "$0.34",
+        "price": 0.34,
         "manufacturer": "HMX",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -2706,7 +2706,7 @@
     },
     {
         "name": "Gateron 0\u00b0 Silent 5pin",
-        "price": "$0.74",
+        "price": 0.74,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": null,
@@ -2719,7 +2719,7 @@
     },
     {
         "name": "Gateron Grayish Tactile",
-        "price": "$0.28",
+        "price": 0.28,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "59g",
@@ -2732,7 +2732,7 @@
     },
     {
         "name": "Wuque Studio WS Light Tactile",
-        "price": "$0.71",
+        "price": 0.71,
         "manufacturer": "Wuque Studio",
         "switch_type": "Tactile",
         "actuation_force": "35g",
@@ -2745,7 +2745,7 @@
     },
     {
         "name": "Wuque Studio WS Jade Linear",
-        "price": "$0.74",
+        "price": 0.74,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "35g",
@@ -2758,7 +2758,7 @@
     },
     {
         "name": "Dangkeebs DK Creamery Birthday Cake",
-        "price": "$0.32",
+        "price": 0.32,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -2769,7 +2769,7 @@
     },
     {
         "name": "Everglide",
-        "price": "$2.00",
+        "price": 2.0,
         "manufacturer": "Everglide",
         "switch_type": null,
         "actuation_force": "50g",
@@ -2782,7 +2782,7 @@
     },
     {
         "name": "haimu HG Black Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "haimu",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -2793,7 +2793,7 @@
     },
     {
         "name": "Gateron Silent Black Linear",
-        "price": "$1.25",
+        "price": 1.25,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": "50g",
@@ -2806,7 +2806,7 @@
     },
     {
         "name": "Kailh BOX Fireflies Clicky Tactile",
-        "price": "$0.66",
+        "price": 0.66,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "60g",
@@ -2819,7 +2819,7 @@
     },
     {
         "name": "Cherry MX Speed Silver",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": null,
         "actuation_force": "1.4g",
@@ -2832,7 +2832,7 @@
     },
     {
         "name": "Cherry MX Silent Black Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Cherry",
         "switch_type": "Silent Linear",
         "actuation_force": "60g",
@@ -2845,7 +2845,7 @@
     },
     {
         "name": "Kailh Speed Bronze",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "60g",
@@ -2858,7 +2858,7 @@
     },
     {
         "name": "Cherry MX Black Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -2871,7 +2871,7 @@
     },
     {
         "name": "Kailh Midnight Jade",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "85g",
@@ -2884,7 +2884,7 @@
     },
     {
         "name": "Gateron Cap V2 Milky Brown Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -2897,7 +2897,7 @@
     },
     {
         "name": "Kailh BOX V2 Red Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -2910,7 +2910,7 @@
     },
     {
         "name": "Kailh Canary Tactile",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "60g",
@@ -2923,7 +2923,7 @@
     },
     {
         "name": "Ttc Ace",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -2936,7 +2936,7 @@
     },
     {
         "name": "Ttc Bluish White Tactile",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Ttc",
         "switch_type": "Tactile",
         "actuation_force": "2g",
@@ -2949,7 +2949,7 @@
     },
     {
         "name": "Gateron Blue Clicky",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": "Clicky",
         "actuation_force": "60g",
@@ -2962,7 +2962,7 @@
     },
     {
         "name": "Gateron Silent Red Linear",
-        "price": "$1.25",
+        "price": 1.25,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": "45g",
@@ -2975,7 +2975,7 @@
     },
     {
         "name": "Gateron Zero Degree y Silent Silent Linear",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Gateron",
         "switch_type": "Silent Linear",
         "actuation_force": "45g",
@@ -2988,7 +2988,7 @@
     },
     {
         "name": "Gateron G Pro 3.0 Blue Clicky",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Gateron",
         "switch_type": "Clicky",
         "actuation_force": "60g",
@@ -3001,7 +3001,7 @@
     },
     {
         "name": "Kailh Speed Pro Light Green Clicky",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -3014,7 +3014,7 @@
     },
     {
         "name": "Gateron Dualrail Magnetic Jade Mini E",
-        "price": "$0.86",
+        "price": 0.86,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "30g",
@@ -3027,7 +3027,7 @@
     },
     {
         "name": "Gateron UHMknown Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -3038,7 +3038,7 @@
     },
     {
         "name": "Epomaker Flamingo",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "47g",
@@ -3051,7 +3051,7 @@
     },
     {
         "name": "Leobog Wolfberry",
-        "price": "$0.23",
+        "price": 0.23,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "45g",
@@ -3064,7 +3064,7 @@
     },
     {
         "name": "Gateron DualRail KS20U Magnetic",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "30g",
@@ -3077,7 +3077,7 @@
     },
     {
         "name": "Outemu Ocean",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Outemu",
         "switch_type": null,
         "actuation_force": "45g",
@@ -3090,7 +3090,7 @@
     },
     {
         "name": "Dangkeebs Keebz N Cables X ClickPig Mountain King Tactile",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Dangkeebs",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -3101,7 +3101,7 @@
     },
     {
         "name": "Dangkeebs Lychee Milk Linear",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Dangkeebs",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -3114,7 +3114,7 @@
     },
     {
         "name": "Gateron Sea Salt Milkshake POM",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "48g",
@@ -3127,7 +3127,7 @@
     },
     {
         "name": "Ttc Neptune Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "41g",
@@ -3140,7 +3140,7 @@
     },
     {
         "name": "Cherry MX Black Hyperglide Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -3153,7 +3153,7 @@
     },
     {
         "name": "Ttc Golden Red V3 Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -3166,7 +3166,7 @@
     },
     {
         "name": "Ttc Quick Silver Linear",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -3179,7 +3179,7 @@
     },
     {
         "name": "Durock Creamy Green Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -3192,7 +3192,7 @@
     },
     {
         "name": "Durock Black Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -3205,7 +3205,7 @@
     },
     {
         "name": "Matias Quiet Linear",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Matias",
         "switch_type": "Linear",
         "actuation_force": "35g",
@@ -3218,7 +3218,7 @@
     },
     {
         "name": "Wuque Studio White Silent Linear",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "Wuque Studio",
         "switch_type": "Silent Linear",
         "actuation_force": "50g",
@@ -3231,7 +3231,7 @@
     },
     {
         "name": "Wuque Studio Jade Linear",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "35g",
@@ -3244,7 +3244,7 @@
     },
     {
         "name": "Ttc Hey Black",
-        "price": "$2.00",
+        "price": 2.0,
         "manufacturer": "Ttc",
         "switch_type": null,
         "actuation_force": "50g",
@@ -3257,7 +3257,7 @@
     },
     {
         "name": "Ktt Lavender Linear",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -3270,7 +3270,7 @@
     },
     {
         "name": "Ktt Silent Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Ktt",
         "switch_type": "Silent Linear",
         "actuation_force": "58g",
@@ -3283,7 +3283,7 @@
     },
     {
         "name": "Ktt Red Wine Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -3296,7 +3296,7 @@
     },
     {
         "name": "Ktt Kang White Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -3309,7 +3309,7 @@
     },
     {
         "name": "HMX SW Pearl Linear",
-        "price": "$0.34",
+        "price": 0.34,
         "manufacturer": "HMX",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -3322,7 +3322,7 @@
     },
     {
         "name": "Gateron Sea Salt Smoothie Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "48g",
@@ -3335,7 +3335,7 @@
     },
     {
         "name": "Cherry MX Clear Top Nixie Linear",
-        "price": "$1.95",
+        "price": 1.95,
         "manufacturer": "Cherry",
         "switch_type": "Linear",
         "actuation_force": "63.5g",
@@ -3348,7 +3348,7 @@
     },
     {
         "name": "Gopolar Azure Dragon V3",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Gopolar",
         "switch_type": "Tactile",
         "actuation_force": "67g",
@@ -3361,7 +3361,7 @@
     },
     {
         "name": "KBDFans Aliaz Silent Tactile",
-        "price": "$1.20",
+        "price": 1.2,
         "manufacturer": "KBDFans",
         "switch_type": "Silent Tactile",
         "actuation_force": "80g",
@@ -3374,7 +3374,7 @@
     },
     {
         "name": "Kailh BOX Silent Pink Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Silent Linear",
         "actuation_force": "1.8g",
@@ -3387,7 +3387,7 @@
     },
     {
         "name": "Ttc Frozen Silent Linear",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "Ttc",
         "switch_type": "Silent Linear",
         "actuation_force": "39g",
@@ -3400,7 +3400,7 @@
     },
     {
         "name": "HMX EVA Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "HMX",
         "switch_type": "Linear",
         "actuation_force": "42g",
@@ -3411,7 +3411,7 @@
     },
     {
         "name": "Divinikey Wuque WS Heavy Tactile",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Divinikey",
         "switch_type": "Tactile",
         "actuation_force": "70g",
@@ -3422,7 +3422,7 @@
     },
     {
         "name": "Gateron Milky Yellow Pro",
-        "price": "$0.24",
+        "price": 0.24,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "50g",
@@ -3433,7 +3433,7 @@
     },
     {
         "name": "Gateron Black Ink V2",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "60g",
@@ -3444,7 +3444,7 @@
     },
     {
         "name": "Gateron Box Ink V2L",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "60g",
@@ -3455,7 +3455,7 @@
     },
     {
         "name": "Epomaker Bluebird",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "47g",
@@ -3468,7 +3468,7 @@
     },
     {
         "name": "Lichicx Lucy Silent Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Lichicx",
         "switch_type": "Silent Linear",
         "actuation_force": "44g",
@@ -3479,7 +3479,7 @@
     },
     {
         "name": "Bsun Pine Tactile",
-        "price": "$0.47",
+        "price": 0.47,
         "manufacturer": "Bsun",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -3490,7 +3490,7 @@
     },
     {
         "name": "haimu HG White Tactile",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "haimu",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -3501,7 +3501,7 @@
     },
     {
         "name": "Kailh 1350 Chocolate Pink Low Profile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "20g",
@@ -3514,7 +3514,7 @@
     },
     {
         "name": "Kailh BOX Navy Clicky",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "75g",
@@ -3527,7 +3527,7 @@
     },
     {
         "name": "Bsun Yor",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Bsun",
         "switch_type": null,
         "actuation_force": "53g",
@@ -3538,7 +3538,7 @@
     },
     {
         "name": "HMX Xinhai Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "HMX",
         "switch_type": "Linear",
         "actuation_force": "37g",
@@ -3549,7 +3549,7 @@
     },
     {
         "name": "Dangkeebs Diamond Avalon",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -3560,7 +3560,7 @@
     },
     {
         "name": "Gateron KS9 Pro 2.0 Brown",
-        "price": "$0.23",
+        "price": 0.23,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "55g",
@@ -3571,7 +3571,7 @@
     },
     {
         "name": "Akko POM Brown Tactile",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "Akko",
         "switch_type": "Tactile",
         "actuation_force": "40g",
@@ -3584,7 +3584,7 @@
     },
     {
         "name": "Gateron KS9 Pro 2.0 Black",
-        "price": "$0.19",
+        "price": 0.19,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "60g",
@@ -3595,7 +3595,7 @@
     },
     {
         "name": "Dangkeebs DK Creamery Cookie Dough",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -3606,7 +3606,7 @@
     },
     {
         "name": "Kailh Polia Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Kailh",
         "switch_type": "Tactile",
         "actuation_force": "45g",
@@ -3619,7 +3619,7 @@
     },
     {
         "name": "Gateron Milky Red",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "45g",
@@ -3632,7 +3632,7 @@
     },
     {
         "name": "Ttc Heart Linear",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -3645,7 +3645,7 @@
     },
     {
         "name": "Gateron North Pole 2.0 Yellow Linear",
-        "price": "$0.74",
+        "price": 0.74,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -3658,7 +3658,7 @@
     },
     {
         "name": "Kailh Sun Clicky",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Clicky",
         "actuation_force": "45g",
@@ -3671,7 +3671,7 @@
     },
     {
         "name": "Gateron Green Clicky",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": "Clicky",
         "actuation_force": "80g",
@@ -3684,7 +3684,7 @@
     },
     {
         "name": "Gateron Ink Red V2 Linear",
-        "price": "$1.20",
+        "price": 1.2,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -3697,7 +3697,7 @@
     },
     {
         "name": "Durock Koala Tactile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Tactile",
         "actuation_force": "2g",
@@ -3710,7 +3710,7 @@
     },
     {
         "name": "Kailh BOX Black Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -3723,7 +3723,7 @@
     },
     {
         "name": "Kailh BOX Red Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -3736,7 +3736,7 @@
     },
     {
         "name": "Kailh Box Cardamom",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": null,
@@ -3749,7 +3749,7 @@
     },
     {
         "name": "huano Raw Linear",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "huano",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -3760,7 +3760,7 @@
     },
     {
         "name": "Zeal PC Crystal Tactile",
-        "price": "$1.40",
+        "price": 1.4,
         "manufacturer": "Zeal PC",
         "switch_type": "Tactile",
         "actuation_force": "2g",
@@ -3773,7 +3773,7 @@
     },
     {
         "name": "Wuque Studio Red",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -3786,7 +3786,7 @@
     },
     {
         "name": "Gateron Jupiter Brown Tactile",
-        "price": "$0.28",
+        "price": 0.28,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -3799,7 +3799,7 @@
     },
     {
         "name": "Wuque Studio Dash Linear Magnetic HE",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -3812,7 +3812,7 @@
     },
     {
         "name": "Gateron Smoothie Linear",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -3825,7 +3825,7 @@
     },
     {
         "name": "Dangkeebs B.Stone Dark Eyes",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -3836,7 +3836,7 @@
     },
     {
         "name": "Kailh Choc Round Red Low Profile Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -3849,7 +3849,7 @@
     },
     {
         "name": "Gateron Luciola",
-        "price": "$0.75",
+        "price": 0.75,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -3862,7 +3862,7 @@
     },
     {
         "name": "Akko V3 Fairy Pro Linear Silent",
-        "price": "$0.44",
+        "price": 0.44,
         "manufacturer": "Akko",
         "switch_type": "Silent Linear",
         "actuation_force": "50g",
@@ -3875,7 +3875,7 @@
     },
     {
         "name": "Dangkeebs DK Creamery Cookies n' Cream",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -3886,7 +3886,7 @@
     },
     {
         "name": "Epomaker Dawn Pink",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "38g",
@@ -3899,7 +3899,7 @@
     },
     {
         "name": "Outemu Crystal",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Outemu",
         "switch_type": null,
         "actuation_force": "45g",
@@ -3912,7 +3912,7 @@
     },
     {
         "name": "Leobog Purple King",
-        "price": "$0.54",
+        "price": 0.54,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "37g",
@@ -3925,7 +3925,7 @@
     },
     {
         "name": "Gateron X SW Pure Berry Linear",
-        "price": "$0.48",
+        "price": 0.48,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -3938,7 +3938,7 @@
     },
     {
         "name": "Kailh Red Bean",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -3951,7 +3951,7 @@
     },
     {
         "name": "Zeal PC Turquoise Tealio Linear",
-        "price": "$1.25",
+        "price": 1.25,
         "manufacturer": "Zeal PC",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -3964,7 +3964,7 @@
     },
     {
         "name": "Gateron Clear Linear",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "35g",
@@ -3977,7 +3977,7 @@
     },
     {
         "name": "Durock Creamy Pink Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -3990,7 +3990,7 @@
     },
     {
         "name": "Durock Creamy Yellow Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -4003,7 +4003,7 @@
     },
     {
         "name": "43 Studio Obsidian Long Linear",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "43 Studio",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -4014,7 +4014,7 @@
     },
     {
         "name": "Wuque Studio POM Linear",
-        "price": "$0.47",
+        "price": 0.47,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -4027,7 +4027,7 @@
     },
     {
         "name": "Cidoo Silent Blue",
-        "price": "$0.37",
+        "price": 0.37,
         "manufacturer": "Cidoo",
         "switch_type": "Silent Linear",
         "actuation_force": "35g",
@@ -4040,7 +4040,7 @@
     },
     {
         "name": "Bsun Aniya R2",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Bsun",
         "switch_type": null,
         "actuation_force": "42g",
@@ -4051,7 +4051,7 @@
     },
     {
         "name": "MK Dose",
-        "price": "$0.52",
+        "price": 0.52,
         "manufacturer": "MK",
         "switch_type": null,
         "actuation_force": null,
@@ -4064,7 +4064,7 @@
     },
     {
         "name": "Gateron New North Pole 2.0 Linear",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -4075,7 +4075,7 @@
     },
     {
         "name": "Kailh Box White Owl",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "46g",
@@ -4088,7 +4088,7 @@
     },
     {
         "name": "WhatGeek PIIFOX Dark Warbler Linear",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "WhatGeek",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -4101,7 +4101,7 @@
     },
     {
         "name": "Akko CS Cream Black V3 Pro Linear",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Akko",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4114,7 +4114,7 @@
     },
     {
         "name": "Durock Pom T1",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Durock",
         "switch_type": null,
         "actuation_force": "67g",
@@ -4125,7 +4125,7 @@
     },
     {
         "name": "Gateron KS20 Magnetic Hall Sensor",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "30g",
@@ -4138,7 +4138,7 @@
     },
     {
         "name": "Leobog Chive",
-        "price": "$0.71",
+        "price": 0.71,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "53g",
@@ -4151,7 +4151,7 @@
     },
     {
         "name": "Outemu Jadeite",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Outemu",
         "switch_type": null,
         "actuation_force": "40g",
@@ -4164,7 +4164,7 @@
     },
     {
         "name": "Divinikey Wuque WS Quartz Linear",
-        "price": "$0.39",
+        "price": 0.39,
         "manufacturer": "Divinikey",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4175,7 +4175,7 @@
     },
     {
         "name": "Dangkeebs Taro N Sweet Potato Linear",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Dangkeebs",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4186,7 +4186,7 @@
     },
     {
         "name": "Leobog Kayking V2",
-        "price": "$0.29",
+        "price": 0.29,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "35g",
@@ -4199,7 +4199,7 @@
     },
     {
         "name": "Dangkeebs Banana Milk Linear",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Dangkeebs",
         "switch_type": "Linear",
         "actuation_force": "56g",
@@ -4212,7 +4212,7 @@
     },
     {
         "name": "haimu SW MP Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "haimu",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -4225,7 +4225,7 @@
     },
     {
         "name": "Gateron SW Deepping Linear",
-        "price": "$0.88",
+        "price": 0.88,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4238,7 +4238,7 @@
     },
     {
         "name": "MK SWK Catmint Linear",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "MK",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4251,7 +4251,7 @@
     },
     {
         "name": "Tiffany Blue Tealio V2 Linear",
-        "price": "$1.10",
+        "price": 1.1,
         "manufacturer": "Tiffany",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -4264,7 +4264,7 @@
     },
     {
         "name": "Durock 2023 Sea Glass Linear",
-        "price": "$0.52",
+        "price": 0.52,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "62g",
@@ -4277,7 +4277,7 @@
     },
     {
         "name": "Kailh Ice Cream Pro MAX",
-        "price": "$0.53",
+        "price": 0.53,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "45g",
@@ -4290,7 +4290,7 @@
     },
     {
         "name": "Wuque Studio Aurora Blue",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Wuque Studio",
         "switch_type": null,
         "actuation_force": "53g",
@@ -4301,7 +4301,7 @@
     },
     {
         "name": "Cherry MX BLACK CLEARTOP",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "Cherry",
         "switch_type": null,
         "actuation_force": null,
@@ -4314,7 +4314,7 @@
     },
     {
         "name": "Ttc Flaming Orange",
-        "price": "$0.76",
+        "price": 0.76,
         "manufacturer": "Ttc",
         "switch_type": null,
         "actuation_force": "45g",
@@ -4327,7 +4327,7 @@
     },
     {
         "name": "Zeal PC Pearlio Linear",
-        "price": "$1.40",
+        "price": 1.4,
         "manufacturer": "Zeal PC",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -4340,7 +4340,7 @@
     },
     {
         "name": "Wuque Studio Quartz Linear",
-        "price": "$0.39",
+        "price": 0.39,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4353,7 +4353,7 @@
     },
     {
         "name": "Yunzii Cocoa Cream V2 Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Yunzii",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4366,7 +4366,7 @@
     },
     {
         "name": "Cherry MX White",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Cherry",
         "switch_type": null,
         "actuation_force": "80g",
@@ -4379,7 +4379,7 @@
     },
     {
         "name": "Varmilo Daisy L Linear",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Varmilo",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4392,7 +4392,7 @@
     },
     {
         "name": "Nuphy Polaris",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -4405,7 +4405,7 @@
     },
     {
         "name": "Kailh BOX Spring",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "40g",
@@ -4418,7 +4418,7 @@
     },
     {
         "name": "Kailh Box Ice Cream Brown",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "50g",
@@ -4431,7 +4431,7 @@
     },
     {
         "name": "Kailh Crystal Pearlescent Purple",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "75g",
@@ -4444,7 +4444,7 @@
     },
     {
         "name": "Gateron Magnetic Jade",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "30g",
@@ -4457,7 +4457,7 @@
     },
     {
         "name": "Greetech Black",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Greetech",
         "switch_type": null,
         "actuation_force": "65g",
@@ -4470,7 +4470,7 @@
     },
     {
         "name": "Greetech Brown",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Greetech",
         "switch_type": null,
         "actuation_force": "50g",
@@ -4483,7 +4483,7 @@
     },
     {
         "name": "Greetech Blue",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Greetech",
         "switch_type": null,
         "actuation_force": "55g",
@@ -4496,7 +4496,7 @@
     },
     {
         "name": "Kailh Red",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "50g",
@@ -4509,7 +4509,7 @@
     },
     {
         "name": "Outemu Speed Silver",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Outemu",
         "switch_type": null,
         "actuation_force": "45g",
@@ -4522,7 +4522,7 @@
     },
     {
         "name": "Ktt MoonRosa Linear",
-        "price": "$0.49",
+        "price": 0.49,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -4535,7 +4535,7 @@
     },
     {
         "name": "Ktt Purple Star Linear",
-        "price": "$0.49",
+        "price": 0.49,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -4548,7 +4548,7 @@
     },
     {
         "name": "Ktt Lightning Linear",
-        "price": "$0.49",
+        "price": 0.49,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -4561,7 +4561,7 @@
     },
     {
         "name": "Ktt Orange Linear",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -4574,7 +4574,7 @@
     },
     {
         "name": "Ktt Pine Linear",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "60g",
@@ -4587,7 +4587,7 @@
     },
     {
         "name": "Ktt Laurel Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -4600,7 +4600,7 @@
     },
     {
         "name": "Ktt Hyacinth Linear",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "56g",
@@ -4613,7 +4613,7 @@
     },
     {
         "name": "Ktt Cabbage Tofu Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "52g",
@@ -4626,7 +4626,7 @@
     },
     {
         "name": "Ktt Mango Pomelo Linear",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -4639,7 +4639,7 @@
     },
     {
         "name": "Feker Vanilla Ice Cream",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Feker",
         "switch_type": null,
         "actuation_force": "38g",
@@ -4652,7 +4652,7 @@
     },
     {
         "name": "Ktt Mint Linear",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -4665,7 +4665,7 @@
     },
     {
         "name": "Ktt Sea Salt Lemon Linear",
-        "price": "$0.31",
+        "price": 0.31,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -4678,7 +4678,7 @@
     },
     {
         "name": "Ktt Grapefruit Linear",
-        "price": "$0.31",
+        "price": 0.31,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -4691,7 +4691,7 @@
     },
     {
         "name": "Ktt Ash Grey Tactile",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Ktt",
         "switch_type": "Tactile",
         "actuation_force": "50g",
@@ -4704,7 +4704,7 @@
     },
     {
         "name": "Ktt Cream Yellow Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "58g",
@@ -4717,7 +4717,7 @@
     },
     {
         "name": "Ktt Purple Click Clicky",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "Ktt",
         "switch_type": "Clicky",
         "actuation_force": "50g",
@@ -4730,7 +4730,7 @@
     },
     {
         "name": "Kailh BOX Winter",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "40g",
@@ -4743,7 +4743,7 @@
     },
     {
         "name": "HMX Emo Linear",
-        "price": "$0.28",
+        "price": 0.28,
         "manufacturer": "HMX",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -4754,7 +4754,7 @@
     },
     {
         "name": "MK SWK Jieum V2 Linear",
-        "price": "$0.48",
+        "price": 0.48,
         "manufacturer": "MK",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4767,7 +4767,7 @@
     },
     {
         "name": "Domikey Deep Sea Hand Linear",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Domikey",
         "switch_type": "Linear",
         "actuation_force": "48g",
@@ -4780,7 +4780,7 @@
     },
     {
         "name": "Domikey Astronaut Hand Linear",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Domikey",
         "switch_type": "Linear",
         "actuation_force": "48g",
@@ -4793,7 +4793,7 @@
     },
     {
         "name": "Durock Creamy Purple Linear",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Linear",
         "actuation_force": "2g",
@@ -4806,7 +4806,7 @@
     },
     {
         "name": "Gateron KS37 DualRail FOX Magnetic",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "30g",
@@ -4819,7 +4819,7 @@
     },
     {
         "name": "Cidoo Matte",
-        "price": "$0.37",
+        "price": 0.37,
         "manufacturer": "Cidoo",
         "switch_type": null,
         "actuation_force": "47g",
@@ -4832,7 +4832,7 @@
     },
     {
         "name": "Cidoo Mint",
-        "price": "$0.37",
+        "price": 0.37,
         "manufacturer": "Cidoo",
         "switch_type": null,
         "actuation_force": "43g",
@@ -4845,7 +4845,7 @@
     },
     {
         "name": "Yunzii Blue Grey Tactile",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Yunzii",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -4858,7 +4858,7 @@
     },
     {
         "name": "Idobao Elf Ultra Silent MX",
-        "price": "$0.66",
+        "price": 0.66,
         "manufacturer": "Idobao",
         "switch_type": "Silent Linear",
         "actuation_force": null,
@@ -4871,7 +4871,7 @@
     },
     {
         "name": "Kailh Blue",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "50g",
@@ -4884,7 +4884,7 @@
     },
     {
         "name": "Ktt Monochrome Onyx",
-        "price": "$0.46",
+        "price": 0.46,
         "manufacturer": "Ktt",
         "switch_type": null,
         "actuation_force": "46g",
@@ -4895,7 +4895,7 @@
     },
     {
         "name": "Epomaker Zebra",
-        "price": "$0.20",
+        "price": 0.2,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "40g",
@@ -4908,7 +4908,7 @@
     },
     {
         "name": "MelGeek Ember Tactile",
-        "price": "$0.80",
+        "price": 0.8,
         "manufacturer": "MelGeek",
         "switch_type": "Tactile",
         "actuation_force": "55g",
@@ -4921,7 +4921,7 @@
     },
     {
         "name": "Gateron Jupiter Red Linear",
-        "price": "$0.28",
+        "price": 0.28,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -4934,7 +4934,7 @@
     },
     {
         "name": "Wuque Studio Yellow",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Wuque Studio",
         "switch_type": "Linear",
         "actuation_force": "47g",
@@ -4947,7 +4947,7 @@
     },
     {
         "name": "Ttc Mute Brown Pro",
-        "price": "$1.50",
+        "price": 1.5,
         "manufacturer": "Ttc",
         "switch_type": null,
         "actuation_force": "45g",
@@ -4960,7 +4960,7 @@
     },
     {
         "name": "Cidoo Carda",
-        "price": "$0.29",
+        "price": 0.29,
         "manufacturer": "Cidoo",
         "switch_type": null,
         "actuation_force": "35g",
@@ -4973,7 +4973,7 @@
     },
     {
         "name": "Dangkeebs Melon Milk Linear",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Dangkeebs",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -4986,7 +4986,7 @@
     },
     {
         "name": "Ttc Clear Sky",
-        "price": "$1.20",
+        "price": 1.2,
         "manufacturer": "Ttc",
         "switch_type": null,
         "actuation_force": null,
@@ -4999,7 +4999,7 @@
     },
     {
         "name": "Gateron Raw Linear",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5010,7 +5010,7 @@
     },
     {
         "name": "WhatGeek Wuque WS Morandi Linear Thocky",
-        "price": "$0.71",
+        "price": 0.71,
         "manufacturer": "WhatGeek",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5023,7 +5023,7 @@
     },
     {
         "name": "Kailh Box Cream 5 pin Linear Shaft for 10Pack",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -5036,7 +5036,7 @@
     },
     {
         "name": "Durock Sunflower POM T1 Tactile",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Durock",
         "switch_type": "Tactile",
         "actuation_force": "67g",
@@ -5049,7 +5049,7 @@
     },
     {
         "name": "Gateron Quinn",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "59g",
@@ -5062,7 +5062,7 @@
     },
     {
         "name": "Gateron KS3 Milky Yellow Pro Linear",
-        "price": "$0.23",
+        "price": 0.23,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -5075,7 +5075,7 @@
     },
     {
         "name": "Varmilo Daisy L Linear Thocky",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Varmilo",
         "switch_type": "Linear",
         "actuation_force": "37g",
@@ -5088,7 +5088,7 @@
     },
     {
         "name": "Epomaker Nude Rosa Silent",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Epomaker",
         "switch_type": "Silent Linear",
         "actuation_force": "44g",
@@ -5101,7 +5101,7 @@
     },
     {
         "name": "Gateron DualRail Lunar Linear",
-        "price": "$1.11",
+        "price": 1.11,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -5114,7 +5114,7 @@
     },
     {
         "name": "Kailh BOX Blueberry Ice Cream Pro",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "40g",
@@ -5127,7 +5127,7 @@
     },
     {
         "name": "haimu Raw Linear",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "haimu",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5138,7 +5138,7 @@
     },
     {
         "name": "Gateron Northpole V2",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "50g",
@@ -5149,7 +5149,7 @@
     },
     {
         "name": "haimu HG Clear Linear",
-        "price": "$0.34",
+        "price": 0.34,
         "manufacturer": "haimu",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5160,7 +5160,7 @@
     },
     {
         "name": "Gateron Milky Blue",
-        "price": "$0.85",
+        "price": 0.85,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "60g",
@@ -5173,7 +5173,7 @@
     },
     {
         "name": "Greetech Red",
-        "price": "$0.40",
+        "price": 0.4,
         "manufacturer": "Greetech",
         "switch_type": null,
         "actuation_force": "45g",
@@ -5186,7 +5186,7 @@
     },
     {
         "name": "Dangkeebs Honeydew",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -5197,7 +5197,7 @@
     },
     {
         "name": "KBDFans EMOTOYS Little Daisy",
-        "price": "$0.66",
+        "price": 0.66,
         "manufacturer": "KBDFans",
         "switch_type": null,
         "actuation_force": "50g",
@@ -5210,7 +5210,7 @@
     },
     {
         "name": "Leobog Chive V2",
-        "price": "$0.51",
+        "price": 0.51,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "46g",
@@ -5223,7 +5223,7 @@
     },
     {
         "name": "Leobog Ink Crystal V3",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Leobog",
         "switch_type": null,
         "actuation_force": "50g",
@@ -5236,7 +5236,7 @@
     },
     {
         "name": "Everglide Crystal Violet",
-        "price": "$0.76",
+        "price": 0.76,
         "manufacturer": "Everglide",
         "switch_type": null,
         "actuation_force": "55g",
@@ -5249,7 +5249,7 @@
     },
     {
         "name": "Ktt Peach",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "53g",
@@ -5262,7 +5262,7 @@
     },
     {
         "name": "Ktt Rose",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Ktt",
         "switch_type": "Linear",
         "actuation_force": "63.5g",
@@ -5275,7 +5275,7 @@
     },
     {
         "name": "Gateron Baby Kangaroo",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": "Tactile",
         "actuation_force": "59g",
@@ -5288,7 +5288,7 @@
     },
     {
         "name": "Gateron Oil King",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Gateron",
         "switch_type": "Linear",
         "actuation_force": "55g",
@@ -5301,7 +5301,7 @@
     },
     {
         "name": "MK Purple Slush Linear Frozen Llama Series",
-        "price": "$0.42",
+        "price": 0.42,
         "manufacturer": "MK",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -5314,7 +5314,7 @@
     },
     {
         "name": "Durock Dolphin Silent Linear",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Durock",
         "switch_type": "Silent Linear",
         "actuation_force": "2g",
@@ -5327,7 +5327,7 @@
     },
     {
         "name": "Durock Daybreak Silent Linear",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Durock",
         "switch_type": "Silent Linear",
         "actuation_force": "2g",
@@ -5340,7 +5340,7 @@
     },
     {
         "name": "Durock T1 Tactile",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Durock",
         "switch_type": "Tactile",
         "actuation_force": "2g",
@@ -5353,7 +5353,7 @@
     },
     {
         "name": "Kailh Speed Pro Burgundy Linear",
-        "price": "$0.33",
+        "price": 0.33,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "50g",
@@ -5366,7 +5366,7 @@
     },
     {
         "name": "Wuque Studio Aurora Pink",
-        "price": "$0.50",
+        "price": 0.5,
         "manufacturer": "Wuque Studio",
         "switch_type": null,
         "actuation_force": "53g",
@@ -5377,7 +5377,7 @@
     },
     {
         "name": "Dangkeebs Blue Sky Linear",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Dangkeebs",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5390,7 +5390,7 @@
     },
     {
         "name": "Epomaker Peace Lily",
-        "price": "$0.25",
+        "price": 0.25,
         "manufacturer": "Epomaker",
         "switch_type": null,
         "actuation_force": "42g",
@@ -5403,7 +5403,7 @@
     },
     {
         "name": "WhatGeek PIIFOX Pink Warbler Linear",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "WhatGeek",
         "switch_type": "Linear",
         "actuation_force": "42g",
@@ -5416,7 +5416,7 @@
     },
     {
         "name": "Dangkeebs Joininkeys Jade Rabbit",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -5427,7 +5427,7 @@
     },
     {
         "name": "Dangkeebs Emogogo Hybrid Black",
-        "price": "$0.65",
+        "price": 0.65,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -5438,7 +5438,7 @@
     },
     {
         "name": "Nuphy Aloe Low Profile",
-        "price": "$0.38",
+        "price": 0.38,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -5451,7 +5451,7 @@
     },
     {
         "name": "Nuphy Night Breeze",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -5464,7 +5464,7 @@
     },
     {
         "name": "Dangkeebs Invisiblend",
-        "price": "$0.68",
+        "price": 0.68,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -5475,7 +5475,7 @@
     },
     {
         "name": "AEBoards Blaeck R2.1 Linear",
-        "price": "$0.45",
+        "price": 0.45,
         "manufacturer": "AEBoards",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5486,7 +5486,7 @@
     },
     {
         "name": "Sp-star Meteor Orange",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Sp-star",
         "switch_type": null,
         "actuation_force": null,
@@ -5497,7 +5497,7 @@
     },
     {
         "name": "Newmen Indigo Naturalis Tactile",
-        "price": "$0.70",
+        "price": 0.7,
         "manufacturer": "Newmen",
         "switch_type": "Tactile",
         "actuation_force": null,
@@ -5510,7 +5510,7 @@
     },
     {
         "name": "Jwk Protozoa Studio The Moss",
-        "price": "$1.78",
+        "price": 1.78,
         "manufacturer": "Jwk",
         "switch_type": null,
         "actuation_force": null,
@@ -5523,7 +5523,7 @@
     },
     {
         "name": "Yunzii Jwick Taro BoBo",
-        "price": "$0.90",
+        "price": 0.9,
         "manufacturer": "Yunzii",
         "switch_type": null,
         "actuation_force": "20g",
@@ -5536,7 +5536,7 @@
     },
     {
         "name": "Ktt Bear",
-        "price": "$0.27",
+        "price": 0.27,
         "manufacturer": "Ktt",
         "switch_type": null,
         "actuation_force": null,
@@ -5547,7 +5547,7 @@
     },
     {
         "name": "Outemu Miami Pink Linear",
-        "price": "$0.36",
+        "price": 0.36,
         "manufacturer": "Outemu",
         "switch_type": "Linear",
         "actuation_force": "40g",
@@ -5560,7 +5560,7 @@
     },
     {
         "name": "Kailh MX Light",
-        "price": "$0.55",
+        "price": 0.55,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": "45g",
@@ -5573,7 +5573,7 @@
     },
     {
         "name": "Kailh BOX Rosa",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": null,
@@ -5586,7 +5586,7 @@
     },
     {
         "name": "Kailh BOX Rosa Pink",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": null,
@@ -5599,7 +5599,7 @@
     },
     {
         "name": "Kailh BOX Avocado",
-        "price": "$0.76",
+        "price": 0.76,
         "manufacturer": "Kailh",
         "switch_type": null,
         "actuation_force": null,
@@ -5612,7 +5612,7 @@
     },
     {
         "name": "Ttc Fast Silver V2 Linear",
-        "price": "$1.00",
+        "price": 1.0,
         "manufacturer": "Ttc",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -5625,7 +5625,7 @@
     },
     {
         "name": "Qeekestudio YunMu",
-        "price": "$0.57",
+        "price": 0.57,
         "manufacturer": "Qeekestudio",
         "switch_type": null,
         "actuation_force": "45g",
@@ -5638,7 +5638,7 @@
     },
     {
         "name": "Dangkeebs Viola Tricolor",
-        "price": "$0.66",
+        "price": 0.66,
         "manufacturer": "Dangkeebs",
         "switch_type": null,
         "actuation_force": null,
@@ -5649,7 +5649,7 @@
     },
     {
         "name": "Ajazz AS101 Yellow Tactile",
-        "price": "$0.29",
+        "price": 0.29,
         "manufacturer": "Ajazz",
         "switch_type": "Tactile",
         "actuation_force": "42g",
@@ -5662,7 +5662,7 @@
     },
     {
         "name": "Ajazz Fruit Oiced Huanno Tactile Silent",
-        "price": "$0.43",
+        "price": 0.43,
         "manufacturer": "Ajazz",
         "switch_type": "Silent Tactile",
         "actuation_force": null,
@@ -5675,7 +5675,7 @@
     },
     {
         "name": "Kailh BOX Blackberry Ice Cream Pro Linear",
-        "price": "$1.17",
+        "price": 1.17,
         "manufacturer": "Kailh",
         "switch_type": "Linear",
         "actuation_force": "45g",
@@ -5688,7 +5688,7 @@
     },
     {
         "name": "AEBoards Blaeck Linear",
-        "price": "$0.30",
+        "price": 0.3,
         "manufacturer": "AEBoards",
         "switch_type": "Linear",
         "actuation_force": null,
@@ -5699,7 +5699,7 @@
     },
     {
         "name": "zFrontier grid Linear Semi Silent",
-        "price": "$0.59",
+        "price": 0.59,
         "manufacturer": "zFrontier",
         "switch_type": "Silent Linear",
         "actuation_force": null,
@@ -5712,7 +5712,7 @@
     },
     {
         "name": "Gateron Yellow Ink V2",
-        "price": "$0.60",
+        "price": 0.6,
         "manufacturer": "Gateron",
         "switch_type": null,
         "actuation_force": "60g",
@@ -5723,7 +5723,7 @@
     },
     {
         "name": "Nuphy Fleeting Gold",
-        "price": "$0.35",
+        "price": 0.35,
         "manufacturer": "Nuphy",
         "switch_type": null,
         "actuation_force": null,
@@ -5736,7 +5736,7 @@
     },
     {
         "name": "Tecsee Raw Linear",
-        "price": "$0.51",
+        "price": 0.51,
         "manufacturer": "Tecsee",
         "switch_type": "Linear",
         "actuation_force": null,

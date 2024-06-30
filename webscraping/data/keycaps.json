@@ -1,7 +1,7 @@
 [
     {
         "name": "Nuphy Gem mSA",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -15,7 +15,7 @@
     },
     {
         "name": "Skyloong Neon",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Skyloong",
         "vendor": [
             "Epomaker"
@@ -29,7 +29,7 @@
     },
     {
         "name": "Nuphy Shiokaze",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -43,7 +43,7 @@
     },
     {
         "name": "Diykeycap Fog Blue Gradient Backlight",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -57,7 +57,7 @@
     },
     {
         "name": "Kiiboom PC",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -71,7 +71,7 @@
     },
     {
         "name": "Skyloong Dark Fairy",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Skyloong",
         "vendor": [
             "Epomaker"
@@ -85,7 +85,7 @@
     },
     {
         "name": "Nuphy Space Engineer",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -99,7 +99,7 @@
     },
     {
         "name": "Epomaker Urban",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -113,7 +113,7 @@
     },
     {
         "name": "Epomaker Mist Clouds",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -127,7 +127,7 @@
     },
     {
         "name": "Diykeycap Coffee",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -141,7 +141,7 @@
     },
     {
         "name": "Nuphy Electro Ethereal Shinethrough",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -155,7 +155,7 @@
     },
     {
         "name": "Epomaker Moonlit Bunny",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -169,7 +169,7 @@
     },
     {
         "name": "Epomaker Temple",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -187,7 +187,7 @@
     },
     {
         "name": "Epomaker PurrCap",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -201,7 +201,7 @@
     },
     {
         "name": "Diykeycap Red Samurai",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -218,7 +218,7 @@
     },
     {
         "name": "Epomaker SereniTea",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -232,7 +232,7 @@
     },
     {
         "name": "Epomaker Mossy",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -246,7 +246,7 @@
     },
     {
         "name": "Nuphy Profile Shinethrough",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -260,7 +260,7 @@
     },
     {
         "name": "Epomaker EmeraldMist",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -274,7 +274,7 @@
     },
     {
         "name": "Monokei Series 2",
-        "price": "$50",
+        "price": 50.0,
         "manufacturer": "Monokei",
         "vendor": [
             "Divinikey"
@@ -288,7 +288,7 @@
     },
     {
         "name": "Joorkey Taro",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -302,7 +302,7 @@
     },
     {
         "name": "Diykeycap Honey Milk",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -316,7 +316,7 @@
     },
     {
         "name": "Diykeycap Apollo",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -333,7 +333,7 @@
     },
     {
         "name": "Diykeycap Green Gradient",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -347,7 +347,7 @@
     },
     {
         "name": "Epomaker Space Travel",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -364,7 +364,7 @@
     },
     {
         "name": "Diykeycap Striker",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -378,7 +378,7 @@
     },
     {
         "name": "Diykeycap Evil Dolch",
-        "price": "$32",
+        "price": 32.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -395,7 +395,7 @@
     },
     {
         "name": "Diykeycap GODSPEED",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -412,7 +412,7 @@
     },
     {
         "name": "GMK Higanbana",
-        "price": "$165",
+        "price": 165.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -426,7 +426,7 @@
     },
     {
         "name": "Kono Essso",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -440,7 +440,7 @@
     },
     {
         "name": "Diykeycap Coral Sea",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -454,7 +454,7 @@
     },
     {
         "name": "Diykeycap Toxic",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -468,7 +468,7 @@
     },
     {
         "name": "Epomaker AquaShift",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -482,7 +482,7 @@
     },
     {
         "name": "ePBT Kuro Shiro",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "ePBT",
         "vendor": [
             "ApexKeyboards"
@@ -496,7 +496,7 @@
     },
     {
         "name": "JC Studio Mint Keycap Extension",
-        "price": "$15",
+        "price": 15.0,
         "manufacturer": "JC Studio",
         "vendor": [
             "Divinikey"
@@ -510,7 +510,7 @@
     },
     {
         "name": "Redragon ET Electroplated",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Redragon",
         "vendor": [
             "Mechkeys"
@@ -524,7 +524,7 @@
     },
     {
         "name": "G-mky GY Illusion/Modern Dolch Light/Classic Blue/Arctic/Wavez/Toxic",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "G-mky",
         "vendor": [
             "Mechkeys"
@@ -538,7 +538,7 @@
     },
     {
         "name": "Diykeycap Minimalist White Japanese",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -552,7 +552,7 @@
     },
     {
         "name": "Yunzii Gradient",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -566,7 +566,7 @@
     },
     {
         "name": "Nuphy Meow Xmas",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -580,7 +580,7 @@
     },
     {
         "name": "Epomaker Cream Bunny",
-        "price": "$36",
+        "price": 36.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -597,7 +597,7 @@
     },
     {
         "name": "Kiiboom Violet",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -611,7 +611,7 @@
     },
     {
         "name": "Diykeycap Arctic",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -625,7 +625,7 @@
     },
     {
         "name": "Epomaker Lavender",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -639,7 +639,7 @@
     },
     {
         "name": "Yunzii Shimmer/EVA08/Bee/Lemon/Bird",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -653,7 +653,7 @@
     },
     {
         "name": "Epomaker PixelPlush",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -667,7 +667,7 @@
     },
     {
         "name": "zFrontier Yohko",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -681,7 +681,7 @@
     },
     {
         "name": "aifei Profile Monster",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "aifei",
         "vendor": [
             "Diykeycap"
@@ -698,7 +698,7 @@
     },
     {
         "name": "Epomaker MIA",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -715,7 +715,7 @@
     },
     {
         "name": "PBTfans Untamed",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -729,7 +729,7 @@
     },
     {
         "name": "Sikakeyb",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Sikakeyb",
         "vendor": [
             "Mechkeys"
@@ -743,7 +743,7 @@
     },
     {
         "name": "GMK Shadow",
-        "price": "$179",
+        "price": 179.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -760,7 +760,7 @@
     },
     {
         "name": "Keytok Beyond/the Past/Wave",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -774,7 +774,7 @@
     },
     {
         "name": "Joorkey Haku",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -788,7 +788,7 @@
     },
     {
         "name": "PolyCaps Candy Shop",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "PolyCaps",
         "vendor": [
             "Kinetic Labs"
@@ -805,7 +805,7 @@
     },
     {
         "name": "PBTfans KabukiCho R2",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -819,7 +819,7 @@
     },
     {
         "name": "qtuo studio Strawberry Shortcake",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "qtuo studio",
         "vendor": [
             "Dangkeebs"
@@ -833,7 +833,7 @@
     },
     {
         "name": "Akko Neon",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Akko",
         "vendor": [
             "Diykeycap"
@@ -847,7 +847,7 @@
     },
     {
         "name": "Keyreative Command",
-        "price": "$40",
+        "price": 40.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -861,7 +861,7 @@
     },
     {
         "name": "Diykeycap SHOKO",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -875,7 +875,7 @@
     },
     {
         "name": "Switchlab Maclab",
-        "price": "$80",
+        "price": 80.0,
         "manufacturer": "Switchlab",
         "vendor": [
             "Divinikey"
@@ -889,7 +889,7 @@
     },
     {
         "name": "Diykeycap Blue Hell/Blue moon",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -903,7 +903,7 @@
     },
     {
         "name": "Signature Plastics SP Essso",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -917,7 +917,7 @@
     },
     {
         "name": "Diykeycap Modern Dolch",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -934,7 +934,7 @@
     },
     {
         "name": "Diykeycap Mixed twocolor backlight Keycap",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -948,7 +948,7 @@
     },
     {
         "name": "WhatGeek KCK01 Space Profile",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "WhatGeek",
         "vendor": [
             "WhatGeek"
@@ -962,7 +962,7 @@
     },
     {
         "name": "GMK Sumi",
-        "price": "$165",
+        "price": 165.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -976,7 +976,7 @@
     },
     {
         "name": "Diykeycap Future Funk",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -990,7 +990,7 @@
     },
     {
         "name": "Nuphy Noether Gravity Shinethrough",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -1004,7 +1004,7 @@
     },
     {
         "name": "Ducky One 2 Mini Backlight Gray purple",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Ducky",
         "vendor": [
             "Diykeycap"
@@ -1018,7 +1018,7 @@
     },
     {
         "name": "ePBT Acadia",
-        "price": "$119",
+        "price": 119.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Kono"
@@ -1035,7 +1035,7 @@
     },
     {
         "name": "Nuphy Carved Prairie",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -1049,7 +1049,7 @@
     },
     {
         "name": "Diykeycap Tuzi",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1063,7 +1063,7 @@
     },
     {
         "name": "JTK Formidable",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "JTK",
         "vendor": [
             "zFrontier"
@@ -1077,7 +1077,7 @@
     },
     {
         "name": "Keyreative LeleLab ICE CAT Seaside",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -1091,7 +1091,7 @@
     },
     {
         "name": "Diykeycap MODERN DOLCH",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1105,7 +1105,7 @@
     },
     {
         "name": "Diykeycap Alter",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1119,7 +1119,7 @@
     },
     {
         "name": "Diykeycap Comet",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1133,7 +1133,7 @@
     },
     {
         "name": "Nuphy Maya Imprint",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -1147,7 +1147,7 @@
     },
     {
         "name": "Joorkey Japanese Analog Dreams",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -1161,7 +1161,7 @@
     },
     {
         "name": "Joorkey Ink Blossom",
-        "price": "$62",
+        "price": 62.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -1175,7 +1175,7 @@
     },
     {
         "name": "GMK Hanami Dango",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -1192,7 +1192,7 @@
     },
     {
         "name": "GMK Mr Sleeves R2",
-        "price": "$44",
+        "price": 44.0,
         "manufacturer": "GMK",
         "vendor": [
             "ApexKeyboards"
@@ -1206,7 +1206,7 @@
     },
     {
         "name": "MelGeek MG Salon",
-        "price": "$129",
+        "price": 129.0,
         "manufacturer": "MelGeek",
         "vendor": [
             "Kono"
@@ -1223,7 +1223,7 @@
     },
     {
         "name": "Maxkey Foundation",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Maxkey",
         "vendor": [
             "Kono"
@@ -1237,7 +1237,7 @@
     },
     {
         "name": "KDS Transmutation",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "KDS",
         "vendor": [
             "Apos"
@@ -1251,7 +1251,7 @@
     },
     {
         "name": "Reccazr Side Printed Translucidus",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Reccazr",
         "vendor": [
             "Mechkeys"
@@ -1265,7 +1265,7 @@
     },
     {
         "name": "Yunzii Childhood/Ham/Sea/Birch",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -1279,7 +1279,7 @@
     },
     {
         "name": "Diykeycap Camp",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1293,7 +1293,7 @@
     },
     {
         "name": "Coolkiller Polar Bear",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Coolkiller",
         "vendor": [
             "Epomaker"
@@ -1307,7 +1307,7 @@
     },
     {
         "name": "Diykeycap Japanese Sakura For",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Diykeycap Hatsune Miku",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1335,7 +1335,7 @@
     },
     {
         "name": "Kono Bubble R2",
-        "price": "$139",
+        "price": 139.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -1349,7 +1349,7 @@
     },
     {
         "name": "Diykeycap Galaxy",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1363,7 +1363,7 @@
     },
     {
         "name": "Epomaker Mango Dessert",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -1377,7 +1377,7 @@
     },
     {
         "name": "ePBT Acid House Sweet Girl",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Kono"
@@ -1391,7 +1391,7 @@
     },
     {
         "name": "Yunzii Coffee Cat",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -1405,7 +1405,7 @@
     },
     {
         "name": "Coolkiller Summer Lemon",
-        "price": "$47",
+        "price": 47.0,
         "manufacturer": "Coolkiller",
         "vendor": [
             "Epomaker"
@@ -1419,7 +1419,7 @@
     },
     {
         "name": "PBTfans Ronin",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -1433,7 +1433,7 @@
     },
     {
         "name": "Diykeycap Stargaz",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1447,7 +1447,7 @@
     },
     {
         "name": "Kiiboom Ice Cream Dream",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -1461,7 +1461,7 @@
     },
     {
         "name": "Diykeycap Groudon",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1475,7 +1475,7 @@
     },
     {
         "name": "Piifox Binary",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -1489,7 +1489,7 @@
     },
     {
         "name": "Domikey Obsidian",
-        "price": "$140",
+        "price": 140.0,
         "manufacturer": "Domikey",
         "vendor": [
             "Mechkeys"
@@ -1503,7 +1503,7 @@
     },
     {
         "name": "Epomaker Peach Sun",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -1517,7 +1517,7 @@
     },
     {
         "name": "aifei Nightshade",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "aifei",
         "vendor": [
             "Diykeycap"
@@ -1531,7 +1531,7 @@
     },
     {
         "name": "KeysMe Rune Stones",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "KeysMe",
         "vendor": [
             "Mechkeys"
@@ -1545,7 +1545,7 @@
     },
     {
         "name": "Titan Nation GALAXY",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -1559,7 +1559,7 @@
     },
     {
         "name": "Diykeycap Analog Dreams",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1573,7 +1573,7 @@
     },
     {
         "name": "Diykeycap Metropolis",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1587,7 +1587,7 @@
     },
     {
         "name": "PBTfans BOW",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -1601,7 +1601,7 @@
     },
     {
         "name": "Kono Magica",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -1615,7 +1615,7 @@
     },
     {
         "name": "Diykeycap Sound Flow",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1629,7 +1629,7 @@
     },
     {
         "name": "Diykeycap Botanical",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1643,7 +1643,7 @@
     },
     {
         "name": "Diykeycap Polaris",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1660,7 +1660,7 @@
     },
     {
         "name": "Yunzii",
-        "price": "$25",
+        "price": 25.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -1674,7 +1674,7 @@
     },
     {
         "name": "Akko Wave",
-        "price": "$68",
+        "price": 68.0,
         "manufacturer": "Akko",
         "vendor": [
             "Diykeycap"
@@ -1688,7 +1688,7 @@
     },
     {
         "name": "Joorkey RedCrowned Crane",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -1702,7 +1702,7 @@
     },
     {
         "name": "Keytok Zero Divn Translucidus",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -1716,7 +1716,7 @@
     },
     {
         "name": "Joorkey Shoko",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -1733,7 +1733,7 @@
     },
     {
         "name": "GMK Storm",
-        "price": "$180",
+        "price": 180.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -1747,7 +1747,7 @@
     },
     {
         "name": "Diykeycap Ahagao Japanese Anime Keycap",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "ePBT Soju",
-        "price": "$109",
+        "price": 109.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Apos"
@@ -1778,7 +1778,7 @@
     },
     {
         "name": "Joorkey Los Angeles Themed",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -1792,7 +1792,7 @@
     },
     {
         "name": "PBTfans Black on White BoW",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Dangkeebs"
@@ -1806,7 +1806,7 @@
     },
     {
         "name": "GMK Olive R2",
-        "price": "$128",
+        "price": 128.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -1820,7 +1820,7 @@
     },
     {
         "name": "Diykeycap Unown R3",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1834,7 +1834,7 @@
     },
     {
         "name": "GMK Infernal",
-        "price": "$160",
+        "price": 160.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -1848,7 +1848,7 @@
     },
     {
         "name": "GMK Botanical 2",
-        "price": "$157",
+        "price": 157.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -1862,7 +1862,7 @@
     },
     {
         "name": "Diykeycap Unown",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1876,7 +1876,7 @@
     },
     {
         "name": "ACGAM The Stars Night",
-        "price": "$56",
+        "price": 56.0,
         "manufacturer": "ACGAM",
         "vendor": [
             "WhatGeek"
@@ -1890,7 +1890,7 @@
     },
     {
         "name": "Signature Plastics SP Ramses",
-        "price": "$64",
+        "price": 64.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -1904,7 +1904,7 @@
     },
     {
         "name": "Lofree",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Lofree",
         "vendor": [
             "Mechkeys"
@@ -1918,7 +1918,7 @@
     },
     {
         "name": "Diykeycap C64 BED",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1932,7 +1932,7 @@
     },
     {
         "name": "Epomaker Lavender Jade",
-        "price": "$33",
+        "price": 33.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -1946,7 +1946,7 @@
     },
     {
         "name": "GMK Fuji",
-        "price": "$165",
+        "price": 165.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -1960,7 +1960,7 @@
     },
     {
         "name": "Diykeycap Blue/Red Samurai",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -1977,7 +1977,7 @@
     },
     {
         "name": "Kono SP Silent Assassin",
-        "price": "$169",
+        "price": 169.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -1991,7 +1991,7 @@
     },
     {
         "name": "Joorkey Noel",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2005,7 +2005,7 @@
     },
     {
         "name": "Kono Miami",
-        "price": "$111",
+        "price": 111.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -2019,7 +2019,7 @@
     },
     {
         "name": "Tai-Hao Yellow Submarine",
-        "price": "$27",
+        "price": 27.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -2033,7 +2033,7 @@
     },
     {
         "name": "GMK Tuzi",
-        "price": "$140",
+        "price": 140.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -2047,7 +2047,7 @@
     },
     {
         "name": "Epomaker Wonderland Whimsy",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -2061,7 +2061,7 @@
     },
     {
         "name": "PBTfans Resonance R2",
-        "price": "$109",
+        "price": 109.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -2075,7 +2075,7 @@
     },
     {
         "name": "Epomaker Pink Piggy",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -2089,7 +2089,7 @@
     },
     {
         "name": "Keyreative Outline",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -2103,7 +2103,7 @@
     },
     {
         "name": "Diykeycap Black Yellow Japanese keycap",
-        "price": "$32",
+        "price": 32.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2117,7 +2117,7 @@
     },
     {
         "name": "zFrontier MV Synth",
-        "price": "$80",
+        "price": 80.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -2131,7 +2131,7 @@
     },
     {
         "name": "Kono DS108 ShineThrough",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -2145,7 +2145,7 @@
     },
     {
         "name": "MelGeek MG Ember",
-        "price": "$119",
+        "price": 119.0,
         "manufacturer": "MelGeek",
         "vendor": [
             "Apos"
@@ -2159,7 +2159,7 @@
     },
     {
         "name": "JC Studio Runes",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "JC Studio",
         "vendor": [
             "Divinikey"
@@ -2173,7 +2173,7 @@
     },
     {
         "name": "Piifox Universe Travel",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -2187,7 +2187,7 @@
     },
     {
         "name": "Domikey Aqua Key",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "Domikey",
         "vendor": [
             "zFrontier"
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "Keyreative Refined",
-        "price": "$43",
+        "price": 43.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -2215,7 +2215,7 @@
     },
     {
         "name": "Joorkey Milk Cover",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2229,7 +2229,7 @@
     },
     {
         "name": "Keyreative Lala",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -2243,7 +2243,7 @@
     },
     {
         "name": "Diykeycap Darling",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2257,7 +2257,7 @@
     },
     {
         "name": "Kiiboom Maorbeng Meow Meow Squad",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -2271,7 +2271,7 @@
     },
     {
         "name": "Diykeycap Izakaya",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2288,7 +2288,7 @@
     },
     {
         "name": "Epomaker Meow Sushi",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -2302,7 +2302,7 @@
     },
     {
         "name": "Diykeycap Umbra",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2316,7 +2316,7 @@
     },
     {
         "name": "Signature Plastics SP Maestro",
-        "price": "$200",
+        "price": 200.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -2330,7 +2330,7 @@
     },
     {
         "name": "GMK Yeeti",
-        "price": "$129",
+        "price": 129.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -2347,7 +2347,7 @@
     },
     {
         "name": "aifei Profile Salmon",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "aifei",
         "vendor": [
             "Diykeycap"
@@ -2364,7 +2364,7 @@
     },
     {
         "name": "Winmix Vintage Beige",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -2378,7 +2378,7 @@
     },
     {
         "name": "Winmix Baby Purple",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -2392,7 +2392,7 @@
     },
     {
         "name": "Signature Plastics SP Bubble R2",
-        "price": "$110",
+        "price": 110.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -2406,7 +2406,7 @@
     },
     {
         "name": "Tai-Hao Red",
-        "price": "$27",
+        "price": 27.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -2420,7 +2420,7 @@
     },
     {
         "name": "G-mky GY 138 Botanical",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "G-mky",
         "vendor": [
             "Mechkeys"
@@ -2434,7 +2434,7 @@
     },
     {
         "name": "PBTfans",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -2448,7 +2448,7 @@
     },
     {
         "name": "Diykeycap",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2465,7 +2465,7 @@
     },
     {
         "name": "GMK Jags",
-        "price": "$170",
+        "price": 170.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -2479,7 +2479,7 @@
     },
     {
         "name": "Diykeycap Hammerhead",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2493,7 +2493,7 @@
     },
     {
         "name": "Signature Plastics Miami",
-        "price": "$112",
+        "price": 112.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "Apos"
@@ -2507,7 +2507,7 @@
     },
     {
         "name": "Diykeycap SHOKO",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2524,7 +2524,7 @@
     },
     {
         "name": "GMK Tenshi",
-        "price": "$139",
+        "price": 139.0,
         "manufacturer": "GMK",
         "vendor": [
             "Kono"
@@ -2538,7 +2538,7 @@
     },
     {
         "name": "GMK Haku",
-        "price": "$114",
+        "price": 114.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -2555,7 +2555,7 @@
     },
     {
         "name": "Keytok Pixel Universe Translucidus",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -2569,7 +2569,7 @@
     },
     {
         "name": "Joorkey Chalk",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2583,7 +2583,7 @@
     },
     {
         "name": "Shurikey gear",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Shurikey gear",
         "vendor": [
             "Mechkeys"
@@ -2597,7 +2597,7 @@
     },
     {
         "name": "JC Studio Desko Color",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "JC Studio",
         "vendor": [
             "Divinikey"
@@ -2611,7 +2611,7 @@
     },
     {
         "name": "Joorkey Mint Toffee",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2625,7 +2625,7 @@
     },
     {
         "name": "GMK Daifuku",
-        "price": "$232",
+        "price": 232.0,
         "manufacturer": "GMK",
         "vendor": [
             "Dangkeebs"
@@ -2639,7 +2639,7 @@
     },
     {
         "name": "Piifox Splashing Ink Landscape",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -2653,7 +2653,7 @@
     },
     {
         "name": "ePBT Flaming Ice",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Divinikey"
@@ -2667,7 +2667,7 @@
     },
     {
         "name": "Titan Nation Cyberpunk Sideprinted",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -2681,7 +2681,7 @@
     },
     {
         "name": "PBTfans Frontier",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -2695,7 +2695,7 @@
     },
     {
         "name": "Oshid Grey White Translucidus",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Oshid",
         "vendor": [
             "Mechkeys"
@@ -2709,7 +2709,7 @@
     },
     {
         "name": "Denshi Electronic ProFILE GRAPHITE",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Denshi Electronic",
         "vendor": [
             "Denshi Electronic"
@@ -2723,7 +2723,7 @@
     },
     {
         "name": "Diykeycap Pharaoh Theme",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2737,7 +2737,7 @@
     },
     {
         "name": "Idobao Minimalist EMA ;",
-        "price": "$50",
+        "price": 50.0,
         "manufacturer": "Idobao",
         "vendor": [
             "Mechkeys"
@@ -2754,7 +2754,7 @@
     },
     {
         "name": "Wuque Studio Poker",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Wuque Studio",
         "vendor": [
             "Dangkeebs"
@@ -2768,7 +2768,7 @@
     },
     {
         "name": "Joorkey Redacted",
-        "price": "$58",
+        "price": 58.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2782,7 +2782,7 @@
     },
     {
         "name": "GMK Sun Surfing",
-        "price": "$139",
+        "price": 139.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -2799,7 +2799,7 @@
     },
     {
         "name": "PolyCaps Octopus",
-        "price": "$64",
+        "price": 64.0,
         "manufacturer": "PolyCaps",
         "vendor": [
             "Kinetic Labs"
@@ -2813,7 +2813,7 @@
     },
     {
         "name": "Titan Nation Yin Yang",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -2827,7 +2827,7 @@
     },
     {
         "name": "Joorkey EVA01 Theme",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2841,7 +2841,7 @@
     },
     {
         "name": "GMK CYL Rainy Day R2",
-        "price": "$128",
+        "price": 128.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -2855,7 +2855,7 @@
     },
     {
         "name": "Piifox Green Wheat Field Pastel Painting",
-        "price": "$64",
+        "price": 64.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -2869,7 +2869,7 @@
     },
     {
         "name": "JTK Fishing Tripleshot",
-        "price": "$90",
+        "price": 90.0,
         "manufacturer": "JTK",
         "vendor": [
             "Divinikey"
@@ -2883,7 +2883,7 @@
     },
     {
         "name": "Joorkey Anime",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -2897,7 +2897,7 @@
     },
     {
         "name": "Diykeycap Pink Gradient Backlight",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2911,7 +2911,7 @@
     },
     {
         "name": "Keykobo Moon Rabbit",
-        "price": "$85",
+        "price": 85.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "zFrontier"
@@ -2925,7 +2925,7 @@
     },
     {
         "name": "Keyreative Ghost",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -2942,7 +2942,7 @@
     },
     {
         "name": "Diykeycap",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -2956,7 +2956,7 @@
     },
     {
         "name": "Keytok Turn 90's Smile",
-        "price": "$90",
+        "price": 90.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -2970,7 +2970,7 @@
     },
     {
         "name": "Noppoo Kiki's Delivery Service",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Noppoo",
         "vendor": [
             "Mechkeys"
@@ -2984,7 +2984,7 @@
     },
     {
         "name": "Keykobo Izakaya",
-        "price": "$92",
+        "price": 92.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "Divinikey"
@@ -2998,7 +2998,7 @@
     },
     {
         "name": "Diykeycap Profile Japanese Fall Love For",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3012,7 +3012,7 @@
     },
     {
         "name": "GMK 80082",
-        "price": "$125",
+        "price": 125.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3026,7 +3026,7 @@
     },
     {
         "name": "Idobao Japanese",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Idobao",
         "vendor": [
             "Mechkeys"
@@ -3040,7 +3040,7 @@
     },
     {
         "name": "Ergodox Blank",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Ergodox",
         "vendor": [
             "Kono"
@@ -3054,7 +3054,7 @@
     },
     {
         "name": "JC Studio Color",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "JC Studio",
         "vendor": [
             "Divinikey"
@@ -3068,7 +3068,7 @@
     },
     {
         "name": "GMK Redline",
-        "price": "$135",
+        "price": 135.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3082,7 +3082,7 @@
     },
     {
         "name": "Keyreative Bouquet",
-        "price": "$88",
+        "price": 88.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -3096,7 +3096,7 @@
     },
     {
         "name": "Yunzii Wandering",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -3110,7 +3110,7 @@
     },
     {
         "name": "Soulcat Cat Stack Profile",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Soulcat",
         "vendor": [
             "WhatGeek"
@@ -3124,7 +3124,7 @@
     },
     {
         "name": "Diykeycap /Bow",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3141,7 +3141,7 @@
     },
     {
         "name": "Tai-Hao Lavender Chocolate ShineThrough",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -3159,7 +3159,7 @@
     },
     {
         "name": "Yunzii Meow",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -3173,7 +3173,7 @@
     },
     {
         "name": "Cherry Profile Japanese Keycap Minimalist White Theme Minimalist Style Suitable For",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Cherry",
         "vendor": [
             "Diykeycap"
@@ -3187,7 +3187,7 @@
     },
     {
         "name": "Diykeycap Backlight Keycap",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3201,7 +3201,7 @@
     },
     {
         "name": "Apos Linus Tech Tips",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Apos",
         "vendor": [
             "Apos"
@@ -3215,7 +3215,7 @@
     },
     {
         "name": "Domikey Dolch",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Domikey",
         "vendor": [
             "Mechkeys"
@@ -3229,7 +3229,7 @@
     },
     {
         "name": "Tai-Hao Sky Blue",
-        "price": "$27",
+        "price": 27.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -3243,7 +3243,7 @@
     },
     {
         "name": "Diykeycap Frost Witch",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3257,7 +3257,7 @@
     },
     {
         "name": "GMK Y\u00fctousu",
-        "price": "$171",
+        "price": 171.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3271,7 +3271,7 @@
     },
     {
         "name": "Diykeycap EVA Mecha",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3285,7 +3285,7 @@
     },
     {
         "name": "Diykeycap Boba Fett",
-        "price": "$41",
+        "price": 41.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3299,7 +3299,7 @@
     },
     {
         "name": "Divinikey MW Yeeti Light",
-        "price": "$85",
+        "price": 85.0,
         "manufacturer": "Divinikey",
         "vendor": [
             "Divinikey"
@@ -3313,7 +3313,7 @@
     },
     {
         "name": "Diykeycap Lavender",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3330,7 +3330,7 @@
     },
     {
         "name": "Tai-Hao Blue",
-        "price": "$27",
+        "price": 27.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -3344,7 +3344,7 @@
     },
     {
         "name": "Diykeycap Mewtwo",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3358,7 +3358,7 @@
     },
     {
         "name": "Varmilo sCherry",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Varmilo",
         "vendor": [
             "Mechkeys"
@@ -3372,7 +3372,7 @@
     },
     {
         "name": "Titan Nation Stargaze",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -3386,7 +3386,7 @@
     },
     {
         "name": "GMK DMG 3",
-        "price": "$160",
+        "price": 160.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3400,7 +3400,7 @@
     },
     {
         "name": "Keyreative Sewing Tin",
-        "price": "$100",
+        "price": 100.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -3414,7 +3414,7 @@
     },
     {
         "name": "G-mky GY 145 Monster Japanese",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "G-mky",
         "vendor": [
             "Mechkeys"
@@ -3428,7 +3428,7 @@
     },
     {
         "name": "Diykeycap EVA",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3442,7 +3442,7 @@
     },
     {
         "name": "Diykeycap Gray White",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3456,7 +3456,7 @@
     },
     {
         "name": "Kiiboom Maorbeng WoofWoof Squad",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -3470,7 +3470,7 @@
     },
     {
         "name": "Akko Macaw",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Akko",
         "vendor": [
             "Diykeycap"
@@ -3484,7 +3484,7 @@
     },
     {
         "name": "JTK 404",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "JTK",
         "vendor": [
             "zFrontier"
@@ -3498,7 +3498,7 @@
     },
     {
         "name": "Joorkey Iris",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -3515,7 +3515,7 @@
     },
     {
         "name": "Tai-Hao Miami",
-        "price": "$44",
+        "price": 44.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -3529,7 +3529,7 @@
     },
     {
         "name": "Cherry Jade Profile",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Cherry",
         "vendor": [
             "WhatGeek"
@@ -3543,7 +3543,7 @@
     },
     {
         "name": "Keykobo Instant",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "zFrontier"
@@ -3557,7 +3557,7 @@
     },
     {
         "name": "Idobao 9009v3 Retro Series",
-        "price": "$31",
+        "price": 31.0,
         "manufacturer": "Idobao",
         "vendor": [
             "Mechkeys"
@@ -3571,7 +3571,7 @@
     },
     {
         "name": "Diykeycap Blue purple",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3588,7 +3588,7 @@
     },
     {
         "name": "Winmix Cloud Mist",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -3602,7 +3602,7 @@
     },
     {
         "name": "Domikey SeaSurfing Clear Blue Key",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "Domikey",
         "vendor": [
             "zFrontier"
@@ -3616,7 +3616,7 @@
     },
     {
         "name": "Yunzii Spring Tea",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -3630,7 +3630,7 @@
     },
     {
         "name": "ePBT Miami Nights",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Dangkeebs"
@@ -3644,7 +3644,7 @@
     },
     {
         "name": "Diykeycap YuRu",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3658,7 +3658,7 @@
     },
     {
         "name": "GMK Classic Beige Hangul Beige",
-        "price": "$166",
+        "price": 166.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3672,7 +3672,7 @@
     },
     {
         "name": "Maxkey White Black",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Maxkey",
         "vendor": [
             "Kono"
@@ -3686,7 +3686,7 @@
     },
     {
         "name": "Keyreative 80s After Dark",
-        "price": "$36",
+        "price": 36.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -3700,7 +3700,7 @@
     },
     {
         "name": "GMK Gateway",
-        "price": "$179",
+        "price": 179.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -3717,7 +3717,7 @@
     },
     {
         "name": "Keytok Turn to 90's Smile",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Nuphy"
@@ -3731,7 +3731,7 @@
     },
     {
         "name": "Domikey Geeks Dolch",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Domikey",
         "vendor": [
             "Mechkeys"
@@ -3745,7 +3745,7 @@
     },
     {
         "name": "Akko Kuromi Profile",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Akko",
         "vendor": [
             "WhatGeek"
@@ -3759,7 +3759,7 @@
     },
     {
         "name": "WhatGeek Cyberpunk Profile",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "WhatGeek",
         "vendor": [
             "WhatGeek"
@@ -3773,7 +3773,7 @@
     },
     {
         "name": "GMK Z\u00ecm\u014d",
-        "price": "$145",
+        "price": 145.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3787,7 +3787,7 @@
     },
     {
         "name": "KDS Splatter Splatter",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "KDS",
         "vendor": [
             "Kono"
@@ -3801,7 +3801,7 @@
     },
     {
         "name": "Winmix Cold ASH",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -3815,7 +3815,7 @@
     },
     {
         "name": "KDS Splatter",
-        "price": "$63",
+        "price": 63.0,
         "manufacturer": "KDS",
         "vendor": [
             "Apos"
@@ -3829,7 +3829,7 @@
     },
     {
         "name": "Apos Essso",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Apos",
         "vendor": [
             "Apos"
@@ -3843,7 +3843,7 @@
     },
     {
         "name": "Diykeycap Nautilus",
-        "price": "$32",
+        "price": 32.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3857,7 +3857,7 @@
     },
     {
         "name": "Yunzii Weather",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -3871,7 +3871,7 @@
     },
     {
         "name": "Diykeycap Profile Keycap",
-        "price": "$48",
+        "price": 48.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3888,7 +3888,7 @@
     },
     {
         "name": "Keytok Sweet Monster",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -3902,7 +3902,7 @@
     },
     {
         "name": "Cherry Starry Night Profile",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Cherry",
         "vendor": [
             "WhatGeek"
@@ -3916,7 +3916,7 @@
     },
     {
         "name": "G-mky GY Emerald/Wbi",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "G-mky",
         "vendor": [
             "Mechkeys"
@@ -3930,7 +3930,7 @@
     },
     {
         "name": "Joorkey Oblivion",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -3944,7 +3944,7 @@
     },
     {
         "name": "GMK Euler",
-        "price": "$170",
+        "price": 170.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -3958,7 +3958,7 @@
     },
     {
         "name": "Cherry Ball Cap Keycap Personalized Gradient Color Elf Keycap For MX Switch",
-        "price": "$137",
+        "price": 137.0,
         "manufacturer": "Cherry",
         "vendor": [
             "Diykeycap"
@@ -3972,7 +3972,7 @@
     },
     {
         "name": "Diykeycap Kaiju",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -3986,7 +3986,7 @@
     },
     {
         "name": "PIWIDESIGN Starry Claws Sideprinted",
-        "price": "$50",
+        "price": 50.0,
         "manufacturer": "PIWIDESIGN",
         "vendor": [
             "Mechkeys"
@@ -4000,7 +4000,7 @@
     },
     {
         "name": "GMK Peach Blossom R2",
-        "price": "$169",
+        "price": 169.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4014,7 +4014,7 @@
     },
     {
         "name": "Keytok Back in the Game",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -4028,7 +4028,7 @@
     },
     {
         "name": "ePBT Spectrum",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "ePBT",
         "vendor": [
             "zFrontier"
@@ -4042,7 +4042,7 @@
     },
     {
         "name": "zFrontier MW Calico",
-        "price": "$90",
+        "price": 90.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -4056,7 +4056,7 @@
     },
     {
         "name": "GMK Metropolis R2",
-        "price": "$150",
+        "price": 150.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4070,7 +4070,7 @@
     },
     {
         "name": "Domikey Atlantis",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Domikey",
         "vendor": [
             "Mechkeys"
@@ -4084,7 +4084,7 @@
     },
     {
         "name": "Diykeycap Keycap Heavy industry/Monster",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4101,7 +4101,7 @@
     },
     {
         "name": "sam Japanese samurai",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "sam",
         "vendor": [
             "Diykeycap"
@@ -4115,7 +4115,7 @@
     },
     {
         "name": "Keykobo RainBoW Accent",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "Divinikey"
@@ -4129,7 +4129,7 @@
     },
     {
         "name": "Kono Solarized",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -4143,7 +4143,7 @@
     },
     {
         "name": "Kono Cyberspace",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -4157,7 +4157,7 @@
     },
     {
         "name": "GMK Symbiote",
-        "price": "$175",
+        "price": 175.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4171,7 +4171,7 @@
     },
     {
         "name": "Piifox Pink Story Pastel Painting Sideprinted",
-        "price": "$64",
+        "price": 64.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -4185,7 +4185,7 @@
     },
     {
         "name": "GMK CYL Griseann",
-        "price": "$155",
+        "price": 155.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4199,7 +4199,7 @@
     },
     {
         "name": "GMK Terror Below",
-        "price": "$175",
+        "price": 175.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4213,7 +4213,7 @@
     },
     {
         "name": "Yunzii Laputa",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -4227,7 +4227,7 @@
     },
     {
         "name": "Keyreative Made to UV DRAWING Key Multilingual",
-        "price": "$40",
+        "price": 40.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -4245,7 +4245,7 @@
     },
     {
         "name": "Signature Plastics SP Fledgling",
-        "price": "$52",
+        "price": 52.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -4259,7 +4259,7 @@
     },
     {
         "name": "Yunzii Garden",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -4273,7 +4273,7 @@
     },
     {
         "name": "Winmix Moss Green",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -4287,7 +4287,7 @@
     },
     {
         "name": "Keyreative LeleLab Supsup SuperX White",
-        "price": "$44",
+        "price": 44.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -4301,7 +4301,7 @@
     },
     {
         "name": "Fancy Lafite Semi",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Fancy",
         "vendor": [
             "Mechkeys"
@@ -4315,7 +4315,7 @@
     },
     {
         "name": "Signature Plastics SP Strong Spirit",
-        "price": "$110",
+        "price": 110.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -4329,7 +4329,7 @@
     },
     {
         "name": "KBDFans DOLCH",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "KBDFans",
         "vendor": [
             "Mechkeys"
@@ -4343,7 +4343,7 @@
     },
     {
         "name": "JTK Dreaming Girl",
-        "price": "$110",
+        "price": 110.0,
         "manufacturer": "JTK",
         "vendor": [
             "zFrontier"
@@ -4357,7 +4357,7 @@
     },
     {
         "name": "Domikey Miami Night",
-        "price": "$96",
+        "price": 96.0,
         "manufacturer": "Domikey",
         "vendor": [
             "Mechkeys"
@@ -4371,7 +4371,7 @@
     },
     {
         "name": "ePBT RamenStop",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Apos"
@@ -4385,7 +4385,7 @@
     },
     {
         "name": "Joorkey Rare Earth",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -4402,7 +4402,7 @@
     },
     {
         "name": "Titan Nation Shan Shui",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -4416,7 +4416,7 @@
     },
     {
         "name": "Titan Nation CYBERSPACE",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -4430,7 +4430,7 @@
     },
     {
         "name": "ACGAM CuteCat Profile",
-        "price": "$44",
+        "price": 44.0,
         "manufacturer": "ACGAM",
         "vendor": [
             "WhatGeek"
@@ -4447,7 +4447,7 @@
     },
     {
         "name": "Noppoo kura",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Noppoo",
         "vendor": [
             "Mechkeys"
@@ -4461,7 +4461,7 @@
     },
     {
         "name": "Akko Countryside Mousse Cake Profile",
-        "price": "$26",
+        "price": 26.0,
         "manufacturer": "Akko",
         "vendor": [
             "WhatGeek"
@@ -4475,7 +4475,7 @@
     },
     {
         "name": "Denshi Electronic ProFILE HAMMERHEAD",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Denshi Electronic",
         "vendor": [
             "Denshi Electronic"
@@ -4489,7 +4489,7 @@
     },
     {
         "name": "ACGAM Cow Farm Profile",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "ACGAM",
         "vendor": [
             "WhatGeek"
@@ -4503,7 +4503,7 @@
     },
     {
         "name": "Diykeycap Tiffany",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4517,7 +4517,7 @@
     },
     {
         "name": "GMK Aegyptus",
-        "price": "$170",
+        "price": 170.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4531,7 +4531,7 @@
     },
     {
         "name": "WOB JAPANESE",
-        "price": "$54",
+        "price": 54.0,
         "manufacturer": "WOB",
         "vendor": [
             "Denshi Electronic"
@@ -4548,7 +4548,7 @@
     },
     {
         "name": "Diykeycap Graphite Cyan",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4562,7 +4562,7 @@
     },
     {
         "name": "Diykeycap White",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4579,7 +4579,7 @@
     },
     {
         "name": "Diykeycap Childhood Fun",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4593,7 +4593,7 @@
     },
     {
         "name": "GMK Peaches n Cream Lite",
-        "price": "$140",
+        "price": 140.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4607,7 +4607,7 @@
     },
     {
         "name": "zFrontier MW Cultured",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -4621,7 +4621,7 @@
     },
     {
         "name": "GMK Fright Club Vol.1",
-        "price": "$161",
+        "price": 161.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4635,7 +4635,7 @@
     },
     {
         "name": "Keykobo Jindo",
-        "price": "$72",
+        "price": 72.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "Divinikey"
@@ -4649,7 +4649,7 @@
     },
     {
         "name": "GMK Earth Tones",
-        "price": "$157",
+        "price": 157.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4663,7 +4663,7 @@
     },
     {
         "name": "Createkeebs Escapist Elf",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "Createkeebs",
         "vendor": [
             "Dangkeebs"
@@ -4677,7 +4677,7 @@
     },
     {
         "name": "80retros GAME 1989",
-        "price": "$119",
+        "price": 119.0,
         "manufacturer": "80retros",
         "vendor": [
             "Epomaker"
@@ -4694,7 +4694,7 @@
     },
     {
         "name": "Joorkey Cartoons",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -4708,7 +4708,7 @@
     },
     {
         "name": "G-mky GY 141",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "G-mky",
         "vendor": [
             "Mechkeys"
@@ -4722,7 +4722,7 @@
     },
     {
         "name": "Yunzii Vintage Grey/Red",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -4736,7 +4736,7 @@
     },
     {
         "name": "Keychron Forest",
-        "price": "$40",
+        "price": 40.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Dangkeebs"
@@ -4750,7 +4750,7 @@
     },
     {
         "name": "AlohaKB JXM",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "AlohaKB",
         "vendor": [
             "Divinikey"
@@ -4764,7 +4764,7 @@
     },
     {
         "name": "Yunzii Lost Forest",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -4778,7 +4778,7 @@
     },
     {
         "name": "Piifox Ice Age",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -4792,7 +4792,7 @@
     },
     {
         "name": "Diykeycap Dracula",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4806,7 +4806,7 @@
     },
     {
         "name": "ACGAM Astrology Purple Constellation Profile",
-        "price": "$37",
+        "price": 37.0,
         "manufacturer": "ACGAM",
         "vendor": [
             "WhatGeek"
@@ -4820,7 +4820,7 @@
     },
     {
         "name": "Piifox Navigator",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -4834,7 +4834,7 @@
     },
     {
         "name": "Soulcat Cute Ghost",
-        "price": "$50",
+        "price": 50.0,
         "manufacturer": "Soulcat",
         "vendor": [
             "Mechkeys"
@@ -4848,7 +4848,7 @@
     },
     {
         "name": "Cherry Z Reviews Rinko Touch",
-        "price": "$62",
+        "price": 62.0,
         "manufacturer": "Cherry",
         "vendor": [
             "Mechkeys"
@@ -4862,7 +4862,7 @@
     },
     {
         "name": "Diykeycap Evil spirit Keycap",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -4876,7 +4876,7 @@
     },
     {
         "name": "GMK CYL Hi Viz",
-        "price": "$155",
+        "price": 155.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -4890,7 +4890,7 @@
     },
     {
         "name": "Keykobo Geon Gigachad / Gigachild Extension",
-        "price": "$63",
+        "price": 63.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "Divinikey"
@@ -4904,7 +4904,7 @@
     },
     {
         "name": "zFrontier MW Aschente",
-        "price": "$85",
+        "price": 85.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -4918,7 +4918,7 @@
     },
     {
         "name": "Titan Nation The Legend of Zelda",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -4932,7 +4932,7 @@
     },
     {
         "name": "Soulcat urai",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "Soulcat",
         "vendor": [
             "Mechkeys"
@@ -4946,7 +4946,7 @@
     },
     {
         "name": "WhatGeek Mountain Fog Profile",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "WhatGeek",
         "vendor": [
             "WhatGeek"
@@ -4960,7 +4960,7 @@
     },
     {
         "name": "Joorkey Sushi",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -4974,7 +4974,7 @@
     },
     {
         "name": "Apos Magica",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Apos",
         "vendor": [
             "Apos"
@@ -4988,7 +4988,7 @@
     },
     {
         "name": "Divinikey Zombie 100",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Divinikey",
         "vendor": [
             "Divinikey"
@@ -5002,7 +5002,7 @@
     },
     {
         "name": "KBDFans Crosshair",
-        "price": "$109",
+        "price": 109.0,
         "manufacturer": "KBDFans",
         "vendor": [
             "Mechkeys"
@@ -5016,7 +5016,7 @@
     },
     {
         "name": "GMK Deku",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -5033,7 +5033,7 @@
     },
     {
         "name": "Diykeycap Unown R2",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5047,7 +5047,7 @@
     },
     {
         "name": "Yunzii kura ty",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -5061,7 +5061,7 @@
     },
     {
         "name": "Diykeycap Semi Minimalist White",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5075,7 +5075,7 @@
     },
     {
         "name": "ePBT Doll",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Divinikey"
@@ -5089,7 +5089,7 @@
     },
     {
         "name": "Diykeycap Halloween",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5106,7 +5106,7 @@
     },
     {
         "name": "KeysMe Ghost Ship",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "KeysMe",
         "vendor": [
             "Mechkeys"
@@ -5120,7 +5120,7 @@
     },
     {
         "name": "Diykeycap Laser Carving Profile Side",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5134,7 +5134,7 @@
     },
     {
         "name": "Diykeycap Dots",
-        "price": "$36",
+        "price": 36.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5148,7 +5148,7 @@
     },
     {
         "name": "GMK Grey on Black",
-        "price": "$130",
+        "price": 130.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5162,7 +5162,7 @@
     },
     {
         "name": "Nuphy COAST Twilight",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -5176,7 +5176,7 @@
     },
     {
         "name": "Winmix Stream Grass",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -5190,7 +5190,7 @@
     },
     {
         "name": "Kono Calm Depths",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -5204,7 +5204,7 @@
     },
     {
         "name": "Keytok Happy APE",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -5218,7 +5218,7 @@
     },
     {
         "name": "Keykobo BoW",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "Divinikey"
@@ -5232,7 +5232,7 @@
     },
     {
         "name": "Kiiboom Maorbeng Raccoon Dynasty",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -5246,7 +5246,7 @@
     },
     {
         "name": "Diykeycap Lion dance Keycap",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5260,7 +5260,7 @@
     },
     {
         "name": "Diykeycap Red Samurai",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5274,7 +5274,7 @@
     },
     {
         "name": "Joorkey Shiba Inu",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -5288,7 +5288,7 @@
     },
     {
         "name": "GMK Dots 2",
-        "price": "$85",
+        "price": 85.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5302,7 +5302,7 @@
     },
     {
         "name": "ePBT Hellas",
-        "price": "$104",
+        "price": 104.0,
         "manufacturer": "ePBT",
         "vendor": [
             "Dangkeebs"
@@ -5316,7 +5316,7 @@
     },
     {
         "name": "Signature Plastics Spectra",
-        "price": "$64",
+        "price": 64.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "Apos"
@@ -5330,7 +5330,7 @@
     },
     {
         "name": "Diykeycap limation Japanese Ukiyoe",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5344,7 +5344,7 @@
     },
     {
         "name": "GMK Marmoreal",
-        "price": "$145",
+        "price": 145.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5358,7 +5358,7 @@
     },
     {
         "name": "Ajazz Peace Profile",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Ajazz",
         "vendor": [
             "WhatGeek"
@@ -5372,7 +5372,7 @@
     },
     {
         "name": "Epomaker Starry Bunny",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -5386,7 +5386,7 @@
     },
     {
         "name": "Joorkey Night Runner",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -5400,7 +5400,7 @@
     },
     {
         "name": "Diykeycap Backlight for US",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5414,7 +5414,7 @@
     },
     {
         "name": "Tai-Hao Purple Wave",
-        "price": "$27",
+        "price": 27.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -5428,7 +5428,7 @@
     },
     {
         "name": "Signature Plastics SP Silent Assassin",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "Apos"
@@ -5442,7 +5442,7 @@
     },
     {
         "name": "Keyreative Cat's Eye",
-        "price": "$31",
+        "price": 31.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -5456,7 +5456,7 @@
     },
     {
         "name": "Winmix Oreo",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -5470,7 +5470,7 @@
     },
     {
         "name": "Varmilo Van Gogh",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "Varmilo",
         "vendor": [
             "Mechkeys"
@@ -5484,7 +5484,7 @@
     },
     {
         "name": "GMK Star",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -5501,7 +5501,7 @@
     },
     {
         "name": "PBTfans Dolch",
-        "price": "$80",
+        "price": 80.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -5515,7 +5515,7 @@
     },
     {
         "name": "Diykeycap Awaken",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5529,7 +5529,7 @@
     },
     {
         "name": "GMK Maroon",
-        "price": "$170",
+        "price": 170.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5543,7 +5543,7 @@
     },
     {
         "name": "Titan Nation JOJO Stone Ocean",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Titan Nation",
         "vendor": [
             "Mechkeys"
@@ -5557,7 +5557,7 @@
     },
     {
         "name": "Noppoo Tribe",
-        "price": "$35",
+        "price": 35.0,
         "manufacturer": "Noppoo",
         "vendor": [
             "Mechkeys"
@@ -5571,7 +5571,7 @@
     },
     {
         "name": "CAPXXX Vintage Bar Translucidus",
-        "price": "$92",
+        "price": 92.0,
         "manufacturer": "CAPXXX",
         "vendor": [
             "Mechkeys"
@@ -5585,7 +5585,7 @@
     },
     {
         "name": "Signature Plastics SP Geoma",
-        "price": "$55",
+        "price": 55.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -5599,7 +5599,7 @@
     },
     {
         "name": "Cherry FRONTIER Chemistry 001",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Cherry",
         "vendor": [
             "WhatGeek"
@@ -5613,7 +5613,7 @@
     },
     {
         "name": "Soulcat TRIBE",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Soulcat",
         "vendor": [
             "Mechkeys"
@@ -5627,7 +5627,7 @@
     },
     {
         "name": "GMK Orange Boi",
-        "price": "$145",
+        "price": 145.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5641,7 +5641,7 @@
     },
     {
         "name": "JTK HSA",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "JTK",
         "vendor": [
             "zFrontier"
@@ -5655,7 +5655,7 @@
     },
     {
         "name": "Signature Plastics SP Spectra",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -5669,7 +5669,7 @@
     },
     {
         "name": "Joorkey Spring Minimalist Green",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -5683,7 +5683,7 @@
     },
     {
         "name": "tut Road Trip",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "tut",
         "vendor": [
             "Dangkeebs"
@@ -5697,7 +5697,7 @@
     },
     {
         "name": "GMK Panda",
-        "price": "$145",
+        "price": 145.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5711,7 +5711,7 @@
     },
     {
         "name": "Keyreative Mizu",
-        "price": "$50",
+        "price": 50.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -5725,7 +5725,7 @@
     },
     {
         "name": "Epomaker Alice Adventure",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -5742,7 +5742,7 @@
     },
     {
         "name": "Kono LALA",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -5756,7 +5756,7 @@
     },
     {
         "name": "Epomaker Smokey Grey",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -5770,7 +5770,7 @@
     },
     {
         "name": "Divinikey MW Poker",
-        "price": "$85",
+        "price": 85.0,
         "manufacturer": "Divinikey",
         "vendor": [
             "Divinikey"
@@ -5784,7 +5784,7 @@
     },
     {
         "name": "Diykeycap Blue Samurai",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5798,7 +5798,7 @@
     },
     {
         "name": "GMK Fox",
-        "price": "$129",
+        "price": 129.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -5815,7 +5815,7 @@
     },
     {
         "name": "Divinikey Swagkeys Very Peri",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "Divinikey",
         "vendor": [
             "Divinikey"
@@ -5829,7 +5829,7 @@
     },
     {
         "name": "Diykeycap Pink purple",
-        "price": "$19",
+        "price": 19.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -5843,7 +5843,7 @@
     },
     {
         "name": "Joorkey Profile RedCrowned Crane",
-        "price": "$42",
+        "price": 42.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -5857,7 +5857,7 @@
     },
     {
         "name": "Cherry The Wandering Plan",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "Cherry",
         "vendor": [
             "WhatGeek"
@@ -5871,7 +5871,7 @@
     },
     {
         "name": "Soulcat Russian Side Printed",
-        "price": "$38",
+        "price": 38.0,
         "manufacturer": "Soulcat",
         "vendor": [
             "Mechkeys"
@@ -5885,7 +5885,7 @@
     },
     {
         "name": "Soulcat Ipanda",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Soulcat",
         "vendor": [
             "Mechkeys"
@@ -5899,7 +5899,7 @@
     },
     {
         "name": "Kono Granite",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -5913,7 +5913,7 @@
     },
     {
         "name": "Piifox Outer Space",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Piifox",
         "vendor": [
             "Mechkeys"
@@ -5927,7 +5927,7 @@
     },
     {
         "name": "Tai-Hao Love in Paris Deskmat Bundle",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Tai-Hao",
         "vendor": [
             "Kono"
@@ -5945,7 +5945,7 @@
     },
     {
         "name": "qtuo studio Blue Bunny",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "qtuo studio",
         "vendor": [
             "Dangkeebs"
@@ -5959,7 +5959,7 @@
     },
     {
         "name": "GMK Blurple",
-        "price": "$155",
+        "price": 155.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -5973,7 +5973,7 @@
     },
     {
         "name": "G-mky GY Toxic Contrast",
-        "price": "$29",
+        "price": 29.0,
         "manufacturer": "G-mky",
         "vendor": [
             "Mechkeys"
@@ -5987,7 +5987,7 @@
     },
     {
         "name": "Diykeycap Pony",
-        "price": "$28",
+        "price": 28.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -6001,7 +6001,7 @@
     },
     {
         "name": "JTK Avocado",
-        "price": "$50",
+        "price": 50.0,
         "manufacturer": "JTK",
         "vendor": [
             "zFrontier"
@@ -6015,7 +6015,7 @@
     },
     {
         "name": "GMK Retrocast",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "GMK",
         "vendor": [
             "Apos"
@@ -6032,7 +6032,7 @@
     },
     {
         "name": "Keyreative Floofy Boi",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -6046,7 +6046,7 @@
     },
     {
         "name": "Diykeycap Klein Blue",
-        "price": "$51",
+        "price": 51.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -6060,7 +6060,7 @@
     },
     {
         "name": "zFrontier MW Stone Age",
-        "price": "$100",
+        "price": 100.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -6074,7 +6074,7 @@
     },
     {
         "name": "Keyreative ReStock Oasis",
-        "price": "$40",
+        "price": 40.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -6091,7 +6091,7 @@
     },
     {
         "name": "Yunzii Plant Pro",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -6105,7 +6105,7 @@
     },
     {
         "name": "Winmix 9009 /",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -6119,7 +6119,7 @@
     },
     {
         "name": "GMK a",
-        "price": "$170",
+        "price": 170.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6133,7 +6133,7 @@
     },
     {
         "name": "Keykobo Taiji Translucent",
-        "price": "$109",
+        "price": 109.0,
         "manufacturer": "Keykobo",
         "vendor": [
             "zFrontier"
@@ -6150,7 +6150,7 @@
     },
     {
         "name": "Yunzii Planets",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -6164,7 +6164,7 @@
     },
     {
         "name": "GMK Zooted",
-        "price": "$165",
+        "price": 165.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6178,7 +6178,7 @@
     },
     {
         "name": "Yunzii Mint",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Yunzii",
         "vendor": [
             "Mechkeys"
@@ -6192,7 +6192,7 @@
     },
     {
         "name": "Joorkey Retro 9009 colorway",
-        "price": "$98",
+        "price": 98.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -6206,7 +6206,7 @@
     },
     {
         "name": "GMK Nightlight",
-        "price": "$170",
+        "price": 170.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6220,7 +6220,7 @@
     },
     {
         "name": "Diykeycap Dualshot",
-        "price": "$34",
+        "price": 34.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -6234,7 +6234,7 @@
     },
     {
         "name": "Signature Plastics SP Silent Assassin",
-        "price": "$168",
+        "price": 168.0,
         "manufacturer": "Signature Plastics",
         "vendor": [
             "zFrontier"
@@ -6248,7 +6248,7 @@
     },
     {
         "name": "Joorkey Egypt",
-        "price": "$81",
+        "price": 81.0,
         "manufacturer": "Joorkey",
         "vendor": [
             "Diykeycap"
@@ -6262,7 +6262,7 @@
     },
     {
         "name": "zFrontier Rainforest by point.works",
-        "price": "$44",
+        "price": 44.0,
         "manufacturer": "zFrontier",
         "vendor": [
             "zFrontier"
@@ -6276,7 +6276,7 @@
     },
     {
         "name": "GMK Matsu",
-        "price": "$167",
+        "price": 167.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6290,7 +6290,7 @@
     },
     {
         "name": "Winmix Beijing Red",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -6304,7 +6304,7 @@
     },
     {
         "name": "Kono Keycap Discount Bundle Gemini Calm Depths",
-        "price": "$199",
+        "price": 199.0,
         "manufacturer": "Kono",
         "vendor": [
             "Kono"
@@ -6318,7 +6318,7 @@
     },
     {
         "name": "KBDFans Bow All White",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "KBDFans",
         "vendor": [
             "Mechkeys"
@@ -6332,7 +6332,7 @@
     },
     {
         "name": "Diykeycap",
-        "price": "$32",
+        "price": 32.0,
         "manufacturer": "Diykeycap",
         "vendor": [
             "Diykeycap"
@@ -6349,7 +6349,7 @@
     },
     {
         "name": "PBTfans Bank Account",
-        "price": "$100",
+        "price": 100.0,
         "manufacturer": "PBTfans",
         "vendor": [
             "Divinikey"
@@ -6363,7 +6363,7 @@
     },
     {
         "name": "GMK Cinder",
-        "price": "$168",
+        "price": 168.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6377,7 +6377,7 @@
     },
     {
         "name": "GMK Hooty",
-        "price": "$160",
+        "price": 160.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6391,7 +6391,7 @@
     },
     {
         "name": "tut K.O.II EP133",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "tut",
         "vendor": [
             "Dangkeebs"
@@ -6405,7 +6405,7 @@
     },
     {
         "name": "GMK Houhai",
-        "price": "$176",
+        "price": 176.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
@@ -6419,7 +6419,7 @@
     },
     {
         "name": "Winmix Black Pink",
-        "price": "$86",
+        "price": 86.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -6433,7 +6433,7 @@
     },
     {
         "name": "Winmix Gentleman Black /",
-        "price": "$67",
+        "price": 67.0,
         "manufacturer": "Winmix",
         "vendor": [
             "Mechkeys"
@@ -6447,7 +6447,7 @@
     },
     {
         "name": "Maxkey Calm Depths",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Maxkey",
         "vendor": [
             "Apos"
@@ -6461,7 +6461,7 @@
     },
     {
         "name": "Keytok CTRL Translucidus",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Keytok",
         "vendor": [
             "Mechkeys"
@@ -6475,7 +6475,7 @@
     },
     {
         "name": "Nuphy COAST Dawn",
-        "price": "$24",
+        "price": 24.0,
         "manufacturer": "Nuphy",
         "vendor": [
             "Nuphy"
@@ -6489,7 +6489,7 @@
     },
     {
         "name": "KDS Deku",
-        "price": "$94",
+        "price": 94.0,
         "manufacturer": "KDS",
         "vendor": [
             "Kono"
@@ -6503,7 +6503,7 @@
     },
     {
         "name": "Domikey Vintage",
-        "price": "$155",
+        "price": 155.0,
         "manufacturer": "Domikey",
         "vendor": [
             "Mechkeys"
@@ -6517,7 +6517,7 @@
     },
     {
         "name": "Keyreative Slurp for Specific Users Only",
-        "price": "$25",
+        "price": 25.0,
         "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
@@ -6531,7 +6531,7 @@
     },
     {
         "name": "GMK Jam\u00f3n 2",
-        "price": "$145",
+        "price": 145.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"

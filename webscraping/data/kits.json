@@ -1,7 +1,27 @@
 [
     {
+        "name": "80retros XT1981 by X Click Inc Barebones",
+        "price": 175.0,
+        "manufacturer": "80retros",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "70%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "Feker Alice98",
-        "price": "$119",
+        "price": 119.0,
         "manufacturer": "Feker",
         "vendor": [
             "Mechkeys"
@@ -25,7 +45,7 @@
     },
     {
         "name": "Skyloong GK75",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "Skyloong",
         "vendor": [
             "Epomaker"
@@ -53,7 +73,7 @@
     },
     {
         "name": "Monsgeek M1W",
-        "price": "$150",
+        "price": 150.0,
         "manufacturer": "Monsgeek",
         "vendor": [
             "Divinikey"
@@ -76,7 +96,7 @@
     },
     {
         "name": "Epomaker EK68",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -103,7 +123,7 @@
     },
     {
         "name": "Feker Alice80",
-        "price": "$87",
+        "price": 87.0,
         "manufacturer": "Feker",
         "vendor": [
             "Epomaker"
@@ -127,7 +147,7 @@
     },
     {
         "name": "Cidoo V75 Plus",
-        "price": "$129",
+        "price": 129.0,
         "manufacturer": "Cidoo",
         "vendor": [
             "Epomaker"
@@ -151,7 +171,7 @@
     },
     {
         "name": "ZUOYA GMK87 Supported Gasket DIY",
-        "price": "$78",
+        "price": 78.0,
         "manufacturer": "ZUOYA",
         "vendor": [
             "WhatGeek"
@@ -174,7 +194,7 @@
     },
     {
         "name": "Fantech MAXFIT81 MK910 Barebone DIY O",
-        "price": "$88",
+        "price": 88.0,
         "manufacturer": "Fantech",
         "vendor": [
             "WhatGeek"
@@ -197,7 +217,7 @@
     },
     {
         "name": "Keychron V6 Max",
-        "price": "$84",
+        "price": 84.0,
         "manufacturer": "Keychron",
         "vendor": [
             "MK"
@@ -221,7 +241,7 @@
     },
     {
         "name": "Leobog K81 Pro",
-        "price": "$39",
+        "price": 39.0,
         "manufacturer": "Leobog",
         "vendor": [
             "Epomaker"
@@ -245,7 +265,7 @@
     },
     {
         "name": "Monsgeek M2 1800",
-        "price": "$129",
+        "price": 129.0,
         "manufacturer": "Monsgeek",
         "vendor": [
             "Divinikey"
@@ -254,14 +274,10 @@
         "layout_standard": "ANSI",
         "layout_ergonomic": "Normal",
         "hotswappable": true,
-        "knob_support": null,
+        "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": [
-            "Wired",
-            "Bluetooth",
-            "Wireless"
-        ],
+        "connection": "Wired",
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -269,7 +285,7 @@
     },
     {
         "name": "Monsgeek M5",
-        "price": "$140",
+        "price": 140.0,
         "manufacturer": "Monsgeek",
         "vendor": [
             "Divinikey"
@@ -278,50 +294,18 @@
         "layout_standard": "ANSI",
         "layout_ergonomic": "Alice",
         "hotswappable": true,
-        "knob_support": null,
+        "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": [
-            "Wired",
-            "Bluetooth",
-            "Wireless"
-        ],
+        "connection": "Wired",
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "Keychron V1",
-        "price": "$48",
-        "manufacturer": "Keychron",
-        "vendor": [
-            "Divinikey"
-        ],
-        "layout_size": "75%",
-        "layout_standard": [
-            "JIS",
-            "ISO ES",
-            "ISO UK",
-            "ISO DE",
-            "ISO FR",
-            "ISO",
-            "ANSI"
-        ],
-        "layout_ergonomic": "Normal",
-        "hotswappable": true,
-        "knob_support": null,
-        "rgb_support": true,
-        "display_support": false,
-        "connection": "Wired",
-        "mount_style": "Tray Mount",
-        "material": "Plastic case",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "KBDFans TOFU60 2.0",
-        "price": "$160",
+        "price": 160.0,
         "manufacturer": "KBDFans",
         "vendor": [
             "Divinikey"
@@ -344,7 +328,7 @@
     },
     {
         "name": "Mxrskey CK820 Pro",
-        "price": "$199",
+        "price": 199.0,
         "manufacturer": "Mxrskey",
         "vendor": [
             "Epomaker"
@@ -368,7 +352,7 @@
     },
     {
         "name": "Monsgeek M3",
-        "price": "$125",
+        "price": 125.0,
         "manufacturer": "Monsgeek",
         "vendor": [
             "Divinikey"
@@ -392,7 +376,7 @@
     },
     {
         "name": "MMkeyboard Class80R2",
-        "price": "$305",
+        "price": 305.0,
         "manufacturer": "MMkeyboard",
         "vendor": [
             "MMkeyboard"
@@ -412,7 +396,7 @@
     },
     {
         "name": "WhatGeek Galaxy80 Aluminum DIY",
-        "price": "$59",
+        "price": 59.0,
         "manufacturer": "WhatGeek",
         "vendor": [
             "WhatGeek"
@@ -436,7 +420,7 @@
     },
     {
         "name": "Epomaker Aura75",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -460,7 +444,7 @@
     },
     {
         "name": "Jamesdonkey A3",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Jamesdonkey",
         "vendor": [
             "Mechkeys"
@@ -484,7 +468,7 @@
     },
     {
         "name": "Epomaker EK75",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -507,36 +491,8 @@
         "availability": true
     },
     {
-        "name": "Keychron V6",
-        "price": "$69",
-        "manufacturer": "Keychron",
-        "vendor": [
-            "MK"
-        ],
-        "layout_size": "100%",
-        "layout_standard": [
-            "JIS",
-            "ISO ES",
-            "ISO UK",
-            "ISO DE",
-            "ISO FR",
-            "ISO",
-            "ANSI"
-        ],
-        "layout_ergonomic": "Normal",
-        "hotswappable": true,
-        "knob_support": null,
-        "rgb_support": true,
-        "display_support": false,
-        "connection": "Wired",
-        "mount_style": "Tray Mount",
-        "material": "Plastic case",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "Cidoo Nebula",
-        "price": "$54",
+        "price": 54.0,
         "manufacturer": "Cidoo",
         "vendor": [
             "Epomaker"
@@ -560,7 +516,7 @@
     },
     {
         "name": "Monka Alice67 Pro Aluminum CNC DIY",
-        "price": "$95",
+        "price": 95.0,
         "manufacturer": "Monka",
         "vendor": [
             "WhatGeek"
@@ -584,7 +540,7 @@
     },
     {
         "name": "Skyloong GK75 TripleMode",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Skyloong",
         "vendor": [
             "Epomaker"
@@ -608,7 +564,7 @@
     },
     {
         "name": "ACGAM FancyAlice66 Selfassembly DIY",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "ACGAM",
         "vendor": [
             "WhatGeek"
@@ -628,7 +584,7 @@
     },
     {
         "name": "Keychron Q4 Pro",
-        "price": "$139",
+        "price": 139.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Divinikey"
@@ -655,7 +611,7 @@
     },
     {
         "name": "Keychron Q0 Plus Numpad",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Keychron",
         "vendor": [
             "MK"
@@ -675,7 +631,7 @@
     },
     {
         "name": "GamaKay SN75",
-        "price": "$49",
+        "price": 49.0,
         "manufacturer": "GamaKay",
         "vendor": [
             "GamaKay"
@@ -699,7 +655,7 @@
     },
     {
         "name": "Kiiboom Moonshadow 81",
-        "price": "$199",
+        "price": 199.0,
         "manufacturer": "Kiiboom",
         "vendor": [
             "Epomaker"
@@ -719,7 +675,7 @@
     },
     {
         "name": "Epomaker TH80 Pro",
-        "price": "$52",
+        "price": 52.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -746,7 +702,7 @@
     },
     {
         "name": "Epomaker Alice DIY",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -766,7 +722,7 @@
     },
     {
         "name": "Leobog Hi75",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "Leobog",
         "vendor": [
             "WhatGeek"
@@ -786,7 +742,7 @@
     },
     {
         "name": "Epomaker TH66 Pro",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Epomaker",
         "vendor": [
             "Epomaker"
@@ -813,7 +769,7 @@
     },
     {
         "name": "Keychron Q8",
-        "price": "$131",
+        "price": 131.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Divinikey"
@@ -841,7 +797,7 @@
     },
     {
         "name": "Mxrskey CK650",
-        "price": "$169",
+        "price": 169.0,
         "manufacturer": "Mxrskey",
         "vendor": [
             "Mechkeys"
@@ -865,7 +821,7 @@
     },
     {
         "name": "Skyloong GK980 TripleMode",
-        "price": "$79",
+        "price": 79.0,
         "manufacturer": "Skyloong",
         "vendor": [
             "Epomaker"
@@ -889,7 +845,7 @@
     },
     {
         "name": "Mechboards Lily58",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -912,7 +868,7 @@
     },
     {
         "name": "KBDFans Tofu65 2.0",
-        "price": "$174",
+        "price": 174.0,
         "manufacturer": "KBDFans",
         "vendor": [
             "Dangkeebs"
@@ -931,36 +887,8 @@
         "availability": true
     },
     {
-        "name": "Keychron Q5",
-        "price": "$148",
-        "manufacturer": "Keychron",
-        "vendor": [
-            "Divinikey"
-        ],
-        "layout_size": "96%",
-        "layout_standard": [
-            "ANSI",
-            "JIS",
-            "ISO ES",
-            "ISO UK",
-            "ISO DE",
-            "ISO FR",
-            "ISO"
-        ],
-        "layout_ergonomic": "Normal",
-        "hotswappable": true,
-        "knob_support": null,
-        "rgb_support": true,
-        "display_support": false,
-        "connection": "Wired",
-        "mount_style": "Gasket Mount",
-        "material": "Plastic case",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "Fancy V81 Plus Aluminium Alloy",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "Fancy",
         "vendor": [
             "Mechkeys"
@@ -983,7 +911,7 @@
     },
     {
         "name": "Keychron Q12 Max",
-        "price": "$199",
+        "price": 199.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Divinikey"
@@ -1008,7 +936,7 @@
     },
     {
         "name": "Keychron Q3",
-        "price": "$115",
+        "price": 115.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Dangkeebs"
@@ -1036,7 +964,7 @@
     },
     {
         "name": "Mechboards NIBBLE",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -1059,7 +987,7 @@
     },
     {
         "name": "Keychron V5",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Dangkeebs"
@@ -1086,7 +1014,7 @@
     },
     {
         "name": "ZUOYA GMK67 Gasket Triplemode DIY",
-        "price": "$65",
+        "price": 65.0,
         "manufacturer": "ZUOYA",
         "vendor": [
             "WhatGeek"
@@ -1110,7 +1038,7 @@
     },
     {
         "name": "Leobog Hi8 Aluminum",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Leobog",
         "vendor": [
             "WhatGeek"
@@ -1133,7 +1061,7 @@
     },
     {
         "name": "Keydous NJ98",
-        "price": "$109",
+        "price": 109.0,
         "manufacturer": "Keydous",
         "vendor": [
             "Mechkeys"
@@ -1157,7 +1085,7 @@
     },
     {
         "name": "Fancy Alice66",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Fancy",
         "vendor": [
             "Mechkeys"
@@ -1177,7 +1105,7 @@
     },
     {
         "name": "Weikav RECORD Alice Gasket",
-        "price": "$99",
+        "price": 99.0,
         "manufacturer": "Weikav",
         "vendor": [
             "Mechkeys"
@@ -1197,7 +1125,7 @@
     },
     {
         "name": "Monka 6067 Aluminum DIY",
-        "price": "$69",
+        "price": 69.0,
         "manufacturer": "Monka",
         "vendor": [
             "WhatGeek"
@@ -1217,7 +1145,7 @@
     },
     {
         "name": "Feker IK75 Pro 3 Mode DIY",
-        "price": "$58",
+        "price": 58.0,
         "manufacturer": "Feker",
         "vendor": [
             "WhatGeek"
@@ -1241,7 +1169,7 @@
     },
     {
         "name": "Reccazr KW75",
-        "price": "$63",
+        "price": 63.0,
         "manufacturer": "Reccazr",
         "vendor": [
             "Epomaker"
@@ -1265,7 +1193,7 @@
     },
     {
         "name": "Mechboards Sofle",
-        "price": "$68",
+        "price": 68.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -1284,28 +1212,8 @@
         "availability": true
     },
     {
-        "name": "HIBI JUNE R2",
-        "price": "$140",
-        "manufacturer": "HIBI",
-        "vendor": [
-            "Divinikey"
-        ],
-        "layout_size": "60%",
-        "layout_standard": "ANSI",
-        "layout_ergonomic": "Normal",
-        "hotswappable": true,
-        "knob_support": false,
-        "rgb_support": null,
-        "display_support": false,
-        "connection": "Wired",
-        "mount_style": "Tray Mount",
-        "material": "Plastic case",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "Monka 6102 Aluminum DIY FR4 Position Plate",
-        "price": "$118",
+        "price": 118.0,
         "manufacturer": "Monka",
         "vendor": [
             "WhatGeek"
@@ -1324,8 +1232,28 @@
         "availability": true
     },
     {
+        "name": "HIBI JUNE R2",
+        "price": 140.0,
+        "manufacturer": "HIBI",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "Monka Alice67 Pro Aluminium Alloy",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Monka",
         "vendor": [
             "Mechkeys"
@@ -1348,7 +1276,7 @@
     },
     {
         "name": "Monka 6075 Pro Aluminum",
-        "price": "$75",
+        "price": 75.0,
         "manufacturer": "Monka",
         "vendor": [
             "Mechkeys"
@@ -1371,7 +1299,7 @@
     },
     {
         "name": "Dukharo VN96",
-        "price": "$115",
+        "price": 115.0,
         "manufacturer": "Dukharo",
         "vendor": [
             "Mechkeys"
@@ -1395,7 +1323,7 @@
     },
     {
         "name": "Mechboards Reverb",
-        "price": "$70",
+        "price": 70.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -1415,7 +1343,7 @@
     },
     {
         "name": "Womier G75",
-        "price": "$62",
+        "price": 62.0,
         "manufacturer": "Womier",
         "vendor": [
             "Mechkeys"
@@ -1435,7 +1363,7 @@
     },
     {
         "name": "Mechboards Corne Helidox",
-        "price": "$90",
+        "price": 90.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -1458,7 +1386,7 @@
     },
     {
         "name": "Keychron V10 Max",
-        "price": "$84",
+        "price": 84.0,
         "manufacturer": "Keychron",
         "vendor": [
             "Divinikey"
@@ -1482,7 +1410,7 @@
     },
     {
         "name": "Akko ACR Pro68",
-        "price": "$104",
+        "price": 104.0,
         "manufacturer": "Akko",
         "vendor": [
             "Dangkeebs"
@@ -1502,7 +1430,7 @@
     },
     {
         "name": "Gopolar GG75",
-        "price": "$89",
+        "price": 89.0,
         "manufacturer": "Gopolar",
         "vendor": [
             "Epomaker"
@@ -1525,7 +1453,7 @@
     },
     {
         "name": "Mechboards Discipline V1",
-        "price": "$45",
+        "price": 45.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -1548,7 +1476,7 @@
     },
     {
         "name": "Keychron Q1",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "Keychron",
         "vendor": [
             "MK"
@@ -1575,7 +1503,7 @@
     },
     {
         "name": "Monsgeek M2 Gasket DIY",
-        "price": "$149",
+        "price": 149.0,
         "manufacturer": "Monsgeek",
         "vendor": [
             "WhatGeek"
@@ -1595,7 +1523,7 @@
     },
     {
         "name": "HIBI JUNE",
-        "price": "$140",
+        "price": 140.0,
         "manufacturer": "HIBI",
         "vendor": [
             "Divinikey"
@@ -1615,7 +1543,7 @@
     },
     {
         "name": "ZUOYA LMK67 Triplemode Gasket DIY",
-        "price": "$142",
+        "price": 142.0,
         "manufacturer": "ZUOYA",
         "vendor": [
             "WhatGeek"
@@ -1639,7 +1567,7 @@
     },
     {
         "name": "Mechboards Iris",
-        "price": "$129",
+        "price": 129.0,
         "manufacturer": "Mechboards",
         "vendor": [
             "Mechboards"
@@ -1659,7 +1587,7 @@
     },
     {
         "name": "Monsgeek M6 Alice",
-        "price": "$119",
+        "price": 119.0,
         "manufacturer": "Monsgeek",
         "vendor": [
             "Divinikey"
@@ -1680,5 +1608,5278 @@
         "material": "Aluminum case",
         "img_url": null,
         "availability": true
+    },
+    {
+        "name": "Epomaker Pastel64",
+        "price": 79.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "sam NotfromSam S65 V2 Barebones",
+        "price": 319.0,
+        "manufacturer": "sam",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Monsgeek M7W Aluminum CNC DIY",
+        "price": 119.0,
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ymdk Melody 96",
+        "price": 125.0,
+        "manufacturer": "Ymdk",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Feker Galaxy80 Pro Aluminum",
+        "price": 69.0,
+        "manufacturer": "Feker",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Alpaca Keyboards WhiteFox Eclipse",
+        "price": 140.0,
+        "manufacturer": "Alpaca Keyboards",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker Mini Cat 68",
+        "price": 64.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Wind Studio WIND X98 R2 1800",
+        "price": 355.0,
+        "manufacturer": "Wind Studio",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "98%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Southpaw",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keychron Q2",
+        "price": 111.0,
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": [
+            "ANSI",
+            "JIS",
+            "ISO ES",
+            "ISO UK",
+            "ISO DE",
+            "ISO FR",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Everglide SK68",
+        "price": 199.0,
+        "manufacturer": "Everglide",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keychron Q7",
+        "price": 111.0,
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Amazon"
+        ],
+        "layout_size": "70%",
+        "layout_standard": [
+            "ANSI",
+            "JIS",
+            "ISO ES",
+            "ISO UK",
+            "ISO DE",
+            "ISO FR",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "DOIO KB64G01 Game64 DIY Triple Control",
+        "price": 179.0,
+        "manufacturer": "DOIO",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keychron Q9",
+        "price": 104.0,
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "40%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Meletrix Zoom75",
+        "price": 224.0,
+        "manufacturer": "Meletrix",
+        "vendor": [
+            "Meletrix"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK96 Lite Gasket DIY",
+        "price": 79.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ACGAM C68 Kawaii Cat",
+        "price": 99.0,
+        "manufacturer": "ACGAM",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Helix lab Aaru Divine Egyptian Hieroglyphic Relievo",
+        "price": 995.0,
+        "manufacturer": "Helix lab",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Wuque Studio Zoom75 Akuamarin Barebones DIY",
+        "price": 229.0,
+        "manufacturer": "Wuque Studio",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker GK84 Lite Gasket DIY",
+        "price": 55.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards CFTKB Mysterium V1",
+        "price": 55.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Weikav Lucky65 Aluminium Alloy Gasket",
+        "price": 79.0,
+        "manufacturer": "Weikav",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Chilkey ND75 June 2024 Batch",
+        "price": 99.0,
+        "manufacturer": "Chilkey",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kono Titan65 Aluminum/Brass",
+        "price": 339.0,
+        "manufacturer": "Kono",
+        "vendor": [
+            "Kono"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kbdcraft Adam0110b Barebones",
+        "price": 84.0,
+        "manufacturer": "Kbdcraft",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Monka 6102 Aluminium Alloy Gasket",
+        "price": 99.0,
+        "manufacturer": "Monka",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "98%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "WhatGeek BACKSPACE OASIS 65 Trimode DIY",
+        "price": 149.0,
+        "manufacturer": "WhatGeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ducky ProjectD Outlaw 65 Aluminum DIY DIY",
+        "price": 254.0,
+        "manufacturer": "Ducky",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK68X/GK68XS",
+        "price": 47.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards Ferris Sweep",
+        "price": 30.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Xinmeng A66 Aluminium Alloy",
+        "price": 79.0,
+        "manufacturer": "Xinmeng",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Fl\u00b7esports MK870",
+        "price": 69.0,
+        "manufacturer": "Fl\u00b7esports",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kbdcraft Adam Barebones",
+        "price": 60.0,
+        "manufacturer": "Kbdcraft",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker Mini Cat 69",
+        "price": 59.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Monka 6067 Aluminium Alloy",
+        "price": 69.0,
+        "manufacturer": "Monka",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards Holy60 HE",
+        "price": 300.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keydous NJ80 Three Mode",
+        "price": 89.0,
+        "manufacturer": "Keydous",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Niz N87",
+        "price": 260.0,
+        "manufacturer": "Niz",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Xinmeng A66 Gasket Triplemode DIY",
+        "price": 129.0,
+        "manufacturer": "Xinmeng",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keydous NJ68",
+        "price": 79.0,
+        "manufacturer": "Keydous",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK61 Lite Gasket DIY",
+        "price": 55.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Akko 5075S Barebones",
+        "price": 64.0,
+        "manufacturer": "Akko",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards Waterfowl R2",
+        "price": 89.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wireless",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Sikakeyb SK1 Mountain City Aluminum/",
+        "price": 99.0,
+        "manufacturer": "Sikakeyb",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Metal case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK980 Retro Switch CNC Aluminum",
+        "price": 169.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "98%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK980 1800 Compact",
+        "price": 99.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "98%",
+        "layout_standard": [
+            "ANSI",
+            "ISO"
+        ],
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Monka 6087 Aluminium Alloy",
+        "price": 75.0,
+        "manufacturer": "Monka",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards ai03 Soyuz Numpad",
+        "price": 15.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Idobao Montex Numpad",
+        "price": 79.0,
+        "manufacturer": "Idobao",
+        "vendor": [
+            "Kono"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "NextTime X75 Gasket",
+        "price": 56.0,
+        "manufacturer": "NextTime",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards NCR80 R2 Vintage",
+        "price": 120.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Createkeebs High65",
+        "price": 100.0,
+        "manufacturer": "Createkeebs",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans Pavlov Retro Aluminum",
+        "price": 255.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Basketweave Alicestyle",
+        "price": 150.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Alice",
+        "hotswappable": null,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kbdcraft Lilith Barebones",
+        "price": 65.0,
+        "manufacturer": "Kbdcraft",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK980 Retro Switch",
+        "price": 85.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "98%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards Helix",
+        "price": 50.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Sikakeyb SK6 Aluminium Alloy Gasket",
+        "price": 159.0,
+        "manufacturer": "Sikakeyb",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Velocifire Dolphins75",
+        "price": 160.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Glorious PC GMMK izable / Barebones",
+        "price": 50.0,
+        "manufacturer": "Glorious",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": [
+            "ISO ES",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK84 White",
+        "price": 79.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Weikav RECORD Alice V2 Three Mode Barebone",
+        "price": 99.0,
+        "manufacturer": "Weikav",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Dagk Alloy40% 2.0 Gasket Three Mode Aluminium",
+        "price": 99.0,
+        "manufacturer": "Dagk",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Denshi Electronic DE64 V2 PCB YD60mq ISOES DIY",
+        "price": 95.0,
+        "manufacturer": "Denshi Electronic",
+        "vendor": [
+            "Denshi Electronic"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": [
+            "ISO ES",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards MBUK Macro Pad",
+        "price": 4.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Macropad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Sikakeyb SK1 Series1 Aluminum/",
+        "price": 69.0,
+        "manufacturer": "Sikakeyb",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards SPIN Macro Pad",
+        "price": 55.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Macropad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "sam NotfromSam S80 V2 Barebones",
+        "price": 349.0,
+        "manufacturer": "sam",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Odin Gaming Nova 65 Black Aluminum Barebones",
+        "price": 149.0,
+        "manufacturer": "Odin Gaming",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans BOOP REDUX Retro Gasket Top",
+        "price": 311.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii YZ75",
+        "price": 65.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Velocifire CKW80 /WKL More Than One Typing Feel Option",
+        "price": 349.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "80%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK61 DRUM Aluminum Black",
+        "price": 69.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Vortex Hellcat DIY",
+        "price": 143.0,
+        "manufacturer": "Vortex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Choc V",
+        "price": 40.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Velocifire Lucky65 TriMode Retro",
+        "price": 84.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "65%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Fl\u00b7esports MK750 Gasket",
+        "price": 89.0,
+        "manufacturer": "Fl\u00b7esports",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Everglide SK87",
+        "price": 279.0,
+        "manufacturer": "Everglide",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Tex Shura",
+        "price": 139.0,
+        "manufacturer": "Tex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%,",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "sam Sesame",
+        "price": 40.0,
+        "manufacturer": "sam",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Alice",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ducky One 3 Black Barebones",
+        "price": 99.0,
+        "manufacturer": "Ducky",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%,",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Vortex Model M SSK WKL 7u Aluminum Barebones DIY",
+        "price": 269.0,
+        "manufacturer": "Vortex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK84 Lite Gasket DIY",
+        "price": 73.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Wuque Studio Zoom65 V3 Barebones DIY",
+        "price": 179.0,
+        "manufacturer": "Wuque Studio",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "65%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Varmilo Sword 68 Classic Black Aluminum .",
+        "price": 179.0,
+        "manufacturer": "Varmilo",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Vortex Model M SSK WK 6.25u Aluminum Barebones DIY",
+        "price": 269.0,
+        "manufacturer": "Vortex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK75 Retro Switch CNC Aluminum",
+        "price": 149.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Mt. Choc Low Profile",
+        "price": 100.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK96 DRUM Aluminum Titanium Grey",
+        "price": 127.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "toffee studio Blueberry Barebones",
+        "price": 400.0,
+        "manufacturer": "toffee studio",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mxrskey CK820 DIY",
+        "price": 179.0,
+        "manufacturer": "Mxrskey",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans KBD75 v3.1 Barebones DIY Light Blue",
+        "price": 219.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK68 Lite Gasket DIY",
+        "price": 69.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "68%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "MK Click Inc Game 1989 Aluminum DIY",
+        "price": 219.0,
+        "manufacturer": "MK",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Corne v3 Assembled",
+        "price": 200.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans KBD67 R1 Lite Barebones DIY",
+        "price": 103.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Vortex Model M SSK WK 7u Aluminum Barebones DIY",
+        "price": 269.0,
+        "manufacturer": "Vortex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Sikakeyb SK8 Gasket",
+        "price": 199.0,
+        "manufacturer": "Sikakeyb",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "95%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mxrskey CK210",
+        "price": 79.0,
+        "manufacturer": "Mxrskey",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Denshi Electronic KF068 DIY",
+        "price": 82.0,
+        "manufacturer": "Denshi Electronic",
+        "vendor": [
+            "Denshi Electronic"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Glorious PC GMMK Barebones",
+        "price": 55.0,
+        "manufacturer": "Glorious",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans TOFU60 2.0 WKL",
+        "price": 225.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ISO",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Gopolar TaiChi GG86",
+        "price": 149.0,
+        "manufacturer": "Gopolar",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Lily58 Pro",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Fl\u00b7esports X80",
+        "price": 79.0,
+        "manufacturer": "Fl\u00b7esports",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Tex Shinobi",
+        "price": 139.0,
+        "manufacturer": "Tex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans KBD67 Lite R3 DIY",
+        "price": 114.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards RoMac Macropad",
+        "price": 7.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Macropad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii KC84 YZ84",
+        "price": 59.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans KBDPad Mark 2 Grey Numpad DIY",
+        "price": 87.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keychron Q1 Version 2",
+        "price": 111.0,
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Narfpad Macropad",
+        "price": 20.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Macropad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keychron Q6",
+        "price": 172.0,
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Keychron (DE)"
+        ],
+        "layout_size": "100%",
+        "layout_standard": [
+            "ANSI",
+            "JIS",
+            "ISO ES",
+            "ISO UK",
+            "ISO DE",
+            "ISO FR",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK21S Numpad 2 Mode DIY",
+        "price": 43.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ducky One 3 Mini Black Barebones",
+        "price": 79.0,
+        "manufacturer": "Ducky",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ducky One 3 SF Black Barebones",
+        "price": 89.0,
+        "manufacturer": "Ducky",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Corne Choc Low Profile",
+        "price": 85.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK61 CNC Aluminum Geek Purple",
+        "price": 139.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans KBDPad Mark 2 Rose Gold Numpad DIY",
+        "price": 87.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards Ergotravel",
+        "price": 35.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Monsgeek M7W Barebones",
+        "price": 120.0,
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Helix lab Aaru Egyptian Hieroglyphic Relievo",
+        "price": 799.0,
+        "manufacturer": "Helix lab",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker Mini Panda 64",
+        "price": 52.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Sofle v1.1",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ACGAM Resin61 DIY",
+        "price": 99.0,
+        "manufacturer": "ACGAM",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards TIDBIT izable 19Key Numpad",
+        "price": 30.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK61 Black",
+        "price": 59.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK96 White",
+        "price": 89.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Sofle v2.1",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Sofle v2.1 Choc",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Denshi Electronic DE61 V2 PCB YD60mq DIY",
+        "price": 95.0,
+        "manufacturer": "Denshi Electronic",
+        "vendor": [
+            "Denshi Electronic"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK84 Black",
+        "price": 79.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK96 Black",
+        "price": 89.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Contra",
+        "price": 25.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "NextTime NT19 Numpad",
+        "price": 39.0,
+        "manufacturer": "NextTime",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Sofle v2",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Rhymestone Split",
+        "price": 80.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Idobao ID87 Bestype Brass Weight",
+        "price": 299.0,
+        "manufacturer": "Idobao",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Velocifire KK98 R2 CNC Aluminum Case Retro",
+        "price": 208.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "98%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK68 White",
+        "price": 69.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "68%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK68 Black",
+        "price": 69.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "68%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans Tiger80lite Case",
+        "price": 29.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Fancy NT Pad",
+        "price": 45.0,
+        "manufacturer": "Fancy",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Cantor Remix",
+        "price": 40.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Monsgeek M1",
+        "price": 120.0,
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Wired",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Denshi Electronic DE64 V2 PCB YD60mq ISOES SOLDERED DIY",
+        "price": 84.0,
+        "manufacturer": "Denshi Electronic",
+        "vendor": [
+            "Denshi Electronic"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": [
+            "ISO ES",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD MiniNova II",
+        "price": 30.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wireless",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Denshi Electronic DE61 V2 PCB YD60mq SOLDERED DIY",
+        "price": 84.0,
+        "manufacturer": "Denshi Electronic",
+        "vendor": [
+            "Denshi Electronic"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Lumberjack 2 Ortholinear",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Ortholinear",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kono 84",
+        "price": 64.0,
+        "manufacturer": "Kono",
+        "vendor": [
+            "Kono"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii KC68 YZ68",
+        "price": 55.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Cantor",
+        "price": 40.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Denshi Electronic DE63 V2 PCB YD60mq SOLDERED DIY",
+        "price": 85.0,
+        "manufacturer": "Denshi Electronic",
+        "vendor": [
+            "Denshi Electronic"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Heavy shell Kira96 Three Mode",
+        "price": 155.0,
+        "manufacturer": "Heavy shell",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless",
+            "Bluetooth"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Satpad",
+        "price": 35.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Treadstone48",
+        "price": 80.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "50%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Idobao ID87 V2 Retro",
+        "price": 229.0,
+        "manufacturer": "Idobao",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Sikakeyb SK5 Mountain City Aluminum/",
+        "price": 179.0,
+        "manufacturer": "Sikakeyb",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK61 CNC Aluminum Titannium Grey",
+        "price": 139.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Velocifire Fokrere82 Support CNC Alu Case Gasket",
+        "price": 189.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "82%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Sikakeyb SK3 Mountain City Aluminum Gasket",
+        "price": 149.0,
+        "manufacturer": "Sikakeyb",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK61 CNC PC",
+        "price": 139.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Idobao ID80V2 /",
+        "price": 215.0,
+        "manufacturer": "Idobao",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK84 DRUM PC",
+        "price": 119.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK96 DRUM Aluminum Geek Purple",
+        "price": 127.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD ErgoDash Mini",
+        "price": 85.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Mechboards Gherkin",
+        "price": 25.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Model H USB Controller Upgrade IBM Model M",
+        "price": 50.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK84 DRUM Aluminum Geek Purple",
+        "price": 119.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Eternal Keypad",
+        "price": 35.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Discipad Numpad",
+        "price": 55.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ymdk 96 Walnut Beech Wooden Case",
+        "price": 179.0,
+        "manufacturer": "Ymdk",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Skyloong GK84 DRUM Aluminum Titanium Grey",
+        "price": 119.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Skyloong"
+        ],
+        "layout_size": "84%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD PeeTwo",
+        "price": 10.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Fourier v1.3 Split Staggered",
+        "price": 75.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Corne v3",
+        "price": 80.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Ymdk Split 64 SP64 CNC Aluminum Case DIY",
+        "price": 199.0,
+        "manufacturer": "Ymdk",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD ErgoDash",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Dumbpad OLED Macropad",
+        "price": 15.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Macropad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Fl\u00b7esports Q75",
+        "price": 89.0,
+        "manufacturer": "Fl\u00b7esports",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD dracuLad",
+        "price": 75.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Reviung 41",
+        "price": 95.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Reviung 39 II",
+        "price": 90.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "PCB Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Yampad v2 Macropad",
+        "price": 30.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Macropad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Milk",
+        "price": 10.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker GK61X/GK61XS Aluminium",
+        "price": 109.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Reviung 5",
+        "price": 20.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KEEBD Paintbrush",
+        "price": 20.0,
+        "manufacturer": "KEEBD",
+        "vendor": [
+            "KEEBD"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Haverworks Theseus75 Barebones",
+        "price": 449.0,
+        "manufacturer": "Haverworks",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "Other",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Vortex M0110A1800 Aluminum Barebones DIY",
+        "price": 219.0,
+        "manufacturer": "Vortex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "100%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Monsgeek M1W Aluminum Gasket DIY Updated Version",
+        "price": 139.0,
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Chilkey ND75",
+        "price": 99.0,
+        "manufacturer": "Chilkey",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "WOB WOBKEY Rainy75",
+        "price": 109.0,
+        "manufacturer": "WOB",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Jamesdonkey R2 Aluiminum DIY",
+        "price": 179.0,
+        "manufacturer": "Jamesdonkey",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "100%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Feker JJK21 Numpad DIY",
+        "price": 39.0,
+        "manufacturer": "Feker",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Weikav Sugar65 Aluminium Alloy",
+        "price": 69.0,
+        "manufacturer": "Weikav",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ISO",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Geon F18X V2 Barebone",
+        "price": 340.0,
+        "manufacturer": "Geon",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Meletrix Zoom98 Barebones",
+        "price": 179.0,
+        "manufacturer": "Meletrix",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "98%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Tray Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Mechboards Adam",
+        "price": 69.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "60%",
+        "layout_standard": [
+            "ISO ES",
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Dagk Alloy 2.0 DIY",
+        "price": 106.0,
+        "manufacturer": "Dagk",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Dagk Alloy40 Pro DIY",
+        "price": 78.0,
+        "manufacturer": "Dagk",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "40%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Epomaker GK96X/GK96XS",
+        "price": 71.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Southpaw",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Jamesdonkey RS2 Gasket",
+        "price": 89.0,
+        "manufacturer": "Jamesdonkey",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "96%,",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Kbdcraft Addams Numpad Barebones",
+        "price": 26.0,
+        "manufacturer": "Kbdcraft",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Epomaker GK61 Lite Gasket DIY",
+        "price": 95.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Split Spacebar",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Skyloong GK64X/GK64XS",
+        "price": 34.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "ACGAM TESTER68 Dual Mode DIY",
+        "price": 34.0,
+        "manufacturer": "ACGAM",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Mechboards Yampad V2 Numpad",
+        "price": 15.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Monsgeek MG108W DIY",
+        "price": 63.0,
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "100%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "sam NotfromSam Trigon Coated Edition",
+        "price": 264.0,
+        "manufacturer": "sam",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "60%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Divinikey _bvn Calla",
+        "price": 450.0,
+        "manufacturer": "Divinikey",
+        "vendor": [
+            "Divinikey"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Chilkey Paw65 Barebones",
+        "price": 79.0,
+        "manufacturer": "Chilkey",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "DOIO KB19B01 Macro DIY O",
+        "price": 167.0,
+        "manufacturer": "DOIO",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Hope75X mium",
+        "price": 449.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Keylice65 Alice DualMode MultiMount Excellent Surface Process",
+        "price": 320.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Alice",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "sam NotfromSam Trigon Anodized Edition",
+        "price": 254.0,
+        "manufacturer": "sam",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "60%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Bubble75 Standard",
+        "price": 339.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Mechboards Barebones",
+        "price": 40.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Dagk Walnut Wood Pro DIY",
+        "price": 149.0,
+        "manufacturer": "Dagk",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "96%,",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Skyloong GK96XS Drum",
+        "price": 118.0,
+        "manufacturer": "Skyloong",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "96%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Vortex M0110A Aluminum Barebones DIY",
+        "price": 219.0,
+        "manufacturer": "Vortex",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "100%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Hope75X Standard",
+        "price": 359.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Monsgeek MG75 White DIY",
+        "price": 43.0,
+        "manufacturer": "Monsgeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Mechboards Let's Split",
+        "price": 85.0,
+        "manufacturer": "Mechboards",
+        "vendor": [
+            "Mechboards"
+        ],
+        "layout_size": "Unknown",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Ortholinear",
+        "hotswappable": null,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Glorious PC GMMK Pro Black Slate Aluminum Barebones Hotwswap",
+        "price": 169.0,
+        "manufacturer": "Glorious",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Hope75S Standard",
+        "price": 359.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "ACGAM MMD87 3 Mode DIY",
+        "price": 58.0,
+        "manufacturer": "ACGAM",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Unknown",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Hope75S mium",
+        "price": 459.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Sisyphus65",
+        "price": 299.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "65%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "MK Lemokey L1 Aluminum",
+        "price": 194.0,
+        "manufacturer": "MK",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%,",
+        "layout_standard": [
+            "ANSI",
+            "ISO"
+        ],
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Wuque Studio Zoom75 Aluminum Barebones . Flex Cut PCB DIY",
+        "price": 214.0,
+        "manufacturer": "Wuque Studio",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Wuque Studio Zoom75 Aluminum Barebones . NonFlex Cut PCB DIY",
+        "price": 214.0,
+        "manufacturer": "Wuque Studio",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": [
+            "ISO",
+            "ANSI"
+        ],
+        "layout_ergonomic": "Split Backspace",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": null,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Bubble75 mium",
+        "price": 364.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Velocifire Sun68 Gasket",
+        "price": 399.0,
+        "manufacturer": "Velocifire",
+        "vendor": [
+            "Velocifire"
+        ],
+        "layout_size": "68%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": null,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Gasket Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Meletrix ZoomPad Barebones Numpad",
+        "price": 90.0,
+        "manufacturer": "Meletrix",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "layout_size": "Numpad",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "KBDFans Tiger Lite Green Barebones DIY",
+        "price": 129.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Akko ACR Pro 75 DIY",
+        "price": 99.0,
+        "manufacturer": "Akko",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "KBDFans Tiger Lite Pink Barebones DIY",
+        "price": 129.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "80%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Plate Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Cidoo ABM648",
+        "price": 85.0,
+        "manufacturer": "Cidoo",
+        "vendor": [
+            "Epomaker"
+        ],
+        "layout_size": "60%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Plate Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "KBDFans KBD75 v3.1 Barebones DIY PC Plate Pine Green",
+        "price": 219.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "KBDFans KBD75 v3.1 Barebones DIY Burgundy",
+        "price": 219.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "MK"
+        ],
+        "layout_size": "75%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": false,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": "Wired",
+        "mount_style": "Top Mount",
+        "material": "Aluminum case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Homoo KF068 DIY",
+        "price": 53.0,
+        "manufacturer": "Homoo",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
+    },
+    {
+        "name": "Dukharo VN66 Barebone DIY",
+        "price": 69.0,
+        "manufacturer": "Dukharo",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "layout_size": "65%",
+        "layout_standard": "ANSI",
+        "layout_ergonomic": "Normal",
+        "hotswappable": true,
+        "knob_support": null,
+        "rgb_support": true,
+        "display_support": false,
+        "connection": [
+            "Bluetooth",
+            "2.4 GHz",
+            "Wireless"
+        ],
+        "mount_style": "Gasket Mount",
+        "material": "Plastic case",
+        "img_url": null,
+        "availability": false
     }
 ]
