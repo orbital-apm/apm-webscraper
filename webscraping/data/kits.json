@@ -13,7 +13,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -277,7 +279,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -297,7 +301,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -320,7 +326,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -388,7 +396,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -576,7 +586,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wireless",
+        "connection": [
+            "Wireless"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -623,7 +635,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -667,7 +681,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -714,7 +730,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -734,7 +752,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -789,7 +809,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -880,7 +902,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -956,7 +980,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -979,7 +1005,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1006,7 +1034,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1097,7 +1127,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1117,7 +1149,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1137,7 +1171,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -1205,7 +1241,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -1225,7 +1263,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wireless",
+        "connection": [
+            "Wireless"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -1245,7 +1285,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1335,7 +1377,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -1355,7 +1399,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1422,7 +1468,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1445,7 +1493,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1468,7 +1518,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -1495,7 +1547,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1515,7 +1569,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -1535,7 +1591,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1579,7 +1637,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -1623,7 +1683,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -1646,7 +1708,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1692,7 +1756,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Aluminum case",
         "img_url": null,
@@ -1758,7 +1824,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1809,7 +1877,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1861,7 +1931,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1881,7 +1953,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1904,7 +1978,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -1997,7 +2073,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2067,7 +2145,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2134,7 +2214,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2154,7 +2236,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2174,7 +2258,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2217,7 +2303,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -2260,7 +2348,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2326,7 +2416,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2346,7 +2438,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2366,7 +2460,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2386,7 +2482,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2430,7 +2528,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Aluminum case",
         "img_url": null,
@@ -2520,7 +2620,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2540,7 +2642,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wireless",
+        "connection": [
+            "Wireless"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2634,7 +2738,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2654,7 +2760,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2674,7 +2782,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Aluminum case",
         "img_url": null,
@@ -2694,7 +2804,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2717,7 +2829,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2737,7 +2851,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -2757,7 +2873,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2777,7 +2895,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2797,7 +2917,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2840,7 +2962,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -2887,7 +3011,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2910,7 +3036,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -2976,7 +3104,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -2999,7 +3129,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3019,7 +3151,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3063,7 +3197,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3086,7 +3222,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3106,7 +3244,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -3126,7 +3266,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -3173,7 +3315,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3216,7 +3360,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -3236,7 +3382,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3259,7 +3407,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -3325,7 +3475,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3345,7 +3497,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3365,7 +3519,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3385,7 +3541,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3479,7 +3637,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3522,7 +3682,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3612,7 +3774,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -3655,7 +3819,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Aluminum case",
         "img_url": null,
@@ -3675,7 +3841,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3695,7 +3863,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3715,7 +3885,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3782,7 +3954,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3805,7 +3979,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3825,7 +4001,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -3845,7 +4023,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3865,7 +4045,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3908,7 +4090,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3928,7 +4112,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -3948,7 +4134,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -3992,7 +4180,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -4012,7 +4202,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4032,7 +4224,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4060,7 +4254,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4103,7 +4299,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4123,7 +4321,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4143,7 +4343,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4186,7 +4388,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -4206,7 +4410,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4250,7 +4456,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4270,7 +4478,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4290,7 +4500,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4310,7 +4522,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4330,7 +4544,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4397,7 +4613,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4417,7 +4635,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4437,7 +4657,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4503,7 +4725,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4546,7 +4770,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4566,7 +4792,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4586,7 +4814,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4606,7 +4836,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -4673,7 +4905,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4716,7 +4950,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4762,7 +4998,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4782,7 +5020,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wireless",
+        "connection": [
+            "Wireless"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4802,7 +5042,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4822,7 +5064,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4889,7 +5133,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4909,7 +5155,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Tray Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -4953,7 +5201,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4973,7 +5223,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -4993,7 +5245,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5060,7 +5314,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -5130,7 +5386,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Aluminum case",
         "img_url": null,
@@ -5196,7 +5454,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5216,7 +5476,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5236,7 +5498,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5279,7 +5543,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -5299,7 +5565,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5322,7 +5590,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5365,7 +5635,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5385,7 +5657,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -5405,7 +5679,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5425,7 +5701,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Aluminum case",
         "img_url": null,
@@ -5445,7 +5723,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5465,7 +5745,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5485,7 +5767,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5505,7 +5789,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5525,7 +5811,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -5545,7 +5833,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "PCB Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -5565,7 +5855,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5585,7 +5877,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5628,7 +5922,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5648,7 +5944,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -5668,7 +5966,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -5691,7 +5991,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -5828,7 +6130,9 @@
         "knob_support": null,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -5848,7 +6152,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -5899,7 +6205,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6012,7 +6320,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6102,7 +6412,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -6148,7 +6460,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6168,7 +6482,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6235,7 +6551,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6255,7 +6573,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": null,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6278,7 +6598,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6298,7 +6620,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6391,7 +6715,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6411,7 +6737,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6454,7 +6782,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Unknown",
         "material": "Plastic case",
         "img_url": null,
@@ -6474,7 +6804,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6494,7 +6826,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6537,7 +6871,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6560,7 +6896,9 @@
         "knob_support": null,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6661,7 +6999,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6681,7 +7021,9 @@
         "knob_support": false,
         "rgb_support": null,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Gasket Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6725,7 +7067,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6745,7 +7089,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6765,7 +7111,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Plate Mount",
         "material": "Plastic case",
         "img_url": null,
@@ -6809,7 +7157,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,
@@ -6829,7 +7179,9 @@
         "knob_support": false,
         "rgb_support": true,
         "display_support": false,
-        "connection": "Wired",
+        "connection": [
+            "Wired"
+        ],
         "mount_style": "Top Mount",
         "material": "Aluminum case",
         "img_url": null,

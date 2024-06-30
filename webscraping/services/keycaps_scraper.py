@@ -55,11 +55,14 @@ with sync_playwright() as p:
             except AttributeError:
                 manufacturer = None
 
-            try:   
+            try:
                 layout = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
                                                 div:nth-child(1) > div:nth-child(2) > div:nth-child(4) > div.flex > div').inner_text() # type: ignore
+                
                 if "," in layout:
                     layout = layout.split(', ')
+                else:
+                    layout = [layout]
 
             except AttributeError:
                 layout = None

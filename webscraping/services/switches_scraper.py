@@ -18,7 +18,7 @@ with sync_playwright() as p:
     articles = len(listings_page.query_selector_all("article"))
     pages = int(listings_page.query_selector("body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                     div.MuiBox-root.mui-0 > nav > ul > li:nth-child(8) > a").inner_text()) # type: ignore
-    for pagination in range(1, 20, 1):
+    for pagination in range(1, pages, 1):
         listings_page.goto(f"https://keeb-finder.com/switches?page={pagination}")
         listings_page.screenshot(path="example_switches.png", full_page=True)
         for article in range(1, articles + 1, 1):
@@ -83,7 +83,6 @@ with sync_playwright() as p:
             for i in vendors_data:
                 vendors.append(i.get_attribute("alt"))
 
-
             data.append({
                 "name": name,
                 "price": float(price[1:]),
@@ -100,6 +99,6 @@ with sync_playwright() as p:
     browser.close()
 
     with open('webscraping/data/switches.json', 'w') as f:
-            json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4)
 
 print("Data extraction for switches completed successfully.")

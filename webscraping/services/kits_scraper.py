@@ -132,6 +132,8 @@ with sync_playwright() as p:
                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(10) > div.flex > div').inner_text()  # type: ignore
                 if "," in connection:
                     connection = connection.split(', ')
+                else:
+                    connection = [connection]
 
             except AttributeError:
                 connection = None

@@ -7,7 +7,9 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -21,7 +23,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -35,7 +39,9 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "NSA",
         "img_url": null,
@@ -49,7 +55,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -63,7 +71,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "ASA",
         "img_url": null,
@@ -77,7 +87,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -91,7 +103,9 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "NSA",
         "img_url": null,
@@ -105,7 +119,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -119,7 +135,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -133,7 +151,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -147,7 +167,9 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -161,7 +183,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -193,7 +217,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MAO",
         "img_url": null,
@@ -224,21 +250,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Epomaker Mossy",
-        "price": 24.0,
-        "manufacturer": "Epomaker",
-        "vendor": [
-            "Epomaker"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -252,8 +266,26 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker Mossy",
+        "price": 24.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -266,7 +298,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -280,7 +314,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -294,7 +330,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -308,7 +346,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "DSA",
         "img_url": null,
@@ -339,7 +379,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -370,8 +412,26 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "PBTfans KabukiCho R2",
+        "price": 99.0,
+        "manufacturer": "PBTfans",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -418,7 +478,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -432,7 +494,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -446,7 +510,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -460,7 +526,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -474,35 +542,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "ePBT Kuro Shiro",
-        "price": 39.0,
-        "manufacturer": "ePBT",
-        "vendor": [
-            "ApexKeyboards"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "JC Studio Mint Keycap Extension",
-        "price": 15.0,
-        "manufacturer": "JC Studio",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -516,9 +558,43 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ePBT Kuro Shiro",
+        "price": 39.0,
+        "manufacturer": "ePBT",
+        "vendor": [
+            "ApexKeyboards"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "JC Studio Mint Keycap Extension",
+        "price": 15.0,
+        "manufacturer": "JC Studio",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -530,7 +606,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -544,7 +622,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -558,7 +638,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -572,7 +654,9 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "KDA",
         "img_url": null,
@@ -603,7 +687,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "Cherry",
         "img_url": null,
@@ -617,7 +703,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -631,7 +719,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -645,7 +735,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "DSA",
         "img_url": null,
@@ -659,7 +751,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MOA",
         "img_url": null,
@@ -673,9 +767,27 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "XDA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Diykeycap MODERN DOLCH",
+        "price": 34.0,
+        "manufacturer": "Diykeycap",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -697,6 +809,22 @@
         "availability": true
     },
     {
+        "name": "PBTfans Untamed",
+        "price": 95.0,
+        "manufacturer": "PBTfans",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "Epomaker MIA",
         "price": 35.0,
         "manufacturer": "Epomaker",
@@ -714,20 +842,6 @@
         "availability": true
     },
     {
-        "name": "PBTfans Untamed",
-        "price": 95.0,
-        "manufacturer": "PBTfans",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "Sikakeyb",
         "price": 39.0,
         "manufacturer": "Sikakeyb",
@@ -735,7 +849,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -766,23 +882,11 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KDA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Joorkey Haku",
-        "price": 69.0,
-        "manufacturer": "Joorkey",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -804,15 +908,17 @@
         "availability": true
     },
     {
-        "name": "PBTfans KabukiCho R2",
-        "price": 99.0,
-        "manufacturer": "PBTfans",
+        "name": "Joorkey Haku",
+        "price": 69.0,
+        "manufacturer": "Joorkey",
         "vendor": [
-            "Divinikey"
+            "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -825,7 +931,9 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -839,7 +947,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -853,7 +963,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KAM",
         "img_url": null,
@@ -867,7 +979,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -881,7 +995,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -895,7 +1011,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -909,9 +1027,27 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "WhatGeek KCK01 Space Profile",
+        "price": 49.0,
+        "manufacturer": "WhatGeek",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "OEM",
         "img_url": null,
         "availability": true
     },
@@ -940,21 +1076,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "WhatGeek KCK01 Space Profile",
-        "price": 49.0,
-        "manufacturer": "WhatGeek",
-        "vendor": [
-            "WhatGeek"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -968,7 +1092,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -982,7 +1108,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -996,23 +1124,11 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Ducky One 2 Mini Backlight Gray purple",
-        "price": 19.0,
-        "manufacturer": "Ducky",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "OEM",
         "img_url": null,
         "availability": true
     },
@@ -1034,6 +1150,22 @@
         "availability": true
     },
     {
+        "name": "Ducky One 2 Mini Backlight Gray purple",
+        "price": 19.0,
+        "manufacturer": "Ducky",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "Nuphy Carved Prairie",
         "price": 49.0,
         "manufacturer": "Nuphy",
@@ -1041,9 +1173,27 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "NSA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative LeleLab ICE CAT Seaside",
+        "price": 49.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -1055,7 +1205,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1069,36 +1221,10 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keyreative LeleLab ICE CAT Seaside",
-        "price": 49.0,
-        "manufacturer": "Keyreative",
-        "vendor": [
-            "zFrontier"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Diykeycap MODERN DOLCH",
-        "price": 34.0,
-        "manufacturer": "Diykeycap",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -1111,7 +1237,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1125,7 +1253,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -1139,37 +1269,11 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "NSA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Joorkey Japanese Analog Dreams",
-        "price": 42.0,
-        "manufacturer": "Joorkey",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Joorkey Ink Blossom",
-        "price": 62.0,
-        "manufacturer": "Joorkey",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -1191,6 +1295,38 @@
         "availability": true
     },
     {
+        "name": "Joorkey Japanese Analog Dreams",
+        "price": 42.0,
+        "manufacturer": "Joorkey",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Joorkey Ink Blossom",
+        "price": 62.0,
+        "manufacturer": "Joorkey",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "GMK Mr Sleeves R2",
         "price": 44.0,
         "manufacturer": "GMK",
@@ -1198,7 +1334,9 @@
             "ApexKeyboards"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1229,7 +1367,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -1243,7 +1383,9 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1257,7 +1399,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "OEM",
         "img_url": null,
@@ -1271,7 +1415,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -1285,7 +1431,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1299,9 +1447,27 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "SA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "zFrontier MV Synth",
+        "price": 80.0,
+        "manufacturer": "zFrontier",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -1313,7 +1479,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1327,7 +1495,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -1341,7 +1511,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -1355,7 +1527,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1369,7 +1543,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -1383,7 +1559,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1397,7 +1575,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1411,7 +1591,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "SA",
         "img_url": null,
@@ -1425,7 +1607,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1439,7 +1623,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1453,7 +1639,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "MOA",
         "img_url": null,
@@ -1467,7 +1655,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1481,7 +1671,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
         "img_url": null,
@@ -1495,7 +1687,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1509,7 +1703,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1523,7 +1719,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1537,7 +1735,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KDA",
         "img_url": null,
@@ -1551,7 +1751,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1565,7 +1767,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1579,7 +1783,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1593,7 +1799,25 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Diykeycap Sound Flow",
+        "price": 34.0,
+        "manufacturer": "Diykeycap",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1607,23 +1831,11 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Diykeycap Sound Flow",
-        "price": 34.0,
-        "manufacturer": "Diykeycap",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -1635,9 +1847,44 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Sun Surfing",
+        "price": 139.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "Apos"
+        ],
+        "colors": [],
+        "layout": [
+            "ISO",
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii",
+        "price": 25.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "OEM",
         "img_url": null,
         "availability": true
     },
@@ -1659,16 +1906,18 @@
         "availability": true
     },
     {
-        "name": "Yunzii",
-        "price": 25.0,
-        "manufacturer": "Yunzii",
+        "name": "GMK CYL Rainy Day R2",
+        "price": 128.0,
+        "manufacturer": "GMK",
         "vendor": [
-            "Mechkeys"
+            "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "OEM",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -1680,7 +1929,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
         "img_url": null,
@@ -1694,7 +1945,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1708,7 +1961,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -1739,7 +1994,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1753,7 +2010,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -1784,7 +2043,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1798,7 +2059,9 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1812,7 +2075,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1826,7 +2091,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1840,7 +2107,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1854,7 +2123,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -1868,7 +2139,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1882,7 +2155,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "JSA",
         "img_url": null,
@@ -1896,7 +2171,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -1910,7 +2187,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -1924,21 +2203,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Epomaker Lavender Jade",
-        "price": 33.0,
-        "manufacturer": "Epomaker",
-        "vendor": [
-            "Epomaker"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -1952,8 +2219,26 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker Lavender Jade",
+        "price": 33.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -1983,7 +2268,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -1997,9 +2284,27 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative Outline",
+        "price": 95.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "KAM",
         "img_url": null,
         "availability": true
     },
@@ -2011,7 +2316,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "DSA",
         "img_url": null,
@@ -2025,7 +2332,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "OEM",
         "img_url": null,
@@ -2039,7 +2348,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -2053,9 +2364,27 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MOA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ePBT Doll",
+        "price": 79.0,
+        "manufacturer": "ePBT",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -2067,7 +2396,25 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Diykeycap Black Yellow Japanese keycap",
+        "price": 32.0,
+        "manufacturer": "Diykeycap",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2081,65 +2428,11 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MOA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keyreative Outline",
-        "price": 95.0,
-        "manufacturer": "Keyreative",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "KAM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Diykeycap Black Yellow Japanese keycap",
-        "price": 32.0,
-        "manufacturer": "Diykeycap",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "zFrontier MV Synth",
-        "price": 80.0,
-        "manufacturer": "zFrontier",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Kono DS108 ShineThrough",
-        "price": 29.0,
-        "manufacturer": "Kono",
-        "vendor": [
-            "Kono"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -2151,7 +2444,9 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -2165,7 +2460,25 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kono DS108 ShineThrough",
+        "price": 29.0,
+        "manufacturer": "Kono",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2179,9 +2492,27 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative Lala",
+        "price": 69.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ISO"
+        ],
+        "material": "PBT",
+        "profile": "KAT",
         "img_url": null,
         "availability": true
     },
@@ -2193,7 +2524,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -2207,7 +2540,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KAT",
         "img_url": null,
@@ -2221,23 +2556,11 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keyreative Lala",
-        "price": 69.0,
-        "manufacturer": "Keyreative",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ISO",
-        "material": "PBT",
-        "profile": "KAT",
         "img_url": null,
         "availability": true
     },
@@ -2249,7 +2572,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2263,7 +2588,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MAO",
         "img_url": null,
@@ -2294,7 +2621,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MOA",
         "img_url": null,
@@ -2308,8 +2637,26 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Metropolis R2",
+        "price": 150.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -2322,7 +2669,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -2370,7 +2719,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2384,7 +2735,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2398,7 +2751,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -2412,7 +2767,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "OEM",
         "img_url": null,
@@ -2426,7 +2783,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -2440,7 +2799,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2471,7 +2832,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -2485,7 +2848,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2499,40 +2864,11 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "DSA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Diykeycap SHOKO",
-        "price": 42.0,
-        "manufacturer": "Diykeycap",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
         "layout": [
-            "ISO",
             "ANSI"
         ],
         "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Tenshi",
-        "price": 139.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "Kono"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
+        "profile": "DSA",
         "img_url": null,
         "availability": true
     },
@@ -2554,6 +2890,23 @@
         "availability": true
     },
     {
+        "name": "Diykeycap SHOKO",
+        "price": 42.0,
+        "manufacturer": "Diykeycap",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ISO",
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "Keytok Pixel Universe Translucidus",
         "price": 95.0,
         "manufacturer": "Keytok",
@@ -2561,9 +2914,43 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keychron Forest",
+        "price": 40.0,
+        "manufacturer": "Keychron",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Tenshi",
+        "price": 139.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -2575,7 +2962,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2589,9 +2978,43 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ePBT Flaming Ice",
+        "price": 65.0,
+        "manufacturer": "ePBT",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Piifox Splashing Ink Landscape",
+        "price": 65.0,
+        "manufacturer": "Piifox",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "ASA",
         "img_url": null,
         "availability": true
     },
@@ -2603,7 +3026,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2617,7 +3042,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2631,36 +3058,10 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Piifox Splashing Ink Landscape",
-        "price": 65.0,
-        "manufacturer": "Piifox",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "ASA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "ePBT Flaming Ice",
-        "price": 65.0,
-        "manufacturer": "ePBT",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -2673,7 +3074,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "Cherry",
         "img_url": null,
@@ -2687,7 +3090,25 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Joorkey Redacted",
+        "price": 58.0,
+        "manufacturer": "Joorkey",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2701,7 +3122,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "ASA",
         "img_url": null,
@@ -2715,7 +3138,9 @@
             "Denshi Electronic"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -2729,7 +3154,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2760,39 +3187,10 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Joorkey Redacted",
-        "price": 58.0,
-        "manufacturer": "Joorkey",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Sun Surfing",
-        "price": 139.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "Apos"
-        ],
-        "colors": [],
         "layout": [
-            "ISO",
             "ANSI"
         ],
-        "material": "ABS",
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -2805,7 +3203,9 @@
             "Kinetic Labs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2819,7 +3219,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2833,23 +3235,11 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK CYL Rainy Day R2",
-        "price": 128.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -2861,7 +3251,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -2875,7 +3267,25 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keykobo Moon Rabbit",
+        "price": 85.0,
+        "manufacturer": "Keykobo",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -2889,7 +3299,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2903,23 +3315,11 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keykobo Moon Rabbit",
-        "price": 85.0,
-        "manufacturer": "Keykobo",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -2948,7 +3348,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -2962,7 +3364,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -2976,22 +3380,10 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keykobo Izakaya",
-        "price": 92.0,
-        "manufacturer": "Keykobo",
-        "vendor": [
-            "Divinikey"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -3004,9 +3396,27 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keykobo Izakaya",
+        "price": 92.0,
+        "manufacturer": "Keykobo",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -3018,7 +3428,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -3032,7 +3444,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3046,79 +3460,27 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "JC Studio Color",
-        "price": 39.0,
-        "manufacturer": "JC Studio",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Redline",
-        "price": 135.0,
+        "name": "GMK Marmoreal",
+        "price": 145.0,
         "manufacturer": "GMK",
         "vendor": [
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keyreative Bouquet",
-        "price": 88.0,
-        "manufacturer": "Keyreative",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "KAM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Yunzii Wandering",
-        "price": 45.0,
-        "manufacturer": "Yunzii",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "MDA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Soulcat Cat Stack Profile",
-        "price": 59.0,
-        "manufacturer": "Soulcat",
-        "vendor": [
-            "WhatGeek"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "MAO",
         "img_url": null,
         "availability": true
     },
@@ -3136,6 +3498,86 @@
         ],
         "material": "ABS",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "JC Studio Color",
+        "price": 39.0,
+        "manufacturer": "JC Studio",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Redline",
+        "price": 135.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii Wandering",
+        "price": 45.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "MDA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative Bouquet",
+        "price": 88.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "KAM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Soulcat Cat Stack Profile",
+        "price": 59.0,
+        "manufacturer": "Soulcat",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "MAO",
         "img_url": null,
         "availability": true
     },
@@ -3165,7 +3607,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "DSA",
         "img_url": null,
@@ -3179,7 +3623,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3193,8 +3639,42 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Diykeycap Frost Witch",
+        "price": 34.0,
+        "manufacturer": "Diykeycap",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Maroon",
+        "price": 170.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -3207,7 +3687,9 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3221,7 +3703,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -3235,21 +3719,25 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "OEM",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "Diykeycap Frost Witch",
-        "price": 34.0,
-        "manufacturer": "Diykeycap",
+        "name": "Divinikey MW Yeeti Light",
+        "price": 85.0,
+        "manufacturer": "Divinikey",
         "vendor": [
-            "Diykeycap"
+            "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3263,7 +3751,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -3277,7 +3767,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3291,21 +3783,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Divinikey MW Yeeti Light",
-        "price": 85.0,
-        "manufacturer": "Divinikey",
-        "vendor": [
-            "Divinikey"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3336,7 +3816,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "OEM",
         "img_url": null,
@@ -3350,7 +3832,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3364,7 +3848,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3378,7 +3864,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3392,7 +3880,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -3406,7 +3896,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KAM",
         "img_url": null,
@@ -3420,7 +3912,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3434,7 +3928,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -3448,7 +3944,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -3462,7 +3960,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MAO",
         "img_url": null,
@@ -3476,7 +3976,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
         "img_url": null,
@@ -3490,7 +3992,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -3521,7 +4025,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -3535,7 +4041,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "Cherry",
         "img_url": null,
@@ -3549,9 +4057,27 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Maxkey White Black",
+        "price": 99.0,
+        "manufacturer": "Maxkey",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "SA",
         "img_url": null,
         "availability": true
     },
@@ -3563,7 +4089,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3594,7 +4122,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3608,7 +4138,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -3622,8 +4154,42 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative 80s After Dark",
+        "price": 36.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "KAM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Classic Beige Hangul Beige",
+        "price": 166.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -3636,7 +4202,9 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3650,51 +4218,27 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "GMK Classic Beige Hangul Beige",
-        "price": 166.0,
-        "manufacturer": "GMK",
+        "name": "WhatGeek Cyberpunk Profile",
+        "price": 59.0,
+        "manufacturer": "WhatGeek",
         "vendor": [
-            "zFrontier"
+            "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Maxkey White Black",
-        "price": 99.0,
-        "manufacturer": "Maxkey",
-        "vendor": [
-            "Kono"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keyreative 80s After Dark",
-        "price": 36.0,
-        "manufacturer": "Keyreative",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
-        "profile": "KAM",
+        "profile": "ASA",
         "img_url": null,
         "availability": true
     },
@@ -3716,20 +4260,6 @@
         "availability": true
     },
     {
-        "name": "Keytok Turn to 90's Smile",
-        "price": 59.0,
-        "manufacturer": "Keytok",
-        "vendor": [
-            "Nuphy"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "Unknown",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "Domikey Geeks Dolch",
         "price": 99.0,
         "manufacturer": "Domikey",
@@ -3737,9 +4267,27 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keytok Turn to 90's Smile",
+        "price": 59.0,
+        "manufacturer": "Keytok",
+        "vendor": [
+            "Nuphy"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "Unknown",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -3751,23 +4299,11 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "JDA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "WhatGeek Cyberpunk Profile",
-        "price": 59.0,
-        "manufacturer": "WhatGeek",
-        "vendor": [
-            "WhatGeek"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "ASA",
         "img_url": null,
         "availability": true
     },
@@ -3779,8 +4315,26 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KDS Splatter",
+        "price": 63.0,
+        "manufacturer": "KDS",
+        "vendor": [
+            "Apos"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -3793,7 +4347,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3807,21 +4363,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "KDS Splatter",
-        "price": 63.0,
-        "manufacturer": "KDS",
-        "vendor": [
-            "Apos"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3835,7 +4379,9 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ISO",
+        "layout": [
+            "ISO"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -3849,7 +4395,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -3863,7 +4411,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "DSA",
         "img_url": null,
@@ -3894,7 +4444,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KDA",
         "img_url": null,
@@ -3908,7 +4460,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3922,7 +4476,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3936,7 +4492,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3950,7 +4508,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -3964,7 +4524,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -3978,7 +4540,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -3992,7 +4556,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4006,7 +4572,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4020,7 +4588,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4034,7 +4604,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4048,22 +4620,10 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Metropolis R2",
-        "price": 150.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "zFrontier"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -4076,7 +4636,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -4107,23 +4669,11 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keykobo RainBoW Accent",
-        "price": 39.0,
-        "manufacturer": "Keykobo",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -4135,23 +4685,27 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "Kono Cyberspace",
-        "price": 99.0,
-        "manufacturer": "Kono",
+        "name": "Keykobo RainBoW Accent",
+        "price": 39.0,
+        "manufacturer": "Keykobo",
         "vendor": [
-            "Kono"
+            "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
-        "profile": "KAT",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -4163,9 +4717,27 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kono Cyberspace",
+        "price": 99.0,
+        "manufacturer": "Kono",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "KAT",
         "img_url": null,
         "availability": true
     },
@@ -4177,7 +4749,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -4191,7 +4765,25 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative LeleLab Supsup SuperX White",
+        "price": 44.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4205,8 +4797,26 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Fancy Lafite Semi",
+        "price": 49.0,
+        "manufacturer": "Fancy",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PC",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -4219,7 +4829,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "DSA",
         "img_url": null,
@@ -4251,7 +4863,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -4265,7 +4879,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4279,36 +4895,10 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keyreative LeleLab Supsup SuperX White",
-        "price": 44.0,
-        "manufacturer": "Keyreative",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Fancy Lafite Semi",
-        "price": 49.0,
-        "manufacturer": "Fancy",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PC",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -4321,7 +4911,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -4335,7 +4927,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4349,7 +4943,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4363,7 +4959,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -4377,9 +4975,27 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ISO",
+        "layout": [
+            "ISO"
+        ],
         "material": "PBT",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ACGAM Cow Farm Profile",
+        "price": 49.0,
+        "manufacturer": "ACGAM",
+        "vendor": [
+            "WhatGeek"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "SOA",
         "img_url": null,
         "availability": true
     },
@@ -4408,7 +5024,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4422,7 +5040,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4453,7 +5073,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4467,7 +5089,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
         "img_url": null,
@@ -4481,23 +5105,27 @@
             "Denshi Electronic"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "ACGAM Cow Farm Profile",
-        "price": 49.0,
-        "manufacturer": "ACGAM",
+        "name": "GMK Manta",
+        "price": 125.0,
+        "manufacturer": "GMK",
         "vendor": [
-            "WhatGeek"
+            "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "SOA",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -4509,7 +5137,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4523,7 +5153,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4554,7 +5186,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -4585,7 +5219,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4599,7 +5235,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4613,7 +5251,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4627,7 +5267,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4641,22 +5283,42 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "GMK Earth Tones",
-        "price": 157.0,
-        "manufacturer": "GMK",
+        "name": "Keyreative LeleLab Supsup Colombian Green Emerald",
+        "price": 32.0,
+        "manufacturer": "Keyreative",
         "vendor": [
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii Vintage Grey/Red",
+        "price": 45.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -4669,7 +5331,9 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4700,7 +5364,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -4714,37 +5380,11 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Yunzii Vintage Grey/Red",
-        "price": 45.0,
-        "manufacturer": "Yunzii",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keychron Forest",
-        "price": 40.0,
-        "manufacturer": "Keychron",
-        "vendor": [
-            "Dangkeebs"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -4756,7 +5396,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4770,7 +5412,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MDA",
         "img_url": null,
@@ -4784,7 +5428,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "OEM",
         "img_url": null,
@@ -4798,7 +5444,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4812,23 +5460,11 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Piifox Navigator",
-        "price": 69.0,
-        "manufacturer": "Piifox",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "ASA",
         "img_url": null,
         "availability": true
     },
@@ -4840,9 +5476,27 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Piifox Navigator",
+        "price": 69.0,
+        "manufacturer": "Piifox",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "ASA",
         "img_url": null,
         "availability": true
     },
@@ -4854,7 +5508,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4868,7 +5524,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4882,21 +5540,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keykobo Geon Gigachad / Gigachild Extension",
-        "price": 63.0,
-        "manufacturer": "Keykobo",
-        "vendor": [
-            "Divinikey"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -4910,21 +5556,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Titan Nation The Legend of Zelda",
-        "price": 39.0,
-        "manufacturer": "Titan Nation",
-        "vendor": [
-            "Mechkeys"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4938,7 +5572,57 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keyreative LeleLab Supsup Classic Red",
+        "price": 44.0,
+        "manufacturer": "Keyreative",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Keykobo Geon Gigachad / Gigachild Extension",
+        "price": 63.0,
+        "manufacturer": "Keykobo",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Titan Nation The Legend of Zelda",
+        "price": 39.0,
+        "manufacturer": "Titan Nation",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4952,7 +5636,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "ASA",
         "img_url": null,
@@ -4966,7 +5652,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -4980,23 +5668,11 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ISO",
+        "layout": [
+            "ISO"
+        ],
         "material": "ABS",
         "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Divinikey Zombie 100",
-        "price": 59.0,
-        "manufacturer": "Divinikey",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -5008,7 +5684,25 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Divinikey Zombie 100",
+        "price": 59.0,
+        "manufacturer": "Divinikey",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5039,7 +5733,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5053,7 +5749,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PC",
         "profile": "KSA",
         "img_url": null,
@@ -5067,23 +5765,11 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "ePBT Doll",
-        "price": 79.0,
-        "manufacturer": "ePBT",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -5112,7 +5798,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "KDA",
         "img_url": null,
@@ -5126,7 +5814,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -5140,7 +5830,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5154,7 +5846,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -5168,7 +5862,9 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "NSA",
         "img_url": null,
@@ -5182,23 +5878,11 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Kono Calm Depths",
-        "price": 99.0,
-        "manufacturer": "Kono",
-        "vendor": [
-            "Kono"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "SA",
         "img_url": null,
         "availability": true
     },
@@ -5210,9 +5894,43 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KDA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kono Calm Depths",
+        "price": 99.0,
+        "manufacturer": "Kono",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "SA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "ePBT Hellas",
+        "price": 104.0,
+        "manufacturer": "ePBT",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -5224,7 +5942,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -5238,7 +5958,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "MAO",
         "img_url": null,
@@ -5252,7 +5974,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5266,7 +5990,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5280,7 +6006,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -5294,22 +6022,10 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "ePBT Hellas",
-        "price": 104.0,
-        "manufacturer": "ePBT",
-        "vendor": [
-            "Dangkeebs"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
+        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -5322,7 +6038,9 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -5336,23 +6054,11 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Marmoreal",
-        "price": 145.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -5364,23 +6070,11 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "JSA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Epomaker Starry Bunny",
-        "price": 29.0,
-        "manufacturer": "Epomaker",
-        "vendor": [
-            "Epomaker"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "MOA",
         "img_url": null,
         "availability": true
     },
@@ -5392,9 +6086,27 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Epomaker Starry Bunny",
+        "price": 29.0,
+        "manufacturer": "Epomaker",
+        "vendor": [
+            "Epomaker"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "MOA",
         "img_url": null,
         "availability": true
     },
@@ -5406,7 +6118,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -5420,7 +6134,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "OEM",
         "img_url": null,
@@ -5434,7 +6150,9 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ISO",
+        "layout": [
+            "ISO"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -5448,7 +6166,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ISO",
+        "layout": [
+            "ISO"
+        ],
         "material": "PBT",
         "profile": "KAT",
         "img_url": null,
@@ -5462,7 +6182,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5476,7 +6198,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -5507,7 +6231,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT, ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -5521,22 +6247,10 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Maroon",
-        "price": 170.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "zFrontier"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -5549,7 +6263,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5563,7 +6279,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5577,7 +6295,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
         "img_url": null,
@@ -5591,7 +6311,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -5605,7 +6327,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5619,7 +6343,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5633,7 +6359,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -5647,7 +6375,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -5661,7 +6391,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -5675,7 +6407,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5689,7 +6423,9 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -5703,7 +6439,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -5717,7 +6455,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KAT",
         "img_url": null,
@@ -5748,7 +6488,9 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KAT",
         "img_url": null,
@@ -5762,7 +6504,9 @@
             "Epomaker"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5776,7 +6520,9 @@
             "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5790,7 +6536,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5814,20 +6562,6 @@
         "availability": true
     },
     {
-        "name": "Divinikey Swagkeys Very Peri",
-        "price": 65.0,
-        "manufacturer": "Divinikey",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "Diykeycap Pink purple",
         "price": 19.0,
         "manufacturer": "Diykeycap",
@@ -5835,9 +6569,27 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Divinikey Swagkeys Very Peri",
+        "price": 65.0,
+        "manufacturer": "Divinikey",
+        "vendor": [
+            "Divinikey"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -5849,7 +6601,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "DSA",
         "img_url": null,
@@ -5863,21 +6617,9 @@
             "WhatGeek"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Soulcat Russian Side Printed",
-        "price": 38.0,
-        "manufacturer": "Soulcat",
-        "vendor": [
-            "Mechkeys"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -5891,124 +6633,26 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Kono Granite",
-        "price": 99.0,
-        "manufacturer": "Kono",
-        "vendor": [
-            "Kono"
-        ],
-        "colors": [],
-        "layout": "ISO",
-        "material": "PBT",
-        "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Piifox Outer Space",
-        "price": 59.0,
-        "manufacturer": "Piifox",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Tai-Hao Love in Paris Deskmat Bundle",
-        "price": 89.0,
-        "manufacturer": "Tai-Hao",
-        "vendor": [
-            "Kono"
-        ],
-        "colors": [],
         "layout": [
-            "ISO UK",
-            "ISO",
             "ANSI"
         ],
         "material": "PBT",
-        "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "qtuo studio Blue Bunny",
-        "price": 45.0,
-        "manufacturer": "qtuo studio",
-        "vendor": [
-            "Dangkeebs"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "GMK Blurple",
-        "price": 155.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "G-mky GY Toxic Contrast",
-        "price": 29.0,
-        "manufacturer": "G-mky",
+        "name": "Soulcat Russian Side Printed",
+        "price": 38.0,
+        "manufacturer": "Soulcat",
         "vendor": [
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Diykeycap Pony",
-        "price": 28.0,
-        "manufacturer": "Diykeycap",
-        "vendor": [
-            "Diykeycap"
+        "layout": [
+            "ANSI"
         ],
-        "colors": [],
-        "layout": "ANSI",
         "material": "PBT",
-        "profile": "OEM",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "JTK Avocado",
-        "price": 50.0,
-        "manufacturer": "JTK",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -6031,6 +6675,136 @@
         "availability": true
     },
     {
+        "name": "qtuo studio Blue Bunny",
+        "price": 45.0,
+        "manufacturer": "qtuo studio",
+        "vendor": [
+            "Dangkeebs"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Piifox Outer Space",
+        "price": 59.0,
+        "manufacturer": "Piifox",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Kono Granite",
+        "price": 99.0,
+        "manufacturer": "Kono",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ISO"
+        ],
+        "material": "PBT",
+        "profile": "SA",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Tai-Hao Love in Paris Deskmat Bundle",
+        "price": 89.0,
+        "manufacturer": "Tai-Hao",
+        "vendor": [
+            "Kono"
+        ],
+        "colors": [],
+        "layout": [
+            "ISO UK",
+            "ISO",
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "GMK Blurple",
+        "price": 155.0,
+        "manufacturer": "GMK",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "G-mky GY Toxic Contrast",
+        "price": 29.0,
+        "manufacturer": "G-mky",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Diykeycap Pony",
+        "price": 28.0,
+        "manufacturer": "Diykeycap",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "OEM",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "JTK Avocado",
+        "price": 50.0,
+        "manufacturer": "JTK",
+        "vendor": [
+            "zFrontier"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
         "name": "Keyreative Floofy Boi",
         "price": 99.0,
         "manufacturer": "Keyreative",
@@ -6038,7 +6812,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "KAT",
         "img_url": null,
@@ -6052,7 +6828,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -6066,7 +6844,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -6097,7 +6877,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -6111,7 +6893,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "SA",
         "img_url": null,
@@ -6125,8 +6909,26 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Yunzii Planets",
+        "price": 45.0,
+        "manufacturer": "Yunzii",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
@@ -6149,14 +6951,16 @@
         "availability": true
     },
     {
-        "name": "Yunzii Planets",
-        "price": 45.0,
-        "manufacturer": "Yunzii",
+        "name": "PBTfans Bank Account",
+        "price": 100.0,
+        "manufacturer": "PBTfans",
         "vendor": [
-            "Mechkeys"
+            "Divinikey"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -6170,7 +6974,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -6184,7 +6990,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "XDA",
         "img_url": null,
@@ -6198,7 +7006,9 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "SA",
         "img_url": null,
@@ -6212,7 +7022,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
         "img_url": null,
@@ -6226,7 +7038,41 @@
             "Diykeycap"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "KBDFans Bow All White",
+        "price": 95.0,
+        "manufacturer": "KBDFans",
+        "vendor": [
+            "Mechkeys"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
+        "material": "PBT",
+        "profile": "Cherry",
+        "img_url": null,
+        "availability": true
+    },
+    {
+        "name": "Joorkey Egypt",
+        "price": 81.0,
+        "manufacturer": "Joorkey",
+        "vendor": [
+            "Diykeycap"
+        ],
+        "colors": [],
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -6240,23 +7086,11 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Joorkey Egypt",
-        "price": 81.0,
-        "manufacturer": "Joorkey",
-        "vendor": [
-            "Diykeycap"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -6268,7 +7102,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "Cherry",
         "img_url": null,
@@ -6282,7 +7118,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -6296,7 +7134,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -6310,23 +7150,11 @@
             "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "KBDFans Bow All White",
-        "price": 95.0,
-        "manufacturer": "KBDFans",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
@@ -6348,20 +7176,6 @@
         "availability": true
     },
     {
-        "name": "PBTfans Bank Account",
-        "price": 100.0,
-        "manufacturer": "PBTfans",
-        "vendor": [
-            "Divinikey"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "Cherry",
-        "img_url": null,
-        "availability": true
-    },
-    {
         "name": "GMK Cinder",
         "price": 168.0,
         "manufacturer": "GMK",
@@ -6369,7 +7183,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -6383,7 +7199,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -6397,7 +7215,9 @@
             "Dangkeebs"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "Cherry",
         "img_url": null,
@@ -6411,7 +7231,9 @@
             "zFrontier"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
@@ -6425,7 +7247,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "OSA",
         "img_url": null,
@@ -6439,7 +7263,9 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
         "profile": "SA",
         "img_url": null,
@@ -6453,23 +7279,11 @@
             "Apos"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "SA",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "Keytok CTRL Translucidus",
-        "price": 95.0,
-        "manufacturer": "Keytok",
-        "vendor": [
-            "Mechkeys"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "PBT",
-        "profile": "OEM",
         "img_url": null,
         "availability": true
     },
@@ -6481,23 +7295,27 @@
             "Nuphy"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "Unknown",
         "profile": "NSA",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "KDS Deku",
-        "price": 94.0,
-        "manufacturer": "KDS",
+        "name": "Keytok CTRL Translucidus",
+        "price": 95.0,
+        "manufacturer": "Keytok",
         "vendor": [
-            "Kono"
+            "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
-        "profile": "Cherry",
+        "profile": "OEM",
         "img_url": null,
         "availability": true
     },
@@ -6509,36 +7327,26 @@
             "Mechkeys"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
     },
     {
-        "name": "Keyreative Slurp for Specific Users Only",
-        "price": 25.0,
-        "manufacturer": "Keyreative",
+        "name": "KDS Deku",
+        "price": 94.0,
+        "manufacturer": "KDS",
         "vendor": [
-            "zFrontier"
+            "Kono"
         ],
         "colors": [],
-        "layout": "ANSI",
+        "layout": [
+            "ANSI"
+        ],
         "material": "PBT",
-        "profile": "KAT",
-        "img_url": null,
-        "availability": true
-    },
-    {
-        "name": "GMK Jam\u00f3n 2",
-        "price": 145.0,
-        "manufacturer": "GMK",
-        "vendor": [
-            "zFrontier"
-        ],
-        "colors": [],
-        "layout": "ANSI",
-        "material": "ABS",
         "profile": "Cherry",
         "img_url": null,
         "availability": true
