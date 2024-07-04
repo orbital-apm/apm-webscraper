@@ -25,16 +25,19 @@ with sync_playwright() as p:
             name = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                                 div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > \
                                                 article:nth-child({article}) > div.flex.flex-wrap.items-center.justify-between.mt-1.mb-1\.5 > \
-                                                a.font-h4.text-h4.text-gray-900.dark\:text-gray-100.p-1.text-left.cursor-pointer.webkit-box.overflow-hidden.no-underline.line-clamp-2').inner_text() # type: ignore
+                                                a.font-h4.text-h4.text-gray-900.dark\:text-gray-100.p-1.text-left.cursor-pointer.webkit-box.overflow-hidden.no-underline.line-clamp-2').inner_text()  # type: ignore
             
             price = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
                                                 div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > \
-                                                div.absolute.right-1\.5.bottom-1\.5.flex.justify-end.bg-black.bg-opacity-70.p-1\.5.px-2.rounded.text-center.z-10.text-gray-100.font-medium').inner_text() # type: ignore
+                                                div.absolute.right-1\.5.bottom-1\.5.flex.justify-end.bg-black.bg-opacity-70.p-1\.5.px-2.rounded.text-center.z-10.text-gray-100.font-medium').inner_text()  # type: ignore
             
             link = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                                 div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
                                                 div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > a').get_attribute('href') # type: ignore
-
+            
+            img_url = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > \
+                                                   article:nth-child({article}) > div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > a > img').get_attribute("srcset")  # type: ignore
+            
             try:
                 stock = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
                                                     div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > div.absolute.inset-0.bg-black.bg-opacity-30.z-10.pointer-events-none > div > div').inner_text() # type: ignore      
@@ -55,20 +58,29 @@ with sync_playwright() as p:
             except AttributeError:
                 manufacturer = None
 
-            try:    
+            try:
                 layout_size = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
-                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(5) > div.flex > div').inner_text().split(' ')[0] # type: ignore
-            
+                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(5) > div.flex > div').inner_text() # type: ignore
+                if layout_size == "Unknown":
+                    layout_size = None
+                elif "," in layout_size[:-12]:
+                    layout_size = layout_size[-12].split(', ')
+                else:
+                    layout_size = [layout_size[:-12]]
+
             except AttributeError:
                 layout_size = None
 
-            try:    
+            try:
                 layout_standard = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
-                                                          div:nth-child(1) > div:nth-child(2) > div:nth-child(6) > div.flex > div').inner_text() # type: ignore
+                                                          div:nth-child(1) > div:nth-child(2) > div:nth-child(6) > div.flex > div').inner_text()  # type: ignore
                 layout_standard = layout_standard[:-7]
+
                 if "," in layout_standard:
-                    layout_standard = layout_standard.split(", ")          
-            
+                    layout_standard = layout_standard.split(", ")
+                else:
+                    layout_standard = [layout_standard]
+
             except AttributeError:
                 layout_standard = None
 
@@ -141,12 +153,17 @@ with sync_playwright() as p:
             try:
                 mount_style = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
                                                      div:nth-child(1) > div:nth-child(2) > div:nth-child(13) > div.flex > div').inner_text()  # type: ignore
+                if mount_style == "Unknown":
+                    mount_style = None
+                else:
+                    pass
+            
             except AttributeError:
                 mount_style = None
 
             try:
                 material = details.query_selector('body > div.flex.flex-col.gap-4 > section:nth-child(1) > div > div.col-span-12.md\:col-span-5.md\:order-2.order-3 > \
-                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(14) > div.flex > div').inner_text() # type: ignore
+                                                     div:nth-child(1) > div:nth-child(2) > div:nth-child(14) > div.flex > div').inner_text()[:-5] # type: ignore
             except AttributeError:
                 material = None
 
@@ -170,7 +187,7 @@ with sync_playwright() as p:
                 "connection": connection,
                 "mount_style": mount_style,
                 "material": material,
-                "img_url": None,
+                "img_url": img_url,
                 "availability": availability
             })
 

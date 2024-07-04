@@ -34,6 +34,9 @@ with sync_playwright() as p:
             link = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > \
                                                 div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
                                                 div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > a').get_attribute('href') # type: ignore
+            
+            img_url = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > \
+                                                   article:nth-child({article}) > div.aspect-\[1\/1\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > a > img').get_attribute("srcset")  # type: ignore
 
             try:
                 stock = listings_page.query_selector(f'body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.grid.gap-4.grid-cols-2.xs\:grid-cols-2.sd\:grid-cols-3.lg\:grid-cols-4 > article:nth-child({article}) > \
@@ -65,6 +68,8 @@ with sync_playwright() as p:
                                                          div:nth-child(1) > div:nth-child(2) > div:nth-child(4) > div.flex > div').inner_text() # type: ignore
                 if actuation_force == "-":
                     actuation_force = None
+                else:
+                    actuation_force = float(actuation_force[:-1])
                 
             except AttributeError:
                 actuation_force = None
@@ -74,6 +79,8 @@ with sync_playwright() as p:
                                                          div:nth-child(1) > div:nth-child(2) > div:nth-child(6) > div.flex > div').inner_text() # type: ignore
                 if travel_distance == "-":
                     travel_distance = None
+                else:
+                    travel_distance = float(travel_distance[:-2])
 
             except AttributeError:
                 travel_distance = None
@@ -91,7 +98,7 @@ with sync_playwright() as p:
                 "actuation_force": actuation_force,
                 "travel_distance": travel_distance,
                 "vendor": vendors,
-                "img_url": None,
+                "img_url": img_url,
                 "availability": availability
             })
 
