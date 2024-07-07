@@ -12,7 +12,7 @@ with sync_playwright() as p:
     data = []
     pages = int(listings_page.query_selector("body > div.flex.flex-wrap.justify-center > div.max-w-lg.w-full.px-4.my-2.z-0 > div.MuiBox-root.mui-0 > nav > ul > li:nth-child(3) > a").inner_text()) # type: ignore
     
-    for pagination in range(1, pages + 1):
+    for pagination in range(1, pages, 1):
         listings_page.goto(f"{LUBRICATION_LISTINGS_URL}?page={pagination}")
         
         articles = listings_page.query_selector_all("article")
@@ -24,6 +24,9 @@ with sync_playwright() as p:
 
             if price == "Out of stock":
                 price = None
+            
+            else:
+                price = float(price[1:])
 
             try:
                 stock_element = article.query_selector('div.aspect-\\[1\\/1\\].relative.w-full.overflow-hidden.rounded-lg.bg-gray-200.undefined > div.absolute.inset-0.bg-black.bg-opacity-30.z-10.pointer-events-none > div > div')

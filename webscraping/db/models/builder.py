@@ -26,7 +26,7 @@ class Switch(Base):  # type: ignore
     vendor: Mapped[list[str]] = mapped_column(ARRAY(String), unique=False, 
                                               nullable=True)
     img_url: Mapped[str] = mapped_column(unique=False, nullable=True)
-    availability: Mapped[str] = mapped_column(unique=False, nullable=True)
+    availability: Mapped[bool] = mapped_column(unique=False, nullable=True)
 
 
 # Keyboard Keycaps Table
